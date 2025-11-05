@@ -129,17 +129,20 @@ You need:
 - Basic onboarding flow
 
 **Cohort Structure MVP:**
-- 4 weeks, 1 session per week (90 minutes each)
+- 4 weeks, 2 sessions per week (8 sessions total, 90 minutes each)
+- Meeting cadence: Tuesday/Thursday (or similar) to maintain momentum
 - Virtual via Zoom
 - 10-15 participants (pilot size)
-- Homework: Interact with agents between sessions
-- Peer community: Slack or WhatsApp group
+- Between sessions: Participants work on venture with agent support (deliverables & next steps)
+- Peer community: Slack or WhatsApp group for async support
 
-**Curriculum MVP:**
-- Week 1: Idea exploration and problem validation
-- Week 2: Customer discovery and research
-- Week 3: Solution design and MVP scoping
-- Week 4: Next steps and ongoing support
+**Cohort Experience Flow:**
+- Week 1 (Sessions 1-2): Orientation, methodology introduction, initial stage assessment, first action cycles
+- Week 2 (Sessions 3-4): Progress sharing, artifact-based feedback, peer learning, continued venture work
+- Week 3 (Sessions 5-6): Deeper methodology application, specialized agent support, problem-solving, action refinement
+- Week 4 (Sessions 7-8): Celebrating progress, addressing barriers, planning post-cohort continuation, community building
+
+**Note:** Participants work at their own stage (not lockstep topics). Agents meet them where they are.
 
 ---
 
@@ -387,19 +390,19 @@ This aligns with:
 
 **Your Focus (PM/PI):**
 - [ ] Internal testing of agents (role-play as participant)
-- [ ] Review cohort experience design with full team
+- [ ] Review entrepreneurship methodology & schedule with full team
 - [ ] Finalize participant list (confirm attendance)
-- [ ] Send pre-cohort orientation materials
-- [ ] Confirm all logistics (Zoom, Slack, materials)
 - [ ] Create contingency plans (tech failures, low attendance)
 
 **Education Specialist Focus:**
 - [ ] Conduct dry-run facilitation (with team as participants)
-- [ ] Refine cohort experience based on dry-run
+- [ ] Refine entrepreneurship methodology & schedule based on dry-run
 - [ ] Prepare facilitation materials (based on methodology)
 - [ ] Test methodology artifacts and agent interaction flows
 - [ ] Create participant welcome packet
 - [ ] Set up peer community space
+- [ ] Send pre-cohort orientation materials
+- [ ] Confirm all logistics (Zoom, Slack, materials)
 
 **AI Engineer Focus:**
 - [ ] Refine agent prompts based on internal testing
@@ -419,21 +422,41 @@ This aligns with:
 ---
 
 ### Weeks 7-8: Pilot Launch
-**Goal:** Run first 2 weeks of cohort, collect feedback, document learnings
+**Goal:** Run first 2 weeks of cohort (8 sessions total - 2x/week), collect feedback, document learnings
 
-**Week 7 (Cohort Week 1):**
-- [ ] Session 1: Idea exploration and problem validation
-- [ ] Participant business work: Validate problem/customer with agent support (weekly management reports)
-- [ ] Collect post-session feedback
+**Meeting Cadence:** 2x per week (e.g., Tuesday/Thursday) to maintain momentum
+
+**Week 7 (Cohort Week 1 - Sessions 1 & 2):**
+- [ ] **Session 1 (Tuesday):** Cohort kickoff & orientation
+  - How this works: Different stages, action-focused, AI-central
+  - Introduce agents and how to leverage them together
+  - Introduce key artifacts: Weekly management reports, project reviews
+  - Establish peer support culture (questions, respectful sharing → action)
+- [ ] **Session 2 (Thursday):** First action cycle
+  - Participants share: Where am I in my venture? What have I done?
+  - Chief of Staff helps identify current stage & next actions
+  - Peer feedback focused on helping toward action
+  - Commit to deliverables & next steps before next session
+- [ ] Participants work with agents between sessions (Tier 1: individual support)
+- [ ] Collect post-session feedback after each session
 - [ ] Team debrief (what worked, what didn't)
 - [ ] Quick iterations if needed
 
-**Week 8 (Cohort Week 2):**
-- [ ] Session 2: Customer discovery and research
-- [ ] Participant business work: Continue validation with agent support (project reviews)
-- [ ] Collect post-session feedback
+**Week 8 (Cohort Week 2 - Sessions 3 & 4):**
+- [ ] **Session 3 (Tuesday):** Progress sharing & problem-solving
+  - Participants share artifacts (management reports, progress)
+  - Facilitator-led socratic discussion on methodology application
+  - Peer learning: What's working? What barriers are common?
+  - Cohort agents (if implemented) help identify cross-participant patterns
+- [ ] **Session 4 (Thursday):** Continued action cycles
+  - Deeper dive on individual challenges
+  - Project reviews: Where am I stuck? What help do I need?
+  - Specialized agent consultation (Market Discovery, Methodology Coach)
+  - Commit to deliverables & next steps
+- [ ] Participants continue venture work with agent support (meeting them where they are)
+- [ ] Collect post-session feedback after each session
 - [ ] Document all learnings
-- [ ] Begin planning Cohort 2 modifications
+- [ ] Plan reflection period and potential Cohort 2 adjustments
 
 **Your Focus (PM/PI):**
 - [ ] Attend sessions, observe
@@ -467,20 +490,28 @@ This aligns with:
 
 ---
 
-### Post-Week 8: Continuous Iteration
-**Goal:** Run concurrent cohorts with improvements
+### Post-Week 8: Reflection & Iteration Planning
+**Goal:** Complete Cohort 1, synthesize learnings, plan improvements
 
-**Concurrent Cohort Model:**
-- Cohort 1: Weeks 9-10 (finish Weeks 3-4)
-- Cohort 2: Weeks 9-10 (start Weeks 1-2 with improvements)
-- Repeat and scale
+**Weeks 9-10 (Cohort 1 Weeks 3-4):**
+- Continue pilot cohort through completion
+- Collect ongoing feedback and observations
+- Document what's working and what needs adjustment
 
-**Iteration Focus:**
-- What agents are most/least valuable?
-- What curriculum components work best?
+**Post-Cohort 1 Reflection Period:**
+- Synthesize learnings from full 4-week cohort
+- Evaluate agent effectiveness and participant outcomes
+- Identify needed improvements (agents, methodology implementation, facilitation)
+- Determine whether to add new agents or refine existing ones
+- Plan adjustments before launching Cohort 2
+
+**Key Questions to Answer:**
+- Which agents provided most/least value to participants?
+- Did the methodology translate effectively with agent support?
 - What technical issues need fixing?
 - What accessibility barriers remain?
-- How do we scale facilitation?
+- How do we scale facilitation while maintaining quality?
+- Are we ready for Cohort 2, or do we need more development time?
 
 ---
 

@@ -8,11 +8,13 @@
 
 ## Executive Overview
 
-Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to democratize access to entrepreneurial opportunity for individuals at or below 150% of the US federal poverty line. This document outlines the team structure, MVP scope, launch strategy, and roadmap to Cohort 1.
+Vibe Entrepreneurship is an AI-centered entrepreneurship hands-on program. With the highly-transferable framework the program is built on and the acceleration provided by specialized use of artificial intelligence across different entrepreneurial vectors, we look to democratize entrepreneurship. Our focus group is Rising Talent, roughly characterized as those at or below 150% of the US federal poverty line.
 
-**Core Innovation:** AI agents provide personalized entrepreneurial guidance at scale, making expert support accessible to underserved populations who traditionally lack access to quality business mentorship.
+This document outlines the team structure, MVP scope, launch strategy, and roadmap to Cohort 1.
 
-**Target Outcome:** Validate that AI agents + proven entrepreneurship methodology can help latent entrepreneurs (those with ideas but no clear path forward) make measurable progress toward viable ventures in 4 weeks.
+**Core Innovation:** AI agents provide personalized entrepreneurial guidance at scale, making expert support accessible to Rising Talent populations who traditionally lack access to quality business mentorship and domain expertise across the gamut of entrepreneurship work processes as well as operating a business once stood up.
+
+**Target Outcome:** Validate that AI agents + proven entrepreneurship methodology can help latent entrepreneurs (those with ideas but no clear path forward) in Rising Talent populations make measurable progress toward viable ventures.
 
 ---
 
@@ -48,6 +50,34 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 - Legal/Compliance: Contract for privacy policy and terms
 - Community Outreach: Partner with community organizations
 - Entrepreneurship SME: Leverage your methodology partners
+
+### Responsibility Area Descriptions
+
+**PM/PI (Matt Paxman):**
+
+- **Product strategy and vision (30%):** Define program goals, agent roadmap, and strategic direction; ensure alignment with democratization mission
+- **Operations and logistics (20%):** Manage cohort scheduling, participant communications, vendor relationships, and day-to-day program operations
+- **Partnership and outreach (20%):** Build relationships with community organizations, recruit participants, develop partnership agreements
+- **Team coordination (15%):** Facilitate team meetings, resolve blockers, ensure cross-functional alignment and communication
+- **Agent development & refinement (10%):** Review agent prompts, test agent quality, provide product feedback on agent behavior and effectiveness
+- **Budget and admin (5%):** Track expenses, manage contracts, handle administrative tasks and compliance requirements
+
+**Methodology & Cohort Facilitator (Agueda Schwartz):**
+
+- **Methodology research & aggregation (30%):** Extract entrepreneurship methodology from 500+ partner documents/videos; synthesize into teachable frameworks
+- **Cohort facilitation (30%):** Lead 8 group sessions (2x/week), guide discussions, provide real-time support, create psychologically safe learning environment
+- **Operations & logistics (15%):** Coordinate session logistics, manage participant engagement, track attendance and deliverables
+- **Research and evaluation (15%):** Design feedback instruments, analyze participant progress data, assess methodology effectiveness
+- **Iteration (5%):** Identify improvements based on cohort learnings, refine facilitation approach between sessions
+- **Documentation (5%):** Create facilitation guides, document best practices, capture lessons learned for future cohorts
+
+**AI/Software Engineer (Brendan Veranth - 50% time):**
+
+- **AI agent implementation (50% of their time):** Build and deploy 6 agents (Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction), implement two-tier architecture, design agent orchestration and routing logic
+- **Web portal development (30% of their time):** Create user authentication, chat interface, conversation history, mobile-responsive design, onboarding flow
+- **Infrastructure/DevOps (10% of their time):** Set up hosting, databases, CI/CD pipelines, monitoring, backups, security measures
+- **Documentation (5% of their time):** Write technical documentation, API docs, deployment guides, troubleshooting procedures
+- **Support (5% of their time):** Debug technical issues during pilot, provide participant tech support, fix bugs as they arise
 
 ---
 
@@ -220,9 +250,11 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 ---
 
-## 2-Month Sprint Plan (Detailed)
+## Development Timeline to First Cohort
 
-### Weeks 1-2: Foundation & Planning
+**Note on Timing:** The week estimates below are for planning purposes, but we recognize development speed is uncertain. Each section may flex 1.5-2x depending on our actual sprint velocity. We'll track productivity and adjust timelines accordingly - the goal is readiness for mid-January cohort (target), not hitting arbitrary week numbers.
+
+### Solution Development Section 1: Foundation & Planning (Est. Weeks 1-2)
 **Goal:** Align team, define MVP, secure partner, start recruitment
 
 **Your Focus (PM/PI):**
@@ -256,14 +288,14 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 ---
 
-### Weeks 3-4: Build MVP
+### Solution Development Section 2: Build MVP (Est. Weeks 3-4)
 **Goal:** Implement core components, prepare for testing
 
 **Your Focus (PM/PI):**
 - [ ] Finalize partnership agreement with community org
 - [ ] Active participant recruitment (target 15-20 to get 10-15)
 - [ ] Create participant onboarding materials
-- [ ] Coordinate with education specialist on cohort experience design
+- [ ] Coordinate with Methodology & Cohort Facilitator on cohort experience design
 - [ ] Review agent builds from engineer
 - [ ] Finalize agents (co-development with engineer, prompt refinement)
 
@@ -277,16 +309,19 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 - [ ] Define participant work expectations (business creation activities between sessions)
 
 **AI Engineer Focus:**
-- [ ] Implement 3 core agents (Chief of Staff, Market Discovery, Methodology Coach)
+- [ ] Implement 6 agents across Tier 1 and Tier 2:
+  - **Tier 1:** Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction
+  - **Tier 2:** Cohort Facilitator Agent
+- [ ] Build two-tier agent architecture (individual + cohort agents)
 - [ ] Build web portal with authentication
-- [ ] Create chat interface for agent interactions
+- [ ] Create chat interface for agent interactions with inline agent switching
 - [ ] Set up database for conversation history
 - [ ] Deploy to hosting platform
 - [ ] Mobile-responsive design
 - [ ] Basic testing and debugging
 
 **Deliverables:**
-- 3 functional AI agents
+- 6 functional AI agents (5 Tier 1 + 1 Tier 2)
 - Working web portal (MVP)
 - Complete Week 1-4 curriculum
 - Facilitator guide ready
@@ -295,7 +330,7 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 ---
 
-### Weeks 5-6: Test & Iterate
+### Solution Development Section 3: Test & Iterate (Est. Weeks 5-6)
 **Goal:** Internal validation, refinement, final prep
 
 **Your Focus (PM/PI):**
@@ -331,7 +366,7 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 ---
 
-### Weeks 7-8: Pilot Launch
+### Solution Development Section 4: Pilot Launch (Est. Weeks 7-8)
 **Goal:** Run first 2 weeks of cohort (8 sessions total - 2x/week), collect feedback, document learnings
 
 **Meeting Cadence:** 2x per week (e.g., Tuesday/Thursday) to maintain momentum
@@ -371,7 +406,7 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 **Your Focus (PM/PI):**
 - [ ] Attend sessions, observe
 - [ ] Collect feedback from participants
-- [ ] Support education specialist
+- [ ] Support Methodology & Cohort Facilitator
 - [ ] Troubleshoot any issues
 - [ ] Document what's working and what's not
 - [ ] Begin recruiting for Cohort 2
@@ -486,7 +521,7 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 ### Hypothesis Validation (Core Mission):
 
-**Hypothesis 1: Latent entrepreneurs exist in poor populations**
+**Hypothesis 1: Latent entrepreneurs exist in Rising Talent populations**
 - [ ] 70%+ participants developed viable business concepts
 - [ ] 70%+ participants demonstrated entrepreneurial capacity (action, problem-solving, persistence)
 - [ ] Qualitative evidence: Barriers were external (resources) not internal (capability)
@@ -611,68 +646,92 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 **Note:** The 7 critical decisions above are resolved. These additional decisions are important but can be addressed during Phase 1 (Foundation):
 
-### 8. Phase 1 Start Date
-**Question:** When will the team begin Phase 1 (materials triage and methodology extraction)?
-**Why It Matters:** Sets timeline expectations for all downstream phases
-**Recommendation:** Confirm with Methodology & Cohort Facilitator availability this week
+### 8. Materials Triage & Methodology Extraction ✅
+**Status:** STARTED (Week of Nov 1, 2025)
+**Who:** Agueda Schwartz (Methodology & Cohort Facilitator)
+**Timeline:** Ongoing throughout development cycle
+**Next Steps:** Synthesize initial frameworks from 500+ partner documents/videos
 
-### 9. Team Member Identification
-**Question:** Are the Methodology & Cohort Facilitator and AI Engineer (50%) roles filled with specific people?
-**Why It Matters:** Need to onboard them to project structure and assign first tasks
-**Action Needed:** If not yet hired/contracted, prioritize this immediately
+### 9. Team Member Identification ✅
+**Status:** CONFIRMED
+**Team:**
+- **PM/PI:** Matt Paxman
+- **Methodology & Cohort Facilitator:** Agueda Schwartz
+- **AI/Software Engineer (50%):** Brendan Veranth
 
 ### 10. Technology Stack Final Decision
-**Question:** Which specific technologies for the portal? (e.g., OpenAI vs Anthropic, React vs Next.js, etc.)
-**Who Decides:** AI Engineer (with PM input on cost/vendor considerations)
-**Timing:** Week 1-2 of development phase
+**LLM Provider:** Open to Anthropic (Claude) or OpenAI (GPT-4) - team has strong preference for Claude
+**Who Decides:** Brendan Veranth (AI Engineer) with Matt Paxman input on cost/vendor considerations
+**Timing:** Solution Development Section 1 (Est. Weeks 1-2)
+**Other Stack Decisions:** Portal framework, database, hosting (to be determined by Brendan)
 
-### 11. Success Metrics for Phase 1
-**Question:** How will you know Phase 1 (Foundation) is complete and you're ready for Phase 2?
-**Recommendation:** Use gate criteria from WORKFLOW-ROADMAP.md
-**Owner:** PM to validate with Methodology & Cohort Facilitator
+### 11. Phase Terminology Clarification
+**Note:** To avoid confusion, we use TWO different "phase" concepts:
 
-### 12. Pilot Cohort Timeline
-**Question:** Since we moved away from rigid 8-week timeline, what's the target range for pilot cohort launch?
-**Consideration:** Depends on Phase 1-4 velocity (unknown until triage complete)
-**Recommendation:** Estimate 3-6 months from Phase 1 start, adjust as velocity becomes clear
+**Capability Phases (how AI vs human facilitates):**
+- **Phase 1 (Cohort 1 scope):** Human facilitators + AI agents working side-by-side
+- **Phase 2 (Future vision):** More agentified facilitation (Cohort Facilitator Agent takes on more)
+- **Phase 3 (Long-term vision):** Synthetic cohorts (AI-generated peer dynamics at scale)
+
+**Cohort Numbers:** Cohort 1, Cohort 2, Cohort 3, etc. (sequential pilot runs)
+
+These are independent - Cohort 1, 2, 3 can all be Phase 1 capability level.
+
+### 12. Pilot Cohort Timeline ✅
+**Target:** Mid-January 2025 cohort launch (flexible based on readiness)
+**Timeline from Now (Nov 5):** ~10 weeks development time
+**Flexible Development Sections:** Each may stretch 1.5-2x based on actual sprint velocity
+**Decision Point:** 6 weeks in, assess if mid-Jan is realistic or push to late January
 
 ### 13. Data Privacy & Consent
-**Question:** How will participant data (conversations with agents) be stored, used, and protected?
-**Why Critical:** Underserved populations may have trust concerns, IRB considerations if research
-**Action Needed:** Draft privacy policy and informed consent (can contract legal help)
-**Timing:** Before pilot cohort recruitment begins
+**Decision:** YES, create "share with us, we're learning" participant agreement
+**Action Needed:** Draft informed consent document in collaboration with legal team
+**Covers:** Data usage, conversation storage, learning/research purposes, participant rights
+**Timing:** Must be ready before cohort recruitment begins
+**Owner:** Matt Paxman (coordinate with legal)
 
 ### 14. Technology Access Support
-**Question:** If providing laptops/subscriptions, what's the logistics plan?
-**Details:** How many devices? Purchase or loan? Internet hotspots? Tech support?
-**Timing:** Determine before cohort recruitment (affects budget and participant communications)
+**Decision:** Need to determine tech participant requirements and cohort cost model
+**Questions to Answer:**
+- How many participants likely need loaner laptops? (coordinate with community partner vetting)
+- Loaner laptop logistics: Purchase vs. loan? Insurance for damage/loss?
+- Internet access: Hotspots needed? Community center access alternative?
+- Cost per cohort: Budget for equipment, replacement, support time
+**Mitigation for Equipment Risk:** Distribute cost across cohorts (loaner pool), deposit/agreement for equipment return
+**Timing:** Determine before recruitment (affects budget planning)
+**Owner:** Matt Paxman
 
 ---
 
 ## Risk Assessment
 
-### 🔴 HIGH RISK: Timeline Aggressive
-**Risk:** 8 weeks to first cohort is VERY fast
+### 🔴 HIGH RISK: Timeline Ambitious
+**Risk:** 10-12 weeks to mid-January cohort is fast (though more realistic than original 8 weeks)
 **Mitigation:**
-- Lock scope aggressively (no scope creep!)
-- Bring in contractors if engineer is overloaded
-- Be transparent with participants that it's a pilot
-- Have Plan B (delay by 2 weeks if needed)
+- Flexible development sections (can stretch 1.5-2x based on sprint velocity)
+- Lock scope aggressively (6 agents, no scope creep!)
+- Decision point at 6 weeks: assess mid-Jan vs late-Jan target
+- Bring in contractors if Brendan is overloaded
+- Be transparent with participants that it's a pilot/learning cohort
+- Track sprint velocity weekly, adjust timeline proactively
 
 ### 🟡 MEDIUM RISK: Community Partner Dependency
 **Risk:** Without trusted partner, recruitment will be very difficult
 **Mitigation:**
-- Prioritize this relationship immediately
+- Prioritize this relationship immediately (Matt's focus)
 - Have backup partners identified
 - Consider starting with personal networks if needed
+- Partner vetting for digital literacy reduces tech support burden
 
-### 🟡 MEDIUM RISK: Technology Adoption by Target Demographic
-**Risk:** Low digital literacy may mean participants struggle with agents
+### 🟡 MEDIUM RISK: Technology Adoption by Rising Talent Populations
+**Risk:** Lower digital literacy may mean participants struggle with agents
 **Mitigation:**
-- Human facilitation is critical safety net
-- Extensive onboarding support
-- Mobile-first design
-- Partner with community center for tech access
+- **Community organization vetting:** Partner screens for baseline digital literacy (email, web browsing, typing)
+- **Human facilitation:** Agueda + Matt available during business hours (Eastern + Mountain time zones)
+- **Support channels:** Discord/Slack/WeChat options for real-time help
+- **Guided mode:** Portal toggle for simplified UI with extra hand-holding
+- **Session support:** Both facilitators on-call during 2x/week group sessions
+- **Realistic expectations:** Communicate upfront that basic computer skills required
 
 ### 🟢 LOW RISK: Agent Quality
 **Risk:** Agents may not be as helpful as hoped
@@ -688,7 +747,7 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 
 **Strengths:**
 - Detailed agent specifications (foundation is solid)
-- Complementary team skills (PM, Education, AI/Engineering)
+- Complementary team skills (PM, Research & Facilitation, AI/Engineering)
 - Clear target demographic with real need
 - Fast-iteration mindset (the right approach!)
 - Partnership potential with community orgs
@@ -708,3 +767,164 @@ Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to 
 You can do this. The foundation is strong. Now it's about execution and learning.
 
 ---
+
+## Appendix A: 8-Week Cohort Program Format
+
+**Alternative Cohort Structure:** If we extend from 4-week to 8-week cohort format
+
+**Meeting Cadence:** Still 2x per week (Tuesday/Thursday)
+**Total Sessions:** 16 sessions (vs. 8 sessions in 4-week format)
+**Session Length:** 90 minutes each
+
+### 8-Week Program Structure
+
+**Weeks 1-2: Foundation & Discovery (4 sessions)**
+- Session 1: Program orientation, introduce AI agents, initial business idea exploration
+- Session 2: Customer discovery fundamentals, identify target customers
+- Session 3: Problem validation, design customer interview approach
+- Session 4: Share customer interview insights, refine problem understanding
+
+**Weeks 3-4: Validation & Model Design (4 sessions)**
+- Session 5: Business model canvas introduction, value proposition design
+- Session 6: Revenue model exploration (JTBD pricing framework)
+- Session 7: Market sizing and opportunity assessment
+- Session 8: Solution design (what to build/offer)
+
+**Weeks 5-6: Execution Planning (4 sessions)**
+- Session 9: Go-to-market strategy, customer acquisition channels
+- Session 10: MVP scoping (minimum viable product/service)
+- Session 11: Operational planning (what it takes to deliver)
+- Session 12: Financial planning (basic unit economics)
+
+**Weeks 7-8: Launch Preparation & Pitch (4 sessions)**
+- Session 13: Launch planning, first customer strategy
+- Session 14: Pivot/persevere decisions, iteration based on learning
+- Session 15: Pitch practice, articulate value proposition
+- Session 16: Cohort celebration, next steps, ongoing support
+
+### Advantages of 8-Week Format
+- **More time for validation:** Participants can conduct 2-3 rounds of customer interviews
+- **Deeper methodology learning:** More time to absorb and apply frameworks
+- **Stronger peer relationships:** 16 touchpoints build community
+- **Reduced pressure:** Less intense pace, more sustainable for participants juggling other commitments
+- **More agent interaction time:** 8 weeks of between-session work with AI agents
+
+### Disadvantages of 8-Week Format
+- **Longer commitment:** Harder to recruit participants for 8 weeks vs. 4 weeks
+- **Momentum risk:** Longer timeframe may reduce intensity and urgency
+- **Higher attrition:** More opportunity for participants to drop out
+- **Delayed learning:** Takes 2x as long to complete first cohort and iterate
+
+### Recommendation
+- **Cohort 1 (MVP):** Start with 4-week format (8 sessions) to validate core model faster
+- **Cohort 2+:** Consider 8-week format if participant feedback indicates need for more time
+- **Let data decide:** Track completion rates, progression scores, participant feedback to determine optimal format
+
+---
+
+
+## Appendix B: Complete Agent Ecosystem (26 Agents)
+
+**Note:** Cohort 1 MVP includes 6 agents (marked with ✅). The remaining 20 agents are deferred to future cohorts based on validated need.
+
+### Strategic & Foundation Agents (5)
+
+**00. Chief of Staff** ✅ - "The Conductor"
+Central coordinator who maintains holistic context, routes to specialists, guides daily/weekly briefings, and helps create management reports and project reviews.
+
+**01. Vision & Alignment** - "The North Star Keeper"
+Helps entrepreneurs clarify personal values, define authentic vision, maintain purpose alignment, and ensure business decisions match core beliefs and long-term goals.
+
+**02. Business Archetype & Capital Strategy** - "The Model Matcher"
+Identifies which business archetype fits the venture (lifestyle, high-growth startup, social enterprise, etc.) and aligns capital strategy, growth expectations, and operational model accordingly.
+
+**03. Founder & Team Readiness** - "The Foundation Builder"
+Assesses founder readiness, supports co-founder dynamics, guides equity splits, hiring decisions, team culture development, and organizational capability building.
+
+**25. Strategic Conviction Keeper** ✅ - "The Compass"
+Distinguishes core strategic convictions (persist) from tactical experiments (adapt), prevents premature pivoting or stubborn persistence, and guides pivot vs. persevere decisions based on evidence.
+
+### Market & Customer Agents (4)
+
+**04. Market Discovery & Validation** ✅ - "The Customer Whisperer"
+Designs customer research, analyzes interview patterns, validates problem-solution fit, identifies early adopters, and prevents building what nobody wants through rigorous validation.
+
+**05. Business & Revenue Model** ✅ - "The Economic Engine Designer"
+Designs business models, applies Jobs-to-Be-Done pricing framework, models unit economics, validates monetization strategies, and ensures sustainable path to profitability.
+
+**06. Market Positioning & Differentiation** - "The Strategic Positioner"
+Defines market positioning using Obviously Awesome framework, identifies sustainable competitive advantages, crafts compelling value propositions, and prevents commoditization.
+
+**07. Brand & Storytelling** - "The Narrative Architect"
+Develops brand identity, crafts founder story, creates messaging frameworks, ensures consistent voice across touchpoints, and builds emotional connection with customers.
+
+**08. Ecosystem & Competitive Intelligence** - "The Market Navigator"
+Maps competitive landscape, identifies ecosystem players and partnerships, monitors market trends, and provides strategic intelligence for positioning decisions.
+
+### Product & Operations Agents (6)
+
+**09. Legal, Risk & Compliance** - "The Protector"
+Guides entity formation, contracts, IP protection, regulatory compliance, risk management, and legal foundations without replacing actual lawyers.
+
+**10. Product & Technology Development** - "The Builder"
+Defines MVP scope, generates code, designs technical architecture, prioritizes features, manages technical debt, and guides build vs. buy vs. outsource decisions for software products.
+
+**11. Route-to-Market & Go-to-Market** ✅ - "The Market Access Strategist"
+Designs GTM strategy, selects distribution channels, models customer acquisition economics, optimizes CAC, and builds scalable path from product to customer.
+
+**12. People, Culture & Leadership** - "The Team Architect"
+Guides hiring, onboarding, performance management, organizational design, culture development, and leadership capability building as the team scales.
+
+**13. Capital & Financing** - "The CFO"
+Tracks burn rate and runway, builds financial models, prepares for fundraising, analyzes term sheets, manages investor relations, and ensures financial sustainability.
+
+**14. Operations, Systems & Data** - "The Efficiency Engineer"
+Designs operational processes, implements tools and automation, builds data infrastructure for decision-making, optimizes workflows, and scales operations efficiently.
+
+### Growth & Scale Agents (6)
+
+**15. Customer Success & Retention** - "The Relationship Guardian"
+Designs onboarding, drives activation and engagement, reduces churn, maximizes LTV, and ensures customers achieve desired outcomes.
+
+**16. Growth & Scaling** - "The Growth Architect"
+Designs growth loops (not hacks), runs systematic experiments, optimizes acquisition/activation/retention/revenue, and builds compounding growth systems.
+
+**17. Innovation & Learning Adaptability** - "The Evolution Guide"
+Facilitates rapid learning cycles, manages innovation portfolio, guides experimentation frameworks, and helps organizations adapt to market changes.
+
+**18. Founder Longevity & Resilience** - "The Endurance Coach"
+Supports founder mental health, prevents burnout, builds resilience practices, maintains work-life integration, and ensures sustainable long-term performance.
+
+**19. Impact & Sustainability (ESG)** - "The Purpose Steward"
+Integrates social/environmental impact measurement, ensures mission alignment, guides ESG strategy, and balances profit with purpose for impact-driven ventures.
+
+**20. Exit & Legacy Planning** - "The Transition Strategist"
+Prepares for acquisition, IPO, succession, or strategic exit; builds enterprise value, positions for maximum optionality, and plans founder transition.
+
+### Methodology & Support Agents (5)
+
+**21. Methodology Coach** ✅ - "The Framework Teacher"
+Teaches entrepreneurial frameworks (Lean Startup, BMC, Customer Development, Design Thinking, JTBD) just-in-time as participants need them, building strategic thinking capacity.
+
+**22. Cognitive Loop Support** - "The Decision Catalyst"
+Recognizes whether entrepreneur is in Formation (exploring), Testing (experimenting), or Response (adapting) mode and provides context-appropriate guidance.
+
+**23. Execution Sequencer** - "The Priority Guard"
+Prevents premature optimization by enforcing "validate before building" sequence, manages dependencies, and ensures entrepreneurs tackle right problems in right order.
+
+**24. Cross-Domain Integration** - "The Systems Synthesizer"
+Connects insights across all specialist domains, identifies conflicts between functional areas, ensures strategic coherence, and maintains holistic perspective.
+
+### Tier 2: Cohort-Level Agent (1)
+
+**Cohort Facilitator Agent** ✅ - "The Group Guide"
+Synthesizes across all participants' projects, helps human facilitators prepare sessions, identifies peer learning opportunities, and enables group facilitation at scale.
+
+---
+
+**Total Agent Ecosystem:** 26 agents (6 in Cohort 1 MVP, 20 deferred to future cohorts)
+
+**Selection Principle for Future Agents:** Add agents based on demonstrated participant need from Cohort 1 data. Next likely additions: Product/Technology (if tech-heavy cohort), Capital/Financing (if participants reach fundraising stage), Customer Success (if participants launch and need retention support).
+
+---
+

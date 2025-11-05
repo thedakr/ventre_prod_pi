@@ -190,45 +190,120 @@ You need:
 
 ---
 
-## Critical Decisions Needed (This Week)
+## Critical Decisions - RESOLVED ✅
 
-### 1. Agent Selection for MVP
-**Question:** Do you agree with the 3-agent MVP (Chief of Staff, Market Discovery, Methodology Coach)?
-**Alternative:** Add Capital/Financing or Product/Tech as 4th agent?
-**Recommendation:** Start with 3, add 4th in Cohort 2 based on need
+**Date Decided:** 2025-11-04
 
-### 2. Community Partner
-**Question:** Do you have a specific community organization identified for pilot cohort?
-**Why it matters:** Critical for recruitment, trust-building, and access to target demographic
-**Action needed:** If not identified, prioritize this ASAP
+### 1. Agent Selection for MVP ✅
+**Decision:** Proceed with 3-agent MVP (Chief of Staff, Market Discovery, Methodology Coach)
+**Rationale Below:** See "Why These 3 Agents?" section for detailed reasoning
 
-### 3. Cohort Format
-**Question:** Virtual, in-person, or hybrid?
-**Recommendation:** Virtual initially (accessibility, your distributed team, lower barrier)
-**Consideration:** Partner with community center for in-person option if needed for digital access
+### 2. Community Partner ✅
+**Decision:** No partner yet identified - PM to prioritize finding one
+**Action Required:** Reach out to 2-3 community organizations within 2 weeks
+**Why Critical:** Essential for recruitment, trust-building, and access to target demographic
 
-### 4. AI Engineer Capacity
-**Question:** Can your 50% AI engineer realistically deliver 3 agents + web portal in 4 weeks (Weeks 3-4)?
-**Risk assessment:** This is aggressive. May need to:
-   - Extend timeline by 1-2 weeks, OR
-   - Simplify portal (e.g., use no-code tool like Bubble or Streamlit), OR
-   - Contract additional engineering help
+### 3. Cohort Format ✅
+**Decision:** Virtual cohort (technology access required for AI-based program)
+**Implementation:** Zoom sessions, web portal access, potential laptop/subscription provision
 
-### 5. Facilitation Lead
-**Question:** Will you or the education specialist be the primary cohort facilitator?
-**Consideration:** Education specialist seems like the natural fit, but may need your leadership presence too
+### 4. AI Engineer Capacity ✅
+**Decision:** 4-week development timeline accepted (PM to confirm feasibility with engineer)
+**Implementation:** Single portal approach (MVP-SINGLE-PORTAL-APPROACH.md) reduces scope significantly
 
-### 6. Funding Model
-**Question:** Is the program free for participants? How is it funded?
-**Why it matters:** Sustainability planning, grant writing, budget allocation
+### 5. Facilitation Lead ✅
+**Decision:** Both Education Specialist and PM will co-facilitate
+**Consideration:** Exploring whether AI Chief of Staff can partially facilitate
 
-### 7. Post-Cohort Support
-**Question:** What happens after the 4-week cohort ends?
-**Options:**
-- Ongoing access to agents (how long?)
-- Alumni community
-- Follow-on cohorts (Intermediate, Advanced)
-- Graduated support (periodic check-ins)
+### 6. Funding Model ✅
+**Decision:**
+- Free for all participants
+- PM may provide laptops/AI subscriptions if needed
+- Grant funding pathway to pursue after learning from initial cohorts
+**Timeline:** Sustainability planning deferred until post-pilot learnings
+
+### 7. Post-Cohort Support ✅
+**Decision:**
+- Ongoing access to AI agents (duration TBD based on resources)
+- Potential progression to further cohorts at different business stages
+- Long-term vision: Self-support at scale (minimal facilitation required)
+
+---
+
+## Why These 3 Agents? (Addressing Your Question)
+
+You asked: "Why do we think the 3 targeted agents really are the best?"
+
+### The Strategic Logic
+
+**Early-Stage Entrepreneurship Journey:**
+```
+Idea → Validate Problem → Validate Customer → Build Solution → Get Funding → Scale
+```
+
+**For Beginners (Underserved Populations):**
+Most critical phase: **Validate Problem + Validate Customer** (before wasting time/money building)
+
+### Agent Selection Mapped to Critical Journey Stage
+
+**1. Chief of Staff (Orchestrator)**
+- **Why Essential:** Beginners don't know where to start or what questions to ask
+- **Role:** Guides navigation, routes to right specialist, maintains context
+- **Without it:** Users get lost, don't know which agent to consult when
+- **MVP Need:** CRITICAL - the "GPS" for the journey
+
+**2. Market Discovery (Customer Validation)**
+- **Why Essential:** #1 reason startups fail = no market need (42% per CB Insights)
+- **Role:** Helps validate problem, find real customers, test assumptions before building
+- **Without it:** Participants build solutions nobody wants (waste time/resources)
+- **MVP Need:** CRITICAL - prevents biggest failure mode
+- **Underserved Population Fit:** Low-risk validation (talking to customers costs nothing)
+
+**3. Methodology Coach (Framework Teacher)**
+- **Why Essential:** Participants need to learn "how to think" about entrepreneurship
+- **Role:** Teaches frameworks just-in-time as needed, builds entrepreneurial mindset
+- **Without it:** Users learn tactics but not strategic thinking
+- **MVP Need:** CRITICAL - builds capacity for ongoing learning
+
+### Why NOT the Other Agents (For MVP)?
+
+**Product & Technology (Agent #10):**
+- **When Needed:** AFTER validating problem/customer (comes later in journey)
+- **Why Defer:** Premature to build before validation
+- **Cohort Timing:** Week 3-4 (but can be human-facilitated for MVP)
+- **Add in:** Cohort 2 or 3
+
+**Capital & Financing (Agent #13):**
+- **When Needed:** AFTER validating business model and showing traction
+- **Why Defer:** Very early-stage ideas don't need CFO-level finance yet
+- **Underserved Population Fit:** Many will bootstrap or microloan (not VC track)
+- **Add in:** Cohort 3 or 4 (for those with traction)
+
+**Strategic Conviction Keeper (Agent #25):**
+- **When Needed:** When facing pivot/persevere decisions (requires traction first)
+- **Why Defer:** Beginners haven't reached decision points yet
+- **Add in:** Cohort 3+ (for those with momentum)
+
+### The MVP Hypothesis to Test
+
+**We believe:**
+- Beginners need GUIDANCE (Chief of Staff) + VALIDATION (Market Discovery) + LEARNING (Methodology Coach)
+- These 3 agents address the highest-risk failure modes for early-stage entrepreneurs
+- Product/Tech, Finance, and Strategic decisions can be human-facilitated in MVP
+- We'll learn from Cohort 1 which agents to add next based on actual participant needs
+
+**Alternative Considered:**
+- 4 agents: Add Product & Technology (for Week 3-4 when building starts)
+- **Why 3 Instead:** Reduces dev scope, focuses on highest-risk phase, human facilitator can cover product/tech basics
+
+**Decision Validation:**
+This aligns with:
+- Lean Startup methodology (validate before building)
+- Your agent specs (Chief of Staff explicitly coordinates specialists)
+- Underserved population needs (low-cost validation activities first)
+- MVP principles (minimum scope, maximum learning)
+
+**If you disagree or see a gap, we should discuss!** This is a hypothesis to test, not doctrine.
 
 ---
 
@@ -469,16 +544,45 @@ You need:
 
 ---
 
-## Open Questions (For Team Discussion)
+## Additional Decisions to Consider
 
-1. **Agent Selection:** 3 agents (CoS, Market Discovery, Methodology Coach) or 4 (add Capital/Finance)?
-2. **Community Partner:** Who specifically? When will you reach out?
-3. **Engineer Capacity:** Is 4 weeks realistic to build 3 agents + portal?
-4. **Facilitation:** Who leads? Education specialist primary, with you supporting?
-5. **Funding:** How is this program funded? (Grants, sponsorship, institutional support?)
-6. **Post-Cohort:** What ongoing support do participants get?
-7. **Technology Access:** Will community partner provide computers/internet for participants who need it?
-8. **Measurement:** Who owns data collection and analysis? (Education specialist?)
+**Note:** The 7 critical decisions above are resolved. These additional decisions are important but can be addressed during Phase 1 (Foundation):
+
+### 8. Phase 1 Start Date
+**Question:** When will the team begin Phase 1 (materials triage and methodology extraction)?
+**Why It Matters:** Sets timeline expectations for all downstream phases
+**Recommendation:** Confirm with Education Specialist availability this week
+
+### 9. Team Member Identification
+**Question:** Are the Education Specialist and AI Engineer (50%) roles filled with specific people?
+**Why It Matters:** Need to onboard them to project structure and assign first tasks
+**Action Needed:** If not yet hired/contracted, prioritize this immediately
+
+### 10. Technology Stack Final Decision
+**Question:** Which specific technologies for the portal? (e.g., OpenAI vs Anthropic, React vs Next.js, etc.)
+**Who Decides:** AI Engineer (with PM input on cost/vendor considerations)
+**Timing:** Week 1-2 of development phase
+
+### 11. Success Metrics for Phase 1
+**Question:** How will you know Phase 1 (Foundation) is complete and you're ready for Phase 2?
+**Recommendation:** Use gate criteria from WORKFLOW-ROADMAP.md
+**Owner:** PM to validate with Education Specialist
+
+### 12. Pilot Cohort Timeline
+**Question:** Since we moved away from rigid 8-week timeline, what's the target range for pilot cohort launch?
+**Consideration:** Depends on Phase 1-4 velocity (unknown until triage complete)
+**Recommendation:** Estimate 3-6 months from Phase 1 start, adjust as velocity becomes clear
+
+### 13. Data Privacy & Consent
+**Question:** How will participant data (conversations with agents) be stored, used, and protected?
+**Why Critical:** Underserved populations may have trust concerns, IRB considerations if research
+**Action Needed:** Draft privacy policy and informed consent (can contract legal help)
+**Timing:** Before pilot cohort recruitment begins
+
+### 14. Technology Access Support
+**Question:** If providing laptops/subscriptions, what's the logistics plan?
+**Details:** How many devices? Purchase or loan? Internet hotspots? Tech support?
+**Timing:** Determine before cohort recruitment (affects budget and participant communications)
 
 ---
 

@@ -57,17 +57,19 @@ You need:
 
 **You (PM/PI):**
 - Product strategy and vision (30%)
-- Operations and logistics (30%)
+- Operations and logistics (20%)
 - Partnership and outreach (20%)
 - Team coordination (15%)
+- Agent development & refinement (10%)
 - Budget and admin (5%)
 
 **Methodology & Cohort Facilitator:**
-- Curriculum design (30%)
+- Methodology research & aggregation (30%)
 - Cohort facilitation (30%)
-- Research and evaluation (20%)
-- Documentation (10%)
-- Iteration (10%)
+- Operations & logistics (15%)
+- Research and evaluation (15%)
+- Iteration (5%)
+- Documentation (5%)
 
 **AI/Software Engineer (50%):**
 - AI agent implementation (50% of their time)
@@ -80,7 +82,6 @@ You need:
 - UX/UI Design: Contract for initial design
 - Legal/Compliance: Contract for privacy policy and terms
 - Community Outreach: Partner with community organizations
-- Equity & Inclusion: Partner with community organizations
 - Entrepreneurship SME: Leverage your methodology partners
 
 ---
@@ -106,24 +107,36 @@ You need:
 
 ### 🎯 MVP Scope Recommendation
 
-**Start SMALL:** Don't build all 26 agents for Cohort 1!
+**Start FOCUSED:** Build 5-6 strategic agents for Cohort 1 (not all ~26 agent specs)
 
 **Recommended MVP (First Cohort):**
 
-**AI Agents (3 agents only):**
-1. **Chief of Staff** - Central coordinator, guides participants
-2. **Market Discovery** - Customer research and validation (most critical for beginners)
-3. **Methodology Coach** - Teaches frameworks as participants need them
+**AI Agents (5-6 agents - specific selection pending full agent specs):**
 
-**Why these 3:**
-- Foundation phase is most critical for beginners
-- These cover the core "validate before building" journey
-- Chief of Staff coordinates, Market Discovery drives validation, Coach teaches frameworks
-- You can expand to other agents in later cohorts based on need
+**Confirmed Core:**
+1. **Chief of Staff** - Central coordinator, guides participants, routes to specialists
+2. **Market Discovery** - Customer research and validation (critical for all types)
+3. **Methodology Coach** - Teaches frameworks as participants need them (just-in-time learning)
+
+**Additional Agents (2-3 more - TBD based on participant profile):**
+- Participant data: 63% small business (retail, service, local), 30% tech startup, 29% social cause
+- Need agents that serve majority small business needs
+- Considering: Product/Service Design, Capital & Financing, Operations & Launch, Strategic Conviction
+- **Final selection pending completion of full ~26 agent specification set**
+
+**Plus:**
+4. **Cohort Facilitator Agent (Tier 2)** - Assists human facilitators with group session prep, participant progress synthesis, and pattern identification across cohort
+
+**Why this approach:**
+- Serves diverse participant needs (tech, small business, social cause)
+- Chief of Staff orchestrates, specialists provide depth
+- Cohort Facilitator helps human facilitators scale
+- Can add more agents in later cohorts based on demonstrated need
 
 **Web Portal MVP:**
 - User authentication (email/password)
-- Chat interface with 3 agents
+- Single unified chat interface (Chief of Staff orchestrates, routes to specialists seamlessly)
+- Inline agent switching (user sees which agent they're talking to, smooth handoffs)
 - Conversation history saved
 - Mobile-responsive (critical for accessibility!)
 - Basic onboarding flow
@@ -151,17 +164,22 @@ You need:
 **Critical Design Principles:**
 
 1. **Digital Access:**
-   - Mobile-first design (many don't have computers)
+   - Computer/internet access REQUIRED for AI-based virtual program
+   - Partner with community organizations to:
+     - Identify participants with baseline technology access
+     - Provide loaner laptops/internet hotspots for 4-week cohort if needed
+     - Offer on-site computer lab access as alternative
+   - Mobile-responsive design (but computer/laptop preferred for 4-week program)
    - Low bandwidth (minimal images, fast loading)
-   - Partner with community centers for computer/internet access
-   - Consider SMS alerts/reminders
 
 2. **Digital Literacy:**
-   - Extremely simple interface
-   - Human facilitation essential
-   - Step-by-step onboarding with support
-   - Patient, forgiving AI tone
-   - Clear help pathways
+   - **Baseline requirement:** Participants must have basic computer skills (email, web browsing, typing)
+   - **Recruitment strategy:** Community partners screen for minimum digital literacy (see templates/community-partner-recruitment-criteria.md)
+   - **Portal design:** "Guided mode" toggle for simplified UI with extra hand-holding
+   - **LLM literacy training:** First 10-15 minutes of Session 1 teaches effective AI prompting
+   - **Human facilitation:** Essential for tech support during group sessions (not extensive 1-on-1)
+   - **Partner support:** Community organizations offer digital literacy ramp-up for future cohorts
+   - Patient, forgiving AI tone throughout
 
 3. **Plain Language:**
    - No jargon
@@ -170,10 +188,11 @@ You need:
    - Confidence-building tone
 
 4. **Financial Constraints:**
-   - Program must be free
+   - Program must be free for all participants
    - Focus on low-capital business ideas
    - Recognize employment advancement as valid outcome (not failure!)
-   - Connect to resources (childcare, food banks)
+   - **Partner discussion:** Connect participants to community resources (childcare, food banks, emergency funds)
+   - **Technology support:** Budget for loaner laptops/internet access if participant lacks (discuss with community centers)
 
 5. **Time Constraints:**
    - Flexible scheduling (evenings/weekends)

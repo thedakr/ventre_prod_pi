@@ -665,17 +665,23 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 **Timing:** Solution Development Section 1 (Est. Weeks 1-2)
 **Other Stack Decisions:** Portal framework, database, hosting (to be determined by Brendan)
 
-### 11. Phase Terminology Clarification
-**Note:** To avoid confusion, we use TWO different "phase" concepts:
+### 11. Phase Roadmap & Terminology
+**Note:** To avoid confusion, we use TWO different concepts:
 
-**Capability Phases (how AI vs human facilitates):**
-- **Phase 1 (Cohort 1 scope):** Human facilitators + AI agents working side-by-side
-- **Phase 2 (Future vision):** More agentified facilitation (Cohort Facilitator Agent takes on more)
-- **Phase 3 (Long-term vision):** Synthetic cohorts (AI-generated peer dynamics at scale)
+**Capability Phases (evolution of AI vs human role):**
+- **Phase 1 (Now):** Human facilitators + AI agents (6 agents, Cohorts 1-3) - humans lead, AI augments
+- **Phase 1a (Near Future):** Expanded agent ecosystem (12 agents) - deeper specialist support
+- **Phase 1b (Near Future):** Full agent ecosystem (26 agents) - comprehensive coverage across all entrepreneurship domains
+- **Phase 2 (Mid Future):** 80% AI Facilitator - Cohort Facilitator Agent leads most sessions, human oversight/intervention
+- **Phase 3 (Mid Future):** Community organization independence - orgs license ecosystem, run cohorts autonomously
+- **Phase 4 (Long-term):** Synthetic cohorts - AI-generated peer dynamics, massive scale
 
 **Cohort Numbers:** Cohort 1, Cohort 2, Cohort 3, etc. (sequential pilot runs)
 
-These are independent - Cohort 1, 2, 3 can all be Phase 1 capability level.
+**Key Distinction:** Phases = capability evolution (pending validation). Cohorts = sequential runs (can stay in same phase).
+Example: Cohorts 1-5 might all be Phase 1, testing different participant populations or methodology refinements.
+
+**All phase progressions depend on validation from prior phase results.**
 
 ### 12. Pilot Cohort Timeline ✅
 **Target:** Mid-January 2025 cohort launch (flexible based on readiness)
@@ -700,6 +706,22 @@ These are independent - Cohort 1, 2, 3 can all be Phase 1 capability level.
 **Mitigation for Equipment Risk:** Distribute cost across cohorts (loaner pool), deposit/agreement for equipment return
 **Timing:** Determine before recruitment (affects budget planning)
 **Owner:** Matt Paxman
+
+### 15. Group Session Transcript Integration ✅
+**Decision:** Feed full group session transcripts to each participant's Chief of Staff for context
+**Approach:** Record session → transcribe (audio extractor like Whisper, Rev, Otter.ai) → distribute full transcript to all participants → each participant's CoS parses for relevant content
+**Why this approach:**
+- **Lower overhead:** No manual Facilitator Agent parsing required
+- **Richer context:** Each CoS sees group dynamics, peer feedback, facilitator guidance
+- **Simple workflow:** One transcript → all participants → individual CoS filtering
+- **CoS capability:** Chief of Staff can identify mentions of participant, relevant peer insights, group themes
+**What CoS extracts from transcript:**
+- Direct mentions/questions directed at their participant
+- Relevant peer insights applicable to their venture
+- Group themes and patterns
+- Facilitator guidance that applies to their situation
+**Technical requirement:** Transcript distribution via portal, CoS parsing capability
+**Owner:** Brendan Veranth (implementation), Matt Paxman (workflow design)
 
 ---
 
@@ -765,6 +787,92 @@ These are independent - Cohort 1, 2, 3 can all be Phase 1 capability level.
 - Don't let perfectionism delay launch (ship and learn!)
 
 You can do this. The foundation is strong. Now it's about execution and learning.
+
+---
+
+## Long-Term Vision: Scaling Democratization
+
+This Cohort 1 pilot is the foundation for a multi-phase evolution toward democratizing entrepreneurship at scale. Each phase builds on validated learnings from the prior phase—none are guaranteed until proven.
+
+### Phase 1 (Now): Human-Facilitated + AI Augmentation
+**Timeline:** Cohorts 1-3
+**What it means:** Human facilitators (Agueda + Matt) lead all 8 sessions with AI agent support
+**Agents:** 6 agents (5 Tier 1 + 1 Tier 2)
+**Goal:** Validate that AI agents + proven methodology can help Rising Talent make measurable entrepreneurial progress
+**Success Metrics:**
+- Participant progression score ≥10/20 (venture development milestones)
+- 70%+ completion rate (attend ≥6 of 8 sessions)
+- Qualitative evidence: Participants report agents were helpful, methodology was accessible
+**Learning Focus:** Agent effectiveness, methodology accessibility, participant outcomes, cohort dynamics
+
+### Phase 1a (Near Future): Expanded Agent Ecosystem
+**Trigger:** Cohort 1-3 data shows participants need deeper specialist support
+**Agents:** 12 agents (expand based on demonstrated gaps—likely adds: Product/Technology, Capital/Financing, Customer Success, Operations, Growth, Brand/Storytelling)
+**What changes:** More specialized support across entrepreneurship domains
+**What stays same:** Human facilitators still lead, 4-8 week cohort format
+**Success Metric:** Participant outcomes improve (higher progression scores, better venture quality)
+
+### Phase 1b (Near Future): Full Agent Ecosystem
+**Trigger:** Phase 1a validation + diverse participant needs
+**Agents:** All 26 agents available
+**What it means:** Comprehensive specialist coverage—Chief of Staff routes to any domain expert participant needs
+**Use case:** Serves diverse cohorts (tech startups, retail, service, social enterprises) with full specialist depth
+**Success Metric:** 90%+ of participant questions/needs addressable by agent ecosystem
+
+### Phase 2 (Mid Future): 80% AI Facilitator
+**Trigger:** Phase 1/1a/1b prove agents drive outcomes; Cohort Facilitator Agent refined
+**What changes:** Cohort Facilitator Agent leads most group sessions (session prep, discussion facilitation, synthesis)
+**Human role:** Oversight, intervention when needed, handles complex group dynamics
+**Unlock:** One human facilitator can support 2-3 cohorts simultaneously (3x capacity)
+**Success Metric:** Same or better participant outcomes with 50% less human facilitation time per cohort
+**Why this matters:** Enables scaling without linear human resource growth
+
+### Phase 3 (Mid Future): Community Organization Independence
+**Trigger:** Phase 2 validation proves agents can facilitate effectively
+**What it means:** Community organizations license/access Vibe's agentic ecosystem and methodology to run their own cohorts
+**Vibe provides:**
+- Agent platform (SaaS access or white-label deployment)
+- Methodology framework and facilitation guides
+- Train-the-trainer support for community org facilitators
+- Ongoing agent updates and improvements
+**Community org provides:**
+- Participant recruitment (local trust, cultural context)
+- Facilitator(s) for oversight/intervention
+- Program logistics and support
+**Business model:** Free for first cohort (partnership building), then licensing or revenue share
+**Unlock:** 10-100x scale—democratization happens at local community level, not centralized Vibe delivery
+**Success Metric:** Community orgs achieve 80% of Vibe-facilitated outcomes independently
+
+### Phase 4 (Long-term): Synthetic Cohorts
+**Trigger:** Phase 3 proves model works at scale; significant AI advancement in agentic personas
+**What it means:** AI-generated peer dynamics—agents simulate fellow entrepreneurs for discussion, feedback, accountability
+**Why:** Geographic/schedule barriers eliminated; participants get cohort experience on-demand
+**Challenge:** Massive technical and design challenge (creating believable, helpful synthetic peers)
+**Unlock:** Infinite scale—any entrepreneur, anywhere, anytime can access cohort experience
+**Success Metric:** Synthetic cohort outcomes ≥70% of human cohort outcomes
+
+### Future Horizons (Beyond Phase 4)
+**Phase 5:** Multi-language & international scaling (Spanish, French, global cultural adaptation)
+**Phase 6:** Alumni progression cohorts (post-launch support, scaling/growth challenges)
+**Phase 7:** Vertical specialization (industry-specific cohorts with specialized agents)
+
+### Timeline & Dependencies
+- **Phase 1:** Starting now (Cohort 1 launch mid-January 2025 target)
+- **Phase 1a/1b:** 6-12 months after Cohort 1 (if validated)
+- **Phase 2:** 12-24 months (depends on Cohort Facilitator Agent refinement)
+- **Phase 3:** 18-36 months (depends on Phase 2 success + community partner readiness)
+- **Phase 4:** 3-5 years (significant AI/tech advancement required)
+
+**Critical Principle:** Every phase depends on validation from prior phases. We don't proceed to Phase 2 if Phase 1 doesn't work. We don't build Phase 4 if Phase 3 doesn't prove community orgs can run cohorts effectively.
+
+### Why This Vision Matters
+**Cohort 1 is not just a pilot—it's the foundation for a movement.**
+
+If Cohort 1 proves that AI agents + methodology can help Rising Talent make entrepreneurial progress, we unlock a path to serving millions of latent entrepreneurs who currently lack access to quality support. Community organizations become force multipliers. Technology becomes democratization infrastructure.
+
+**But it all starts with Cohort 1.** Focus there. Validate the core. Then scale what works.
+
+For detailed phase implementation planning, see `docs/VISION-SCALING-STRATEGY.md`.
 
 ---
 

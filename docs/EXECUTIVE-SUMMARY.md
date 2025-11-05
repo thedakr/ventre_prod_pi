@@ -107,31 +107,33 @@ You need:
 
 ### 🎯 MVP Scope Recommendation
 
-**Start FOCUSED:** Build 5-6 strategic agents for Cohort 1 (not all ~26 agent specs)
+**Start FOCUSED:** Build 6 strategic agents for Cohort 1 (not all 26 agent specs)
 
 **Recommended MVP (First Cohort):**
 
-**AI Agents (5-6 agents - specific selection pending full agent specs):**
+**Tier 1 - Individual Participant Agents (5 agents):**
 
-**Confirmed Core:**
-1. **Chief of Staff** - Central coordinator, guides participants, routes to specialists
-2. **Market Discovery** - Customer research and validation (critical for all types)
-3. **Methodology Coach** - Teaches frameworks as participants need them (just-in-time learning)
+1. **Chief of Staff** - "The Conductor" - Central coordinator, routes to specialists, maintains holistic context, guides weekly management reports
+2. **Market Discovery & Validation** - "The Customer Whisperer" - Customer research, validation experiments, prevents building what nobody wants
+3. **Methodology Coach** - "The Framework Teacher" - Teaches Lean Startup, BMC, Customer Development, JTBD as needed (just-in-time learning)
+4. **Business & Revenue Model** - "The Economic Engine Designer" - Pricing (JTBD framework), unit economics, business model design
+5. **Route-to-Market & GTM** - "The Market Access Strategist" - Customer acquisition strategy, channel testing, capital-efficient growth
+6. **Strategic Conviction Keeper** - "The Compass" - Pivot vs. persevere guidance, manages 4-week cohort pressure, prevents premature giving up
 
-**Additional Agents (2-3 more - TBD based on participant profile):**
-- Participant data: 63% small business (retail, service, local), 30% tech startup, 29% social cause
-- Need agents that serve majority small business needs
-- Considering: Product/Service Design, Capital & Financing, Operations & Launch, Strategic Conviction
-- **Final selection pending completion of full ~26 agent specification set**
+**Tier 2 - Cohort Agent (1 agent):**
 
-**Plus:**
-4. **Cohort Facilitator Agent (Tier 2)** - Assists human facilitators with group session prep, participant progress synthesis, and pattern identification across cohort
+7. **Cohort Facilitator Agent** - "The Group Guide" - Synthesizes across all participants, helps human facilitators prep sessions, identifies peer learning opportunities
 
-**Why this approach:**
-- Serves diverse participant needs (tech, small business, social cause)
-- Chief of Staff orchestrates, specialists provide depth
-- Cohort Facilitator helps human facilitators scale
-- Can add more agents in later cohorts based on demonstrated need
+**Why these 6 agents:**
+- **100% participant coverage:** All agents serve small business (63%), tech startup (30%), and social cause (29%)
+- **Stage-agnostic:** Work across idea → validation → building → testing (participants at different stages)
+- **Universal questions answered:** "Who are my customers?" "How do I make money?" "How do I get customers?" "Should I pivot?"
+- **Two-tier architecture:** Individual agents (Tier 1) + Cohort agent (Tier 2) enables group facilitation at scale
+- **JTBD pricing focus:** Business/Revenue Model teaches value-based pricing (critical for underserved entrepreneurs)
+- **Capital-efficient:** Route-to-Market focuses on low-cost acquisition channels
+- **4-week intensity support:** Strategic Conviction manages cohort pressure, prevents premature pivoting
+- **Methodology validation:** Methodology Coach validates if agents teach frameworks correctly
+- **Deferred 20 agents** to Cohort 2+ based on learnings (Product/Tech, CFO, Vision, Team, etc.)
 
 **Web Portal MVP:**
 - User authentication (email/password)

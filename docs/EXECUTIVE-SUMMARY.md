@@ -1,59 +1,24 @@
 # Executive Summary: Vibe Entrepreneurship Launch Plan
 
-**Date:** 2025-11-03
+**Date:** 2025-11-05
 **For:** Matthew Paxman (PM/PI) + Team
-**Status:** Ready for Team Review & Decision
+**Status:** Final Draft - Ready for Team Review & Strategic Planning
 
 ---
 
-## What You Asked For
+## Executive Overview
 
-You need:
-1. **Role breakdown** for a team to deliver Vibe Entrepreneurship
-2. **Pathway** from concept to delivery of AI agents + entrepreneurship framework
-3. **Fast iteration strategy** (and validation that it's not a bad idea)
-4. **Consideration** of underserved populations (below poverty line + 50% above)
-5. **Project setup** with git repo and organized documentation
+Vibe Entrepreneurship is a 4-week, virtual entrepreneurship program designed to democratize access to entrepreneurial opportunity for individuals at or below 150% of the US federal poverty line. This document outlines the team structure, MVP scope, launch strategy, and roadmap to Cohort 1.
 
----
+**Core Innovation:** AI agents provide personalized entrepreneurial guidance at scale, making expert support accessible to underserved populations who traditionally lack access to quality business mentorship.
 
-## What I've Delivered
-
-### ✅ 1. Git Repository Initialized
-- Repository set up at `/Users/matthew.paxman/ventre_prod_pi`
-- Initial commit completed with all foundation documents
-- Documentation organized in `docs/` with subdirectories
-
-### ✅ 2. Agent Specifications Imported
-- 6 agent specs copied from your existing work:
-  - Chief of Staff (central coordinator)
-  - Market Discovery & Validation (customer research)
-  - Capital & Financing (CFO)
-  - Product & Technology (builder)
-  - Methodology Coach (framework teacher)
-  - Strategic Conviction Keeper (pivot/persevere guide)
-- Location: `docs/agent-specs/`
-
-### ✅ 3. Comprehensive Team Roles Document
-- **Complete role inventory:** 15 roles a fully-resourced team would have
-- **Consolidated assignments:** How to distribute across your 2.5 people
-- **Fast-iteration validation:** Why it's the RIGHT approach (with caveats)
-- **Underserved population focus:** Design considerations for target demographic
-- **2-month sprint plan:** Week-by-week roadmap to first cohort
-- Location: `docs/team-roles-comprehensive.md`
-
-### ✅ 4. Project README
-- Quick orientation for team members
-- Development roadmap with checkboxes
-- Success metrics (traditional + expanded)
-- Technology stack proposal
-- Location: `README.md`
+**Target Outcome:** Validate that AI agents + proven entrepreneurship methodology can help latent entrepreneurs (those with ideas but no clear path forward) make measurable progress toward viable ventures in 4 weeks.
 
 ---
 
-## Key Findings & Recommendations
+## Team Structure
 
-### 🎯 Your 2.5-Person Team Distribution
+### 2.5-Person Team Distribution
 
 **You (PM/PI):**
 - Product strategy and vision (30%)
@@ -216,11 +181,12 @@ You need:
 
 ## Critical Decisions - RESOLVED ✅
 
-**Date Decided:** 2025-11-04
+**Date Decided:** 2025-11-05
 
 ### 1. Agent Selection for MVP ✅
-**Decision:** Proceed with 3-agent MVP (Chief of Staff, Market Discovery, Methodology Coach)
-**Rationale Below:** See "Why These 3 Agents?" section for detailed reasoning
+**Decision:** Proceed with 6-agent MVP (5 Tier 1 individual agents + 1 Tier 2 cohort agent)
+**Agents:** Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction (Tier 1) + Cohort Facilitator (Tier 2)
+**Rationale:** 100% participant coverage across small business (63%), tech (30%), and social cause (29%); stage-agnostic design; addresses universal questions (customers, pricing, acquisition, pivot decisions)
 
 ### 2. Community Partner ✅
 **Decision:** No partner yet identified - PM to prioritize finding one
@@ -251,83 +217,6 @@ You need:
 - Ongoing access to AI agents (duration TBD based on resources)
 - Potential progression to further cohorts at different business stages
 - Long-term vision: Self-support at scale (minimal facilitation required)
-
----
-
-## Why These 3 Agents? (Addressing Your Question)
-
-You asked: "Why do we think the 3 targeted agents really are the best?"
-
-### The Strategic Logic
-
-**Early-Stage Entrepreneurship Journey:**
-```
-Idea → Validate Problem → Validate Customer → Build Solution → Get Funding → Scale
-```
-
-**For Beginners (Underserved Populations):**
-Most critical phase: **Validate Problem + Validate Customer** (before wasting time/money building)
-
-### Agent Selection Mapped to Critical Journey Stage
-
-**1. Chief of Staff (Orchestrator)**
-- **Why Essential:** Beginners don't know where to start or what questions to ask
-- **Role:** Guides navigation, routes to right specialist, maintains context
-- **Without it:** Users get lost, don't know which agent to consult when
-- **MVP Need:** CRITICAL - the "GPS" for the journey
-
-**2. Market Discovery (Customer Validation)**
-- **Why Essential:** #1 reason startups fail = no market need (42% per CB Insights)
-- **Role:** Helps validate problem, find real customers, test assumptions before building
-- **Without it:** Participants build solutions nobody wants (waste time/resources)
-- **MVP Need:** CRITICAL - prevents biggest failure mode
-- **Underserved Population Fit:** Low-risk validation (talking to customers costs nothing)
-
-**3. Methodology Coach (Framework Teacher)**
-- **Why Essential:** Participants need to learn "how to think" about entrepreneurship
-- **Role:** Teaches frameworks just-in-time as needed, builds entrepreneurial mindset
-- **Without it:** Users learn tactics but not strategic thinking
-- **MVP Need:** CRITICAL - builds capacity for ongoing learning
-
-### Why NOT the Other Agents (For MVP)?
-
-**Product & Technology (Agent #10):**
-- **When Needed:** AFTER validating problem/customer (comes later in journey)
-- **Why Defer:** Premature to build before validation
-- **Cohort Timing:** Week 3-4 (but can be human-facilitated for MVP)
-- **Add in:** Cohort 2 or 3
-
-**Capital & Financing (Agent #13):**
-- **When Needed:** AFTER validating business model and showing traction
-- **Why Defer:** Very early-stage ideas don't need CFO-level finance yet
-- **Underserved Population Fit:** Many will bootstrap or microloan (not VC track)
-- **Add in:** Cohort 3 or 4 (for those with traction)
-
-**Strategic Conviction Keeper (Agent #25):**
-- **When Needed:** When facing pivot/persevere decisions (requires traction first)
-- **Why Defer:** Beginners haven't reached decision points yet
-- **Add in:** Cohort 3+ (for those with momentum)
-
-### The MVP Hypothesis to Test
-
-**We believe:**
-- Beginners need GUIDANCE (Chief of Staff) + VALIDATION (Market Discovery) + LEARNING (Methodology Coach)
-- These 3 agents address the highest-risk failure modes for early-stage entrepreneurs
-- Product/Tech, Finance, and Strategic decisions can be human-facilitated in MVP
-- We'll learn from Cohort 1 which agents to add next based on actual participant needs
-
-**Alternative Considered:**
-- 4 agents: Add Product & Technology (for Week 3-4 when building starts)
-- **Why 3 Instead:** Reduces dev scope, focuses on highest-risk phase, human facilitator can cover product/tech basics
-
-**Decision Validation:**
-This aligns with:
-- Lean Startup methodology (validate before building)
-- Your agent specs (Chief of Staff explicitly coordinates specialists)
-- Underserved population needs (low-cost validation activities first)
-- MVP principles (minimum scope, maximum learning)
-
-**If you disagree or see a gap, we should discuss!** This is a hypothesis to test, not doctrine.
 
 ---
 
@@ -788,10 +677,10 @@ This aligns with:
 ### 🟢 LOW RISK: Agent Quality
 **Risk:** Agents may not be as helpful as hoped
 **Mitigation:**
-- You have detailed specs (strong foundation)
+- You have detailed specs from 26-agent ecosystem (strong foundation)
 - Human facilitator can supplement/correct
 - Fast iteration means you'll improve quickly
-- Start with 3 agents (focused quality)
+- Start with 6 focused agents (5 Tier 1 + 1 Tier 2)
 
 ---
 
@@ -810,7 +699,7 @@ This aligns with:
 - Underserved population has real barriers (mitigate with thoughtful design)
 
 **Recommendation:**
-- Lock MVP scope AGGRESSIVELY (3 agents, 4-week cohort, 10-15 participants)
+- Lock MVP scope AGGRESSIVELY (6 agents - 5 Tier 1 + 1 Tier 2, 4-week cohort, 10-15 participants)
 - Secure community partner IMMEDIATELY
 - Begin development and curriculum design THIS WEEK
 - Plan for iteration (Cohort 1 is a learning opportunity)
@@ -819,19 +708,3 @@ This aligns with:
 You can do this. The foundation is strong. Now it's about execution and learning.
 
 ---
-
-## Questions for Me?
-
-I'm here to support you through this process. Where do you want to dive deeper?
-
-Options:
-1. **Refine the 2-month sprint plan** (break down into daily tasks)
-2. **Design the web portal** (wireframes, user flows)
-3. **Agent implementation strategy** (technical architecture)
-4. **Curriculum design** (session-by-session breakdown)
-5. **Community partner outreach** (draft partnership proposal)
-6. **Participant recruitment** (strategy and materials)
-7. **Measurement framework** (data collection and analysis plan)
-8. **Something else?**
-
-What's most valuable for you right now?

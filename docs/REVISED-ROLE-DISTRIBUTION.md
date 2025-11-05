@@ -119,7 +119,7 @@
 
 ---
 
-### Education Specialist - ADJUSTED Scope
+### Methodology & Cohort Facilitator - ADJUSTED Scope
 **Primary Roles (No Major Changes):**
 1. Learning Experience Designer (100%)
 2. Cohort Facilitator / Coach (80%)
@@ -158,7 +158,7 @@
 - **Technical documentation** (code, APIs, system architecture)
 - **Portal development** (more autonomy, less PM oversight)
 
-### **What Shifts FROM PM TO Education Specialist:**
+### **What Shifts FROM PM TO Methodology & Cohort Facilitator:**
 - **Participant communications** (operational)
 - **Session logistics** (Zoom, materials)
 - **Cohort scheduling** (calendar management)
@@ -199,7 +199,7 @@
 
 **Your Focus (15-20 hrs/week):**
 - **Agent development: 50%** (10 hrs)
-  - Receive agent implementation specs from Education Specialist
+  - Receive agent implementation specs from Methodology & Cohort Facilitator
   - Co-design agent architecture with engineer
   - Begin prototyping agent prompts
 - Strategy & oversight: 25% (5 hrs)
@@ -211,7 +211,7 @@
 - Web portal development: 40%
 - Infrastructure setup: 20%
 
-**Education Specialist Focus:**
+**Methodology & Cohort Facilitator Focus:**
 - Finalize methodology framework: 40%
 - Create agent implementation specs: 30%
 - Begin curriculum design: 20%
@@ -237,7 +237,7 @@
 - Deployment & DevOps: 20%
 - Technical documentation: 10%
 
-**Education Specialist Focus:**
+**Methodology & Cohort Facilitator Focus:**
 - Curriculum design: 40%
 - Facilitator guide creation: 30%
 - Operations & participant management: 20%
@@ -319,7 +319,7 @@
 ### **Phase 1-2 (Weeks 1-4):**
 - **PM:** 10-12 hrs/week
 - **Engineer:** 5-10 hrs/week (20-50% of their 50%)
-- **Education Specialist:** 15-20 hrs/week
+- **Methodology & Cohort Facilitator:** 15-20 hrs/week
 
 **Total team hours:** 30-42 hrs/week
 
@@ -328,7 +328,7 @@
 ### **Phase 3 (Weeks 5-8):**
 - **PM:** 15-20 hrs/week (agent work ramps up)
 - **Engineer:** 15-20 hrs/week (60-80% of their 50%)
-- **Education Specialist:** 15-20 hrs/week
+- **Methodology & Cohort Facilitator:** 15-20 hrs/week
 
 **Total team hours:** 45-60 hrs/week
 
@@ -337,7 +337,7 @@
 ### **Phase 4 (Weeks 9-16):**
 - **PM:** 18-22 hrs/week (peak agent development)
 - **Engineer:** 18-22 hrs/week (80-100% of their 50%)
-- **Education Specialist:** 15-20 hrs/week
+- **Methodology & Cohort Facilitator:** 15-20 hrs/week
 
 **Total team hours:** 51-64 hrs/week
 
@@ -346,7 +346,7 @@
 ### **Pilot Cohort (Weeks 17-20):**
 - **PM:** 10-15 hrs/week (cohort support, iteration planning)
 - **Engineer:** 10-15 hrs/week (technical support, bug fixes)
-- **Education Specialist:** 20-25 hrs/week (facilitation!)
+- **Methodology & Cohort Facilitator:** 20-25 hrs/week (facilitation!)
 
 **Total team hours:** 40-55 hrs/week
 
@@ -391,7 +391,7 @@
 ### **Risk 1: PM Overloaded**
 **Symptom:** PM working 30+ hrs/week, burning out
 **Mitigation:**
-- Deprioritize operations (delegate more to Education Specialist)
+- Deprioritize operations (delegate more to Methodology & Cohort Facilitator)
 - Lean heavily on community partner for recruitment
 - Use contractor for specific tasks (UX design, etc.)
 - Engineer takes full ownership of portal (PM doesn't review every detail)
@@ -411,7 +411,7 @@
 ### **Risk 3: Agent Quality Suffers**
 **Symptom:** Agents don't teach methodology well
 **Mitigation:**
-- Education Specialist validates agent fidelity (weekly)
+- Methodology & Cohort Facilitator validates agent fidelity (weekly)
 - Methodology experts spot-check agents (Phase 4)
 - Rapid iteration based on testing feedback
 - PM's role is specifically to ensure quality
@@ -448,7 +448,7 @@
 ✅ Less ambiguity (PM handles methodology translation)
 ✅ Can focus on code quality and performance
 
-### **For Education Specialist:**
+### **For Methodology & Cohort Facilitator:**
 ✅ Owns methodology (authority and ownership)
 ✅ Clear role (curriculum, facilitation, validation)
 ✅ Not bottlenecked on PM (more autonomy)
@@ -467,7 +467,7 @@
 
 ### **By End of Phase 4:**
 - [ ] 3 MVP agents implemented (PM-Engineer paired work)
-- [ ] Agents teach methodology correctly (Education Specialist validated)
+- [ ] Agents teach methodology correctly (Methodology & Cohort Facilitator validated)
 - [ ] Web portal functional (Engineer owned)
 - [ ] PM can iterate agent prompts independently
 - [ ] Team velocity established for agent development
@@ -479,13 +479,13 @@
 ### **Week 1 (Agent Spec → Prompt Design):**
 
 **Monday:**
-- Education Specialist delivers "Market Discovery Agent" implementation spec
+- Methodology & Cohort Facilitator delivers "Market Discovery Agent" implementation spec
 - PM reviews, asks clarifying questions
 
 **Tuesday-Wednesday:**
 - PM drafts initial system prompt (methodology-aligned)
 - PM creates example conversations
-- PM shares draft with Education Specialist for validation
+- PM shares draft with Methodology & Cohort Facilitator for validation
 
 **Thursday:**
 - Engineer reviews prompt for technical feasibility
@@ -510,7 +510,7 @@
 - Engineer handles technical bugs
 
 **Wednesday:**
-- Education Specialist tests agent for methodology fidelity
+- Methodology & Cohort Facilitator tests agent for methodology fidelity
 - Provides feedback to PM on methodology alignment
 - PM iterates prompts
 
@@ -541,7 +541,7 @@
 - Review week's progress
 - Plan next week's focus
 - Identify blockers
-- Coordinate with Education Specialist
+- Coordinate with Methodology & Cohort Facilitator
 
 ---
 
@@ -558,7 +558,7 @@
 - More autonomy on portal development
 - Technical operations and troubleshooting
 
-**Shifts TO Education Specialist:**
+**Shifts TO Methodology & Cohort Facilitator:**
 - Light operational support
 - More ownership of methodology framework
 - Agent validation authority
@@ -570,7 +570,7 @@
 **Result:**
 - PM leverages tech background
 - Engineer focuses on technical excellence
-- Education Specialist owns learning design
+- Methodology & Cohort Facilitator owns learning design
 - Team is more efficient with clear domains
 
 **Your SRE background makes this work!** You have systems thinking, technical depth, and product mindset - perfect for agent development. 🚀

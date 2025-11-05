@@ -105,7 +105,7 @@ Location: [File path or link]
 ```
 
 **Deliverable:** Complete materials inventory spreadsheet
-**Owner:** You (PM) + Education Specialist
+**Owner:** You (PM) + Methodology & Cohort Facilitator
 **Time:** 4-6 hours
 
 ---
@@ -202,7 +202,7 @@ Location: [File path or link]
 ```
 
 **Deliverable:** Extraction document for each high-priority material
-**Owner:** Education Specialist (lead) + You (support)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (support)
 **Time:** Week 1-2, ~15-20 hours total (depends on material volume)
 
 ---
@@ -253,7 +253,7 @@ Location: [File path or link]
 ```
 
 **Deliverable:** Methodology synthesis document (materials-based)
-**Owner:** Education Specialist (lead) + You (review)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (review)
 **Time:** 4-6 hours
 
 ---
@@ -309,7 +309,7 @@ Location: [File path or link]
 [Specific questions about poverty-line participants]
 ```
 
-**Owner:** Education Specialist (draft) + You (review)
+**Owner:** Methodology & Cohort Facilitator (draft) + You (review)
 **Time:** 2-3 hours
 
 ---
@@ -348,7 +348,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 - Synthesize key insights within 24 hours
 
 **Deliverable:** Session 1 synthesis document
-**Owner:** Education Specialist (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
 
 ---
 
@@ -381,7 +381,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 - **Adapt:** How do you adapt when a participant isn't getting it?
 
 **Deliverable:** Session 2 synthesis document (decision-making frameworks)
-**Owner:** Education Specialist (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
 
 ---
 
@@ -412,7 +412,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 5. **Wrap-up (5 min):** Final questions, gratitude
 
 **Deliverable:** Session 3 synthesis document (underserved adaptations)
-**Owner:** Education Specialist (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
 
 ---
 
@@ -437,7 +437,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 4. **Final questions (10 min):** Any remaining gaps
 
 **Deliverable:** Refined methodology framework with expert validation
-**Owner:** Education Specialist (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
 
 ---
 
@@ -482,7 +482,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 - How should agents embody this methodology?
 
 **Deliverable:** Comprehensive methodology framework (materials + expert synthesis)
-**Owner:** Education Specialist (lead) + You (review)
+**Owner:** Methodology & Cohort Facilitator (lead) + You (review)
 **Time:** 6-8 hours
 
 ---
@@ -610,7 +610,7 @@ Lessons Learned: [Continuous improvement insights]
 ```
 
 **Deliverable:** Comprehensive Methodology Mastery Framework (30-50 pages)
-**Owner:** Education Specialist (primary author)
+**Owner:** Methodology & Cohort Facilitator (primary author)
 **Reviewers:** You + Experts (validation)
 **Time:** 15-20 hours to draft
 
@@ -695,7 +695,7 @@ When agent should say: "This is a great conversation for your facilitator. Let's
 ```
 
 **Deliverable:** Implementation specs for MVP agents (3 agents = 3 specs)
-**Owner:** Education Specialist (content) + AI Engineer (technical feasibility review)
+**Owner:** Methodology & Cohort Facilitator (content) + AI Engineer (technical feasibility review)
 **Time:** 4-6 hours per agent = 12-18 hours total
 
 ---
@@ -710,7 +710,7 @@ When agent should say: "This is a great conversation for your facilitator. Let's
 1. AI Engineer takes implementation specs
 2. Translates into system prompts for each agent
 3. Includes methodology frameworks, principles, language
-4. Education Specialist reviews for fidelity to methodology
+4. Methodology & Cohort Facilitator reviews for fidelity to methodology
 5. Iterate until alignment is strong
 
 **Example Transformation:**
@@ -735,7 +735,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 ```
 
 **Deliverable:** Agent prompts incorporating methodology
-**Owner:** AI Engineer (lead) + Education Specialist (validation)
+**Owner:** AI Engineer (lead) + Methodology & Cohort Facilitator (validation)
 **Time:** Built into agent development (Weeks 3-4 of overall timeline)
 
 ---
@@ -758,7 +758,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 3. **Iterate prompts** based on testing
 
 **Deliverable:** Validated agents that embody methodology
-**Owner:** Education Specialist (testing) + AI Engineer (refinement)
+**Owner:** Methodology & Cohort Facilitator (testing) + AI Engineer (refinement)
 **Time:** Built into testing phase (Weeks 5-6 of overall timeline)
 
 ---
@@ -775,7 +775,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 - Week 1: AI Engineer prototypes basic agent architecture
 - Week 2: AI Engineer builds agent orchestration framework
 
-**Integration Point:** By end of Week 2, Education Specialist has provisional methodology synthesis to inform agent development
+**Integration Point:** By end of Week 2, Methodology & Cohort Facilitator has provisional methodology synthesis to inform agent development
 
 ---
 
@@ -809,25 +809,25 @@ If they get stuck, offer examples: [from methodology materials]..."
 
 #### **Day 1-2: Materials Inventory (HIGHEST PRIORITY)**
 - [ ] **Action:** List all materials you have
-- [ ] **Owner:** You + Education Specialist (4-6 hours)
+- [ ] **Owner:** You + Methodology & Cohort Facilitator (4-6 hours)
 - [ ] **Deliverable:** Materials inventory spreadsheet
 - [ ] **Why first:** You need to know what you have before you can analyze it
 
 #### **Day 2-3: Prioritize Materials**
 - [ ] **Action:** Identify high-priority materials for extraction
-- [ ] **Owner:** Education Specialist (1-2 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (1-2 hours)
 - [ ] **Deliverable:** Prioritized materials list
 - [ ] **Why:** Focus extraction effort on highest-value materials
 
 #### **Day 3-5: Rapid Material Analysis (Top 3-5 Materials)**
 - [ ] **Action:** Extract from facilitator guides, methodology docs, case studies
-- [ ] **Owner:** Education Specialist (10-12 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (10-12 hours)
 - [ ] **Deliverable:** Extraction documents for top materials
 - [ ] **Why:** Build initial understanding before expert sessions
 
 #### **Day 4-5: Prepare for Expert Session 1**
 - [ ] **Action:** Draft expert engagement brief based on initial material analysis
-- [ ] **Owner:** Education Specialist (2-3 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (2-3 hours)
 - [ ] **Deliverable:** Session 1 agenda and questions
 - [ ] **Why:** Make expert time high-value
 
@@ -843,31 +843,31 @@ If they get stuck, offer examples: [from methodology materials]..."
 
 #### **Day 1: Expert Session 1 (Methodology Overview & Validation)**
 - [ ] **Action:** Conduct 90-min session with methodology experts
-- [ ] **Owner:** Education Specialist (lead) + You (attend)
+- [ ] **Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
 - [ ] **Deliverable:** Session notes and recording
 - [ ] **Why:** Validate material analysis, get overview
 
 #### **Day 1-2: Synthesize Expert Session 1**
 - [ ] **Action:** Within 24 hours, synthesize key insights
-- [ ] **Owner:** Education Specialist (2-3 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (2-3 hours)
 - [ ] **Deliverable:** Session 1 synthesis document
 - [ ] **Why:** Capture while fresh, inform continued material analysis
 
 #### **Day 2-4: Continue Material Analysis (Next 3-5 Materials)**
 - [ ] **Action:** Extract from remaining high-priority materials
-- [ ] **Owner:** Education Specialist (10-12 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (10-12 hours)
 - [ ] **Deliverable:** Additional extraction documents
 - [ ] **Why:** Build comprehensive understanding
 
 #### **Day 5: Pattern Synthesis Across All Materials**
 - [ ] **Action:** Identify common themes, frameworks, principles
-- [ ] **Owner:** Education Specialist (4-6 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (4-6 hours)
 - [ ] **Deliverable:** Methodology synthesis document (materials-based)
 - [ ] **Why:** Create foundation for expert sessions 2-3
 
 #### **End of Week 2: Prepare for Expert Sessions 2-3**
 - [ ] **Action:** Draft agendas for decision-making and underserved adaptations sessions
-- [ ] **Owner:** Education Specialist (2 hours)
+- [ ] **Owner:** Methodology & Cohort Facilitator (2 hours)
 - [ ] **Deliverable:** Session 2-3 agendas and questions
 - [ ] **Why:** Make sessions highly targeted
 
@@ -899,7 +899,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 
 ## Key Roles & Owners
 
-### Education Specialist (PRIMARY OWNER)
+### Methodology & Cohort Facilitator (PRIMARY OWNER)
 - **Why:** Has pedagogy expertise, understands learning design
 - **Time:** 40-50% of time for Weeks 1-4 (15-20 hours/week)
 - **Responsibilities:**
@@ -995,7 +995,7 @@ To help me refine this plan, I need to know:
 
 ### About Timeline:
 1. **Is Week 1-4 realistic for methodology extraction?** (Given your other priorities?)
-2. **Can Education Specialist dedicate 15-20 hrs/week to this?** (Or do we need to scale back?)
+2. **Can Methodology & Cohort Facilitator dedicate 15-20 hrs/week to this?** (Or do we need to scale back?)
 3. **Do you need methodology locked before agent development starts?** (Or can they proceed in parallel?)
 
 ### About Scope:
@@ -1007,9 +1007,9 @@ To help me refine this plan, I need to know:
 ## Next Immediate Action
 
 **THIS WEEK:**
-1. **Do materials inventory** (4-6 hours) - You + Education Specialist
+1. **Do materials inventory** (4-6 hours) - You + Methodology & Cohort Facilitator
 2. **Schedule Expert Session 1** (30 min) - You
-3. **Begin analyzing top 3 materials** (6-8 hours) - Education Specialist
+3. **Begin analyzing top 3 materials** (6-8 hours) - Methodology & Cohort Facilitator
 
 **Want me to create:**
 - Materials inventory template (spreadsheet)?

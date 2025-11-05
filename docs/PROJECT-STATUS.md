@@ -112,7 +112,7 @@ Your initiative rests on three hypotheses:
 
 ### Priority 1: Materials Inventory (Day 1-2)
 - [ ] **Action:** Catalog all methodology materials
-- [ ] **Who:** You + Education Specialist
+- [ ] **Who:** You + Methodology & Cohort Facilitator
 - [ ] **Time:** 4-6 hours
 - [ ] **Template:** `docs/templates/materials-inventory.md`
 - [ ] **Output:** Prioritized list of materials for extraction
@@ -128,14 +128,14 @@ Your initiative rests on three hypotheses:
 
 ### Priority 3: Begin Material Analysis (Day 3-5)
 - [ ] **Action:** Analyze top 3 materials (facilitator guides, methodology docs)
-- [ ] **Who:** Education Specialist
+- [ ] **Who:** Methodology & Cohort Facilitator
 - [ ] **Time:** 10-12 hours
 - [ ] **Template:** `docs/templates/material-extraction.md`
 - [ ] **Output:** Extraction documents for each material
 
 ### Priority 4: Prepare Expert Session 1 (Day 4-5)
 - [ ] **Action:** Customize Session 1 agenda based on material analysis
-- [ ] **Who:** Education Specialist (draft) + You (review)
+- [ ] **Who:** Methodology & Cohort Facilitator (draft) + You (review)
 - [ ] **Time:** 2-3 hours
 - [ ] **Template:** `docs/templates/expert-session-1-agenda.md`
 
@@ -285,7 +285,7 @@ Weeks 7-8: First Cohort Launches
 
 ## 🤝 Team Capacity Requirements
 
-### Education Specialist (PRIMARY OWNER)
+### Methodology & Cohort Facilitator (PRIMARY OWNER)
 - **Time:** 40-50% for Weeks 1-4 (15-20 hrs/week)
 - **Responsibilities:**
   - Lead material analysis
@@ -334,7 +334,7 @@ Weeks 7-8: First Cohort Launches
 - Request 3 x 90-min sessions over next 3 weeks
 - Propose dates
 
-### Step 4: Education Specialist Starts First Material
+### Step 4: Methodology & Cohort Facilitator Starts First Material
 - Pick highest-priority material (facilitator guide?)
 - Use `docs/templates/material-extraction.md`
 - Spend 2-3 hours on deep extraction
@@ -358,7 +358,7 @@ To refine execution, we need clarity on:
 4. Do they co-facilitate or have different roles?
 
 ### **About Team Capacity:**
-1. Can Education Specialist dedicate 15-20 hrs/week for 4 weeks?
+1. Can Methodology & Cohort Facilitator dedicate 15-20 hrs/week for 4 weeks?
 2. Can you dedicate 4-8 hrs/week for coordination?
 3. Is 4 weeks realistic or should we extend?
 

@@ -30,7 +30,7 @@
 
 ### Phase 1: Human-Facilitated Cohorts with AI Agents (Current)
 **What:**
-- Human facilitators (PM + Education Specialist) lead cohort
+- Human facilitators (PM + Methodology & Cohort Facilitator) lead cohort
 - AI agents provide specialized entrepreneurial work (Market Discovery, etc.)
 - Participants work hands-on with agent support
 

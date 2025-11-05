@@ -77,7 +77,7 @@ PM has resolved the 7 critical decisions needed to move forward with Vibe Entrep
 ---
 
 ### 5. Facilitation Model
-**Decision:** Co-facilitation by Education Specialist + PM
+**Decision:** Co-facilitation by Methodology & Cohort Facilitator + PM
 
 **Exploration:**
 - Considering whether AI Chief of Staff can partially facilitate
@@ -86,7 +86,7 @@ PM has resolved the 7 critical decisions needed to move forward with Vibe Entrep
 
 **Rationale:**
 - Two facilitators provide coverage and complementary strengths
-- PM brings product/strategic lens, Education Specialist brings curriculum/pedagogy
+- PM brings product/strategic lens, Methodology & Cohort Facilitator brings curriculum/pedagogy
 - Co-facilitation model aligns with PM taking on agent development (40% in Phases 3-4)
 
 ---
@@ -131,11 +131,11 @@ PM has resolved the 7 critical decisions needed to move forward with Vibe Entrep
 
 ### 8. Phase 1 Start Date
 **Status:** Not yet determined
-**Owner:** PM + Education Specialist
+**Owner:** PM + Methodology & Cohort Facilitator
 **Action:** Confirm team availability and set start date this week
 
 ### 9. Team Member Identification
-**Status:** Unknown if Education Specialist and AI Engineer roles are filled
+**Status:** Unknown if Methodology & Cohort Facilitator and AI Engineer roles are filled
 **Owner:** PM
 **Action:** Confirm team roster, onboard to project structure if already hired
 
@@ -146,7 +146,7 @@ PM has resolved the 7 critical decisions needed to move forward with Vibe Entrep
 
 ### 11. Success Metrics for Phase 1
 **Status:** Defined in WORKFLOW-ROADMAP.md, needs PM validation
-**Owner:** PM + Education Specialist
+**Owner:** PM + Methodology & Cohort Facilitator
 **Action:** Review gate criteria, confirm readiness indicators
 
 ### 12. Pilot Cohort Timeline
@@ -175,11 +175,11 @@ Based on resolved decisions, here's what can proceed immediately:
 ### This Week (Priority Actions):
 
 1. **Confirm team roster** (Decision #9)
-   - Are Education Specialist and AI Engineer identified?
+   - Are Methodology & Cohort Facilitator and AI Engineer identified?
    - Onboard them to repository and documentation
 
 2. **Set Phase 1 start date** (Decision #8)
-   - Coordinate with Education Specialist availability
+   - Coordinate with Methodology & Cohort Facilitator availability
    - Begin materials triage (4-8 hours)
 
 3. **Initiate community partner outreach** (Decision #2)
@@ -195,7 +195,7 @@ Based on resolved decisions, here's what can proceed immediately:
 ### Next 2 Weeks:
 
 5. **Begin Phase 1 Foundation work** (from CURRENT-FOCUS.md)
-   - Materials triage (Education Specialist lead, PM support)
+   - Materials triage (Methodology & Cohort Facilitator lead, PM support)
    - Schedule 3 expert sessions with methodology creators
    - Analyze 3 cornerstone materials
    - Establish extraction velocity
@@ -230,7 +230,7 @@ Based on resolved decisions, here's what can proceed immediately:
 
 **Ready to proceed to Phase 1 when:**
 - All above criteria met
-- Education Specialist available to begin materials triage
+- Methodology & Cohort Facilitator available to begin materials triage
 - Project repository accessible to full team
 - Clear ownership of first 4 priority tasks (from CURRENT-FOCUS.md)
 

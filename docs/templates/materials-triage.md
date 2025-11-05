@@ -2,7 +2,7 @@
 
 **Purpose:** Categorize 500+ materials into tiers for efficient extraction
 **Time Required:** 4-8 hours
-**Owner:** Education Specialist (lead) + PM (support)
+**Owner:** Methodology & Cohort Facilitator (lead) + PM (support)
 
 ---
 
@@ -311,7 +311,7 @@ Instead:
 
 **Remaining Tier 1 (17-27 docs):**
 - At 2.5 hrs per doc: 42-67 hours
-- At Education Specialist capacity (__hrs/week): __-__ weeks
+- At Methodology & Cohort Facilitator capacity (__hrs/week): __-__ weeks
 
 **Total Phase 2 Projection:**
 - Best case: __ weeks

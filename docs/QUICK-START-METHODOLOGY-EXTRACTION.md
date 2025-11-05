@@ -25,7 +25,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 1-2: Materials Inventory (HIGHEST PRIORITY)
 **Action:** List everything you have
-- **Who:** You + Education Specialist
+- **Who:** You + Methodology & Cohort Facilitator
 - **Time:** 4-6 hours
 - **Template:** `docs/templates/materials-inventory.md`
 - **Output:** Complete list of all methodology materials with priorities
@@ -38,7 +38,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 2-3: Pick Top 3-5 Materials
 **Action:** Identify the highest-value materials to analyze first
-- **Who:** Education Specialist
+- **Who:** Methodology & Cohort Facilitator
 - **Time:** 1-2 hours
 - **Output:** List of 3-5 materials to extract from first
 
@@ -50,7 +50,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 3-5: Analyze Top 3-5 Materials
 **Action:** Deep extraction from high-priority materials
-- **Who:** Education Specialist (primary)
+- **Who:** Methodology & Cohort Facilitator (primary)
 - **Time:** 10-12 hours (2-3 hours per material)
 - **Template:** `docs/templates/material-extraction.md`
 - **Output:** Extraction document for each material
@@ -63,7 +63,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 4-5: Prepare for Expert Session 1
 **Action:** Draft agenda based on initial material analysis
-- **Who:** Education Specialist (draft) + You (review)
+- **Who:** Methodology & Cohort Facilitator (draft) + You (review)
 - **Time:** 2-3 hours
 - **Template:** `docs/templates/expert-session-1-agenda.md`
 - **Output:** Session 1 agenda with targeted questions
@@ -90,7 +90,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 1: Expert Session 1
 **Action:** Conduct methodology overview and validation session
-- **Who:** Education Specialist (lead) + You (attend)
+- **Who:** Methodology & Cohort Facilitator (lead) + You (attend)
 - **Time:** 90 minutes + 2-3 hours synthesis
 - **Agenda:** `docs/templates/expert-session-1-agenda.md`
 - **Output:** Session recording + synthesis document
@@ -105,7 +105,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 2-4: Continue Material Analysis
 **Action:** Analyze next 3-5 high-priority materials
-- **Who:** Education Specialist
+- **Who:** Methodology & Cohort Facilitator
 - **Time:** 10-12 hours
 - **Output:** Additional extraction documents
 
@@ -116,7 +116,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 5: Pattern Synthesis
 **Action:** Identify themes across all materials analyzed so far
-- **Who:** Education Specialist
+- **Who:** Methodology & Cohort Facilitator
 - **Time:** 4-6 hours
 - **Output:** Provisional methodology synthesis document
 
@@ -130,7 +130,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### End of Week 2: Prepare for Expert Sessions 2-3
 **Action:** Draft agendas for remaining expert sessions
-- **Who:** Education Specialist
+- **Who:** Methodology & Cohort Facilitator
 - **Time:** 2 hours
 - **Output:** Session 2-3 agendas with targeted questions
 
@@ -155,7 +155,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Begin Methodology Framework Drafting
 **Action:** Start writing the comprehensive framework document
-- **Who:** Education Specialist (primary author)
+- **Who:** Methodology & Cohort Facilitator (primary author)
 - **Time:** 15-20 hours over Week 3-4
 - **Structure:** See methodology extraction plan, Phase 3, Step 3.1
 
@@ -189,7 +189,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Create Agent Implementation Specs
 **Action:** Translate methodology framework into agent-specific guidance
-- **Who:** Education Specialist (content) + AI Engineer (feasibility review)
+- **Who:** Methodology & Cohort Facilitator (content) + AI Engineer (feasibility review)
 - **Time:** 4-6 hours per agent (MVP = 3 agents = 12-18 hours)
 - **Output:** Implementation spec for each MVP agent
 
@@ -211,7 +211,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ## Critical Success Factors
 
-### 1. Education Specialist is the Lead
+### 1. Methodology & Cohort Facilitator is the Lead
 **Why:** Pedagogy expertise, understands learning design
 **Time required:** 40-50% for Weeks 1-4 (15-20 hours/week)
 **If not feasible:** Adjust timeline or bring in support
@@ -251,7 +251,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 🚩 **"We'll document this later"**
 → You won't. Synthesize immediately or knowledge evaporates.
 
-🚩 **"Education Specialist doesn't have 15-20 hrs/week"**
+🚩 **"Methodology & Cohort Facilitator doesn't have 15-20 hrs/week"**
 → Adjust timeline or get help. This is foundational work.
 
 🚩 **"AI Engineer can't wait for methodology"**
@@ -263,7 +263,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 - [ ] Materials inventory template copied and ready to use
 - [ ] Material extraction template understood
-- [ ] Education Specialist has 15-20 hrs/week Weeks 1-4
+- [ ] Methodology & Cohort Facilitator has 15-20 hrs/week Weeks 1-4
 - [ ] You (PM) have 4-8 hrs/week for expert management and review
 - [ ] Expert availability confirmed for 3-4 sessions over next 3 weeks
 - [ ] Clear on why this matters (agents can't teach what isn't codified)
@@ -300,7 +300,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Priority 1: Materials Inventory (Day 1-2)
 - [ ] Copy `docs/templates/materials-inventory.md` to `docs/materials-inventory.md`
-- [ ] You + Education Specialist: Spend 4-6 hours cataloging everything
+- [ ] You + Methodology & Cohort Facilitator: Spend 4-6 hours cataloging everything
 - [ ] Prioritize materials (HIGH/MEDIUM/LOW)
 - [ ] Identify top 3-5 for immediate analysis
 
@@ -311,7 +311,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 - [ ] Tentatively schedule Sessions 2-3
 
 ### Priority 3: Begin Material Analysis (Day 3-5)
-- [ ] Education Specialist: Analyze top 3 materials using extraction template
+- [ ] Methodology & Cohort Facilitator: Analyze top 3 materials using extraction template
 - [ ] Document frameworks, principles, exercises, sequence
 - [ ] Note questions for experts
 - [ ] Begin seeing patterns
@@ -333,7 +333,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 **If experts aren't available for 3 weeks:**
 → Adjust timeline. Better to get quality time with them than rush.
 
-**If Education Specialist doesn't have bandwidth:**
+**If Methodology & Cohort Facilitator doesn't have bandwidth:**
 → Talk to me about scaling back scope or phasing the work.
 
 **If you're not sure where materials are:**

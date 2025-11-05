@@ -439,7 +439,7 @@ Given your team composition:
 
 ---
 
-### **Person 2: Education Specialist - Design & Facilitate**
+### **Person 2: Methodology & Cohort Facilitator - Design & Facilitate**
 
 **Primary Roles:**
 1. Learning Experience Designer (100%)

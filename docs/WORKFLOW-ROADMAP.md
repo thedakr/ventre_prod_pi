@@ -26,7 +26,7 @@ Get oriented with materials and experts. Establish extraction velocity. Build en
 ### 📍 Current Focus (Priority Order)
 
 #### **Priority 1: Strategic Materials Triage** ⏳ Estimated: 4-8 hours
-**Who:** Education Specialist (lead) + You (support)
+**Who:** Methodology & Cohort Facilitator (lead) + You (support)
 
 **Don't catalog all 500+ docs in detail!** Instead, triage:
 
@@ -69,7 +69,7 @@ Get oriented with materials and experts. Establish extraction velocity. Build en
 ---
 
 #### **Priority 3: Analyze 3 "Cornerstone" Materials** ⏳ Estimated: 6-9 hours
-**Who:** Education Specialist
+**Who:** Methodology & Cohort Facilitator
 
 **Pick the 3 most valuable documents:**
 - **Material A:** Primary facilitator guide (if one exists)
@@ -95,7 +95,7 @@ Get oriented with materials and experts. Establish extraction velocity. Build en
 ---
 
 #### **Priority 4: Prepare Expert Session 1** ⏳ Estimated: 2-3 hours
-**Who:** Education Specialist (draft) + You (review)
+**Who:** Methodology & Cohort Facilitator (draft) + You (review)
 
 **Action:**
 1. Review 3 cornerstone material extractions
@@ -224,7 +224,7 @@ Synthesize methodology framework. Validate with experts. Create agent implementa
 - [ ] Methodology framework validated by experts
 - [ ] Agent implementation specs created for 3 MVP agents
 - [ ] AI Engineer understands what agents need to teach
-- [ ] Education Specialist can design curriculum using framework
+- [ ] Methodology & Cohort Facilitator can design curriculum using framework
 
 ---
 
@@ -247,7 +247,7 @@ Build agents that embody methodology. Design cohort curriculum. Prepare pilot co
 ---
 
 #### **Focus Area B: Curriculum Design**
-**Action:** Education Specialist designs 4-week cohort curriculum
+**Action:** Methodology & Cohort Facilitator designs 4-week cohort curriculum
 **Based on:** Methodology framework
 **Output:**
 - Week 1-4 session plans
@@ -404,7 +404,7 @@ flowchart TD
 **Projections Based on Week 1:**
 - Remaining Tier 1 docs: ___ docs
 - At ___ hrs per doc: ___ total hours
-- Education Specialist capacity: ___ hrs/week
+- Methodology & Cohort Facilitator capacity: ___ hrs/week
 - **Projected Phase 2 duration:** ___ weeks
 
 ---
@@ -510,7 +510,7 @@ Track key decisions as they're made (dates flexible):
 Instead of deadlines, track qualitative progress:
 
 ### Phase 1 Success Indicators:
-- ✅ Education Specialist can articulate core methodology in 2-3 paragraphs
+- ✅ Methodology & Cohort Facilitator can articulate core methodology in 2-3 paragraphs
 - ✅ Team knows which 20-30 materials to prioritize
 - ✅ Expert Session 1 provided valuable insights
 - ✅ Extraction velocity established and realistic
@@ -527,7 +527,7 @@ Instead of deadlines, track qualitative progress:
 - ✅ Experts validate framework ("Yes, that's our methodology!")
 - ✅ Framework captures what makes methodology unique
 - ✅ Agent specs clearly guide AI Engineer
-- ✅ Education Specialist can design curriculum from framework
+- ✅ Methodology & Cohort Facilitator can design curriculum from framework
 - ✅ Team confidence high for implementation phase
 
 ### Phase 4 Success Indicators:
@@ -545,7 +545,7 @@ Instead of deadlines, track qualitative progress:
 
 ### If Materials Analysis Taking Too Long:
 - **Recognize:** After 5-10 docs, if velocity is slow
-- **Adjust:** Narrow Tier 1 further, or increase Education Specialist time
+- **Adjust:** Narrow Tier 1 further, or increase Methodology & Cohort Facilitator time
 - **Don't:** Rush analysis or compromise quality
 
 ### If Expert Sessions Reveal Materials Are Incomplete:
@@ -554,7 +554,7 @@ Instead of deadlines, track qualitative progress:
 - **Don't:** Assume materials contain everything
 
 ### If Team Capacity Changes:
-- **Recognize:** Education Specialist availability drops
+- **Recognize:** Methodology & Cohort Facilitator availability drops
 - **Adjust:** Slow pace, extend phases, or bring in support
 - **Don't:** Force unrealistic pace
 

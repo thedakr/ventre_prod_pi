@@ -13,7 +13,7 @@
 ### Priority Tasks (In Order)
 
 #### ⏳ Priority 1: Strategic Materials Triage
-- **Owner:** Education Specialist (lead) + PM (support)
+- **Owner:** Methodology & Cohort Facilitator (lead) + PM (support)
 - **Estimated Time:** 4-8 hours
 - **Template:** `docs/templates/materials-triage.md`
 - **Status:** ⬜ Not Started
@@ -43,7 +43,7 @@
 ---
 
 #### ⏳ Priority 3: Analyze 3 Cornerstone Materials
-- **Owner:** Education Specialist
+- **Owner:** Methodology & Cohort Facilitator
 - **Estimated Time:** 6-9 hours (2-3 hrs per doc)
 - **Template:** `docs/templates/material-extraction.md`
 - **Status:** ⬜ Not Started
@@ -65,7 +65,7 @@
 ---
 
 #### ⏳ Priority 4: Prepare Expert Session 1
-- **Owner:** Education Specialist (draft) + PM (review)
+- **Owner:** Methodology & Cohort Facilitator (draft) + PM (review)
 - **Estimated Time:** 2-3 hours
 - **Template:** `docs/templates/expert-session-1-agenda.md`
 - **Status:** ⬜ Not Started
@@ -124,7 +124,7 @@
 **Projection for Tier 1:**
 - Remaining Tier 1 docs: ___ docs
 - At ___ hrs per doc: ___ total hours
-- Education Specialist capacity: ___ hrs/week
+- Methodology & Cohort Facilitator capacity: ___ hrs/week
 - **Projected Phase 2 duration:** ___ weeks
 
 ---
@@ -171,7 +171,7 @@
 ## 💬 THIS WEEK'S TEAM CHECK-IN
 
 **Date:** [To be scheduled]
-**Attendees:** PM, Education Specialist, AI Engineer (50%)
+**Attendees:** PM, Methodology & Cohort Facilitator, AI Engineer (50%)
 
 **Agenda:**
 1. Review priorities for week (5 min)
@@ -207,7 +207,7 @@
 
 ## 🎯 TEAM CAPACITY THIS WEEK
 
-### Education Specialist:
+### Methodology & Cohort Facilitator:
 - **Available hours:** ___ hrs/week
 - **Allocated to:**
   - Materials triage: ___ hrs
@@ -336,7 +336,7 @@ Instead of checking boxes, assess confidence:
 
 👉 **Start here:** Materials triage (4-8 hours)
 - Use `docs/templates/materials-triage.md`
-- Education Specialist leads, PM supports
+- Methodology & Cohort Facilitator leads, PM supports
 - Output: Know which 20-30 docs to analyze first
 
 **Once triage is done, everything else gets easier.**

@@ -74,7 +74,7 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 **You (PM/PI):** Strategy, partnerships, operations, expert coordination (4-8 hrs/week Weeks 1-4)
 
-**Education Specialist:** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-4)
+**Methodology & Cohort Facilitator:** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-4)
 
 **AI Engineer (50%):** Agent implementation, web portal, technical infrastructure (ramping from 5% to 30% over Weeks 1-6)
 

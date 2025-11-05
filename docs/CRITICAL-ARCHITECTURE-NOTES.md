@@ -257,10 +257,10 @@ Week 4: Tuesday (Session 7), Thursday (Session 8)
 **Agents must teach methodology correctly**, based on:
 - 500+ documents from partner entrepreneurs
 - Expert knowledge extraction (4 structured sessions)
-- Methodology framework created by Education Specialist
+- Methodology framework created by Methodology & Cohort Facilitator
 
 **Validation:**
-- Education Specialist tests agent responses against methodology
+- Methodology & Cohort Facilitator tests agent responses against methodology
 - Methodology experts review agent prompts
 - Ongoing monitoring for drift
 
@@ -344,6 +344,213 @@ Week 4: Tuesday (Session 7), Thursday (Session 8)
 
 ---
 
+## 🚨 CRITICAL REQUIREMENT #7: Data Collection & Analytics Infrastructure
+
+### The Requirement
+
+**We need objective data** to measure participant progression, agent effectiveness, and hypothesis validation.
+
+**Why This Matters:**
+- Self-reported surveys are subjective
+- Behavioral data shows actual usage patterns
+- Enables data-driven iteration and improvement
+- Validates whether agents actually help (not just novelty)
+
+---
+
+### **What Data to Capture**
+
+#### **Must-Have for MVP:**
+
+**1. Agent Conversations:**
+- Participant ID, agent ID, timestamp, duration
+- Message count, conversation depth
+- Full conversation log (participant + agent messages)
+- Week number, session context (pre/post group session)
+
+**2. Artifacts Created:**
+- Weekly management reports, project reviews
+- Timestamp, completeness score
+- Action count (how many actions mentioned?)
+- External validation detected (talked to customers? Y/N)
+- Full text of artifact
+
+**3. Session Attendance:**
+- Which of 8 sessions each participant attended
+- Post-session feedback (helpfulness ratings)
+
+**4. Milestones & Progression:**
+- Venture stage (idea → validation → building → testing, etc.)
+- Key achievements (first customer conversation, MVP launched, first sale)
+- Actions planned vs. actions completed
+
+**5. Agent Routing:**
+- Chief of Staff stage assessments
+- Which specialists were recommended
+- Did participant follow routing?
+
+---
+
+### **Data Schema (Recommended)**
+
+**Hybrid Approach: Event Log + Structured Tables**
+
+**Event Log (capture everything):**
+```sql
+CREATE TABLE events (
+  event_id UUID PRIMARY KEY,
+  participant_id UUID,
+  event_type VARCHAR(50), -- 'conversation', 'artifact', 'milestone', etc.
+  timestamp TIMESTAMP,
+  metadata JSONB -- flexible for event-specific data
+);
+```
+
+**Structured Tables (queryable):**
+```sql
+CREATE TABLE conversations (
+  conversation_id UUID PRIMARY KEY,
+  participant_id UUID,
+  agent_id VARCHAR(50),
+  start_time TIMESTAMP,
+  duration_seconds INT,
+  message_count INT
+);
+
+CREATE TABLE artifacts (
+  artifact_id UUID PRIMARY KEY,
+  participant_id UUID,
+  artifact_type VARCHAR(50),
+  created_timestamp TIMESTAMP,
+  completeness_score FLOAT,
+  action_count INT,
+  full_text TEXT
+);
+
+CREATE TABLE milestones (
+  milestone_id UUID PRIMARY KEY,
+  participant_id UUID,
+  milestone_type VARCHAR(50),
+  timestamp TIMESTAMP,
+  description TEXT
+);
+```
+
+**See DATA-ANALYTICS-PLAN.md for complete schema details.**
+
+---
+
+### **Export Functionality**
+
+**For Cohort 1 (Manual Analysis):**
+- [ ] Export all data to CSV format
+- [ ] One CSV per table (conversations.csv, artifacts.csv, milestones.csv, etc.)
+- [ ] Export button in admin interface or API endpoint
+
+**Analysis Workflow:**
+- CSV → Google Sheets / Excel / Python
+- Calculate progression scores
+- Visualize patterns
+- AI-assisted analysis (feed data to LLM)
+
+---
+
+### **Key Metrics to Enable**
+
+**The data above must support calculating:**
+
+1. **Venture Progression Score (0-20 points):**
+   - Stage advancement (5 pts)
+   - External validation actions (5 pts)
+   - Artifact consistency (3 pts)
+   - Milestone achievement (5 pts)
+   - Agent-driven action (2 pts)
+
+2. **Agent Effectiveness:**
+   - Usage rate (% who used each agent)
+   - Usage depth (avg messages per conversation)
+   - Return rate (% who came back 3+ times)
+   - Correlation with outcomes
+
+3. **Completion Rates:**
+   - Attendance completion (≥6 of 8 sessions)
+   - Engagement completion (attendance + artifacts + actions)
+   - Outcome completion (attendance + progression ≥10)
+
+4. **Hypothesis Validation:**
+   - H1: Latent entrepreneurs exist (did they develop viable ideas?)
+   - H2: Methodology fits demographic (was it accessible?)
+   - H3: AI transforms practice (did agents drive progress?)
+
+**See DATA-ANALYTICS-PLAN.md for complete metric definitions.**
+
+---
+
+### **Privacy & Consent**
+
+**Critical Considerations:**
+- [ ] Participants consent to data collection (informed consent form)
+- [ ] Anonymize data for analysis (use participant IDs, not names)
+- [ ] Secure storage (encrypt sensitive conversation data)
+- [ ] Retention policy (how long do we keep logs?)
+- [ ] IRB approval if this is research (consult legal/compliance)
+
+**Underserved populations may have trust concerns** - be transparent about data use.
+
+---
+
+### **MVP Scope Decisions**
+
+**Must Build for Cohort 1:**
+- [x] Log all agent conversations (with timestamps, message counts)
+- [x] Log artifact creation (management reports, project reviews)
+- [x] Track session attendance
+- [x] Store milestones/progression data
+- [x] Export functionality (CSV)
+
+**Should Build (If Time Permits):**
+- [ ] Auto-calculate progression score
+- [ ] Basic analytics queries (e.g., "show participants with score ≥15")
+- [ ] NLP analysis of artifacts (detect actions, sentiment)
+
+**Defer to Cohort 2:**
+- [ ] Real-time dashboard (monitor during cohort)
+- [ ] Automated alerts (flag inactive participants)
+- [ ] Advanced analytics (predictive models)
+
+---
+
+### **Technical Questions for Engineer**
+
+Before implementing, resolve:
+- What database will you use? (Supabase, PostgreSQL, Firebase?)
+- Event log vs. structured tables vs. both?
+- How to handle conversation text storage? (full logs vs. summaries?)
+- Export format preferences? (CSV, JSON, both?)
+- Privacy/security approach? (encryption, access controls?)
+
+**Recommendation:** Start simple (event log + CSV export), iterate to structured tables in Cohort 2.
+
+---
+
+### **Why This is Critical Requirement #7**
+
+**Without data collection:**
+- No objective measure of success (only subjective surveys)
+- Can't validate which agents work (just guessing)
+- Can't prove hypotheses (anecdotal only)
+- Can't iterate effectively (don't know what to improve)
+
+**With data collection:**
+- Know which participants progressed (objectively)
+- Know which agents drove outcomes (data-driven)
+- Validate or refute hypotheses (evidence-based)
+- Improve for Cohort 2 (targeted iterations)
+
+**This isn't optional analytics - it's core to the learning mission of Cohort 1.**
+
+---
+
 ## Design Principles Summary
 
 When engineer designs agent architecture, these principles MUST be satisfied:
@@ -354,6 +561,7 @@ When engineer designs agent architecture, these principles MUST be satisfied:
 4. ✅ **Methodology fidelity** (prompts based on extracted methodology, easily updatable)
 5. ✅ **Stage-agnostic** (agents adapt to where participant is, not prescriptive path)
 6. ✅ **Action-oriented** (every interaction drives toward doing, not just learning)
+7. ✅ **Data collection** (log everything for objective measurement and learning)
 
 **If ANY of these are missing, the MVP won't work as intended.**
 

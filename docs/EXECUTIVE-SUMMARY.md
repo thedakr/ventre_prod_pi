@@ -62,7 +62,7 @@ You need:
 - Team coordination (15%)
 - Budget and admin (5%)
 
-**Education Specialist:**
+**Methodology & Cohort Facilitator:**
 - Curriculum design (30%)
 - Cohort facilitation (30%)
 - Research and evaluation (20%)
@@ -215,7 +215,7 @@ You need:
 **Implementation:** Single portal approach (MVP-SINGLE-PORTAL-APPROACH.md) reduces scope significantly
 
 ### 5. Facilitation Lead ✅
-**Decision:** Both Education Specialist and PM will co-facilitate
+**Decision:** Both Methodology & Cohort Facilitator and PM will co-facilitate
 **Consideration:** Exploring whether AI Chief of Staff can partially facilitate
 
 ### 6. Funding Model ✅
@@ -323,7 +323,7 @@ This aligns with:
 - [ ] Set up project management system (Notion/Asana/Linear)
 - [ ] Create budget and resource plan
 
-**Education Specialist Focus:**
+**Methodology & Cohort Facilitator Focus:**
 - [ ] Analyze partner materials (begin extraction from 500+ docs/videos)
 - [ ] Draft 4-week, 3-6-agent experience flow based on methodology findings
 - [ ] Begin facilitation guide outline (based on partner materials + consultation)
@@ -357,7 +357,7 @@ This aligns with:
 - [ ] Review agent builds from engineer
 - [ ] Finalize agents (co-development with engineer, prompt refinement)
 
-**Education Specialist Focus:**
+**Methodology & Cohort Facilitator Focus:**
 - [ ] Finalize cohort schedule (meeting days, business work reminders between sessions)
 - [ ] Create facilitation guide (based on methodology, partner consultation)
 - [ ] Design methodology artifact templates (weekly management reports, project reviews)
@@ -394,7 +394,7 @@ This aligns with:
 - [ ] Finalize participant list (confirm attendance)
 - [ ] Create contingency plans (tech failures, low attendance)
 
-**Education Specialist Focus:**
+**Methodology & Cohort Facilitator Focus:**
 - [ ] Conduct dry-run facilitation (with team as participants)
 - [ ] Refine entrepreneurship methodology & schedule based on dry-run
 - [ ] Prepare facilitation materials (based on methodology)
@@ -466,7 +466,7 @@ This aligns with:
 - [ ] Document what's working and what's not
 - [ ] Begin recruiting for Cohort 2
 
-**Education Specialist Focus:**
+**Methodology & Cohort Facilitator Focus:**
 - [ ] Facilitate Sessions 1 and 2
 - [ ] Support participants throughout week
 - [ ] Monitor peer community
@@ -515,29 +515,150 @@ This aligns with:
 
 ---
 
-## Success Criteria for Pilot Cohort
+## Success Criteria & Analytics Strategy
 
-### Must-Have (Minimum Bar):
+### Must-Have (Minimum Bar for Cohort 1):
+
+**Execution:**
 - [ ] 10-15 participants start the cohort
 - [ ] 3 AI agents functional and accessible
-- [ ] 4 facilitated sessions completed
-- [ ] Feedback collected from participants
-- [ ] At least 60% completion rate (6+ of 10 finish)
+- [ ] 8 facilitated sessions completed (2x/week over 4 weeks)
+- [ ] Feedback collected from participants (post-session + post-cohort)
+- [ ] Data collection infrastructure implemented (agent conversations, artifacts, milestones logged)
+
+**Completion Rates (Three Definitions):**
+- [ ] **Attendance:** 60%+ attend ≥6 of 8 sessions
+- [ ] **Engagement:** 50%+ attend + create artifacts + take actions
+- [ ] **Outcome:** 25%+ attend + meaningful progress on ventures
+
+**Artifacts & Action:**
+- [ ] 80%+ participants created weekly management reports
+- [ ] 80%+ participants created project reviews
+- [ ] Evidence of real-world action (not just planning) in artifacts
+
+---
 
 ### Should-Have (Strong Success):
-- [ ] 75%+ completion rate
-- [ ] Participants report agents were helpful (survey data)
-- [ ] Participants make progress on business ideas (observable)
-- [ ] Team learns what to improve for Cohort 2
+
+**Participant Outcomes:**
+- [ ] 75%+ participants made measurable progress from their starting stage
+- [ ] 70%+ participants took real-world action (customer conversations, tests, MVPs)
+- [ ] Participants attribute progress to agent support (qualitative + usage data)
+
+**Agent Effectiveness:**
+- [ ] Chief of Staff correctly identified participant stages (validation)
+- [ ] Agents drove action (not just provided information)
+- [ ] Participants used agents independently (not just when prompted)
+- [ ] Agent usage correlates with better outcomes (data analysis)
+
+**Methodology & Learning:**
+- [ ] Methodology fidelity maintained (Methodology & Cohort Facilitator validates ≥4/5)
+- [ ] Team identifies top 3 improvements for Cohort 2
+- [ ] Team understands which agents were most/least valuable
 - [ ] Community partner wants to continue
 
+---
+
 ### Nice-to-Have (Exceptional):
-- [ ] 1+ participant launches business during cohort
+
+**Participant Milestones:**
+- [ ] 1+ participant achieved major milestone (first sale, MVP launch, validated problem with 10+ customers, made pivot decision)
 - [ ] 1+ participant gains employment/advancement
 - [ ] Participants recommend program to others
-- [ ] Viral word-of-mouth recruitment
+- [ ] Viral word-of-mouth recruitment begins
 
-**Remember:** Pilot is about LEARNING, not perfection. Even if only 50% complete the cohort, if you learn why and how to improve, that's success.
+**System Validation:**
+- [ ] Two-tier agent system worked smoothly (individual + cohort agents, if implemented)
+- [ ] Artifacts unified participants at different stages (proof of stage-agnostic model)
+- [ ] 2x/week cadence maintained momentum (vs. 1x/week)
+
+---
+
+### Hypothesis Validation (Core Mission):
+
+**Hypothesis 1: Latent entrepreneurs exist in poor populations**
+- [ ] 70%+ participants developed viable business concepts
+- [ ] 70%+ participants demonstrated entrepreneurial capacity (action, problem-solving, persistence)
+- [ ] Qualitative evidence: Barriers were external (resources) not internal (capability)
+
+**Hypothesis 2: Methodology is uniquely suited for underserved populations**
+- [ ] 75%+ participants report methodology is understandable (not too complex/abstract)
+- [ ] 75%+ participants report methodology is relevant to their context
+- [ ] 75%+ participants can apply methodology principles to their ventures
+
+**Hypothesis 3: AI can transform entrepreneurship practice for this demographic**
+- [ ] 75%+ participants report agents were valuable (not just interesting)
+- [ ] Evidence of agent-driven action (artifacts reference agent conversations)
+- [ ] Participants used agents independently and returned multiple times
+- [ ] Agent usage correlates with progression scores (data analysis)
+
+**See DATA-ANALYTICS-PLAN.md for detailed metric definitions and measurement approach.**
+
+---
+
+### Objective Measurement: Venture Progression Score
+
+**For each participant, calculate 0-20 point score based on:**
+- Stage advancement (0-5 pts)
+- External validation actions (0-5 pts)
+- Artifact consistency (0-3 pts)
+- Milestone achievement (0-5 pts)
+- Agent-driven action (0-2 pts)
+
+**Progression Categories:**
+- **15-20 pts:** Significant progress
+- **10-14 pts:** Moderate progress
+- **5-9 pts:** Minimal progress
+- **0-4 pts:** No progress / regression
+
+**Target:** 60%+ participants achieve moderate or significant progress (≥10 points)
+
+**Why This Matters:** Objective metric (not self-reported) based on logged data enables honest assessment and cross-cohort comparison.
+
+---
+
+### ⚠️ Uncertainty Flags
+
+**Completion Rate Targets:** We don't know what "good" completion looks like for action-oriented entrepreneurship work in underserved populations. These targets are provisional.
+
+**After Cohort 1, we'll refine with Methodology & Cohort Facilitator and partners based on:**
+- What completion rate is realistic for entrepreneurial work (vs. passive learning)
+- What completion rate indicates methodology fit for demographic
+- What completion rate suggests appropriate expectations
+
+**It's possible 40% engagement completion is actually GREAT** if those 40% made significant progress. Or maybe 80% is achievable with better support. We'll learn.
+
+---
+
+### Data Collection & Analysis
+
+**Cohort 1 will log:**
+- All agent conversations (participant + agent messages, timestamps)
+- All artifacts created (management reports, project reviews)
+- Session attendance and post-session feedback
+- Milestones achieved and progression snapshots
+- Agent routing decisions (Chief of Staff assessments)
+
+**Post-Cohort 1 Analysis:**
+- Export data to CSV for analysis (Google Sheets, Python, Excel)
+- Calculate progression scores programmatically
+- Analyze agent effectiveness (usage rates, correlation with outcomes)
+- Validate hypotheses with evidence
+- Identify patterns and improvement opportunities
+
+**See DATA-ANALYTICS-PLAN.md and CRITICAL-ARCHITECTURE-NOTES.md for technical implementation details.**
+
+---
+
+### Remember: Pilot is About LEARNING
+
+**Even if only 50% complete the cohort**, if we learn:
+- Why they didn't complete (barriers? program design?)
+- What worked for those who did progress
+- Which agents drove outcomes
+- How to improve for Cohort 2
+
+**That's success.** This is discovery, not optimization (yet).
 
 ---
 
@@ -568,7 +689,7 @@ This aligns with:
 - Prototype first agent (Chief of Staff)
 - Validate technical approach is feasible
 
-### Action 5: Curriculum Design Kickoff (Education Specialist)
+### Action 5: Curriculum Design Kickoff (Methodology & Cohort Facilitator)
 **Action:**
 - Draft Week 1-4 curriculum outline
 - Review agent specs for alignment with learning goals
@@ -583,10 +704,10 @@ This aligns with:
 ### 8. Phase 1 Start Date
 **Question:** When will the team begin Phase 1 (materials triage and methodology extraction)?
 **Why It Matters:** Sets timeline expectations for all downstream phases
-**Recommendation:** Confirm with Education Specialist availability this week
+**Recommendation:** Confirm with Methodology & Cohort Facilitator availability this week
 
 ### 9. Team Member Identification
-**Question:** Are the Education Specialist and AI Engineer (50%) roles filled with specific people?
+**Question:** Are the Methodology & Cohort Facilitator and AI Engineer (50%) roles filled with specific people?
 **Why It Matters:** Need to onboard them to project structure and assign first tasks
 **Action Needed:** If not yet hired/contracted, prioritize this immediately
 
@@ -598,7 +719,7 @@ This aligns with:
 ### 11. Success Metrics for Phase 1
 **Question:** How will you know Phase 1 (Foundation) is complete and you're ready for Phase 2?
 **Recommendation:** Use gate criteria from WORKFLOW-ROADMAP.md
-**Owner:** PM to validate with Education Specialist
+**Owner:** PM to validate with Methodology & Cohort Facilitator
 
 ### 12. Pilot Cohort Timeline
 **Question:** Since we moved away from rigid 8-week timeline, what's the target range for pilot cohort launch?

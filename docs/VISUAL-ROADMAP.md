@@ -309,7 +309,7 @@ graph LR
         PM4[Partnership<br/>Development]
     end
 
-    subgraph Edu ["Education Specialist"]
+    subgraph Edu ["Methodology & Cohort Facilitator"]
         Edu1[Lead Material<br/>Analysis]
         Edu2[Lead Expert<br/>Sessions]
         Edu3[Draft<br/>Framework]
@@ -520,7 +520,7 @@ flowchart TD
 - Use **Diagram 3 (Parallel Tracks)** to show methodology + agent development convergence
 
 ### **For Methodology Extraction:**
-- Use **Diagram 2 (Process Flow)** to guide Education Specialist through extraction process
+- Use **Diagram 2 (Process Flow)** to guide Methodology & Cohort Facilitator through extraction process
 - Use **Diagram 5 (Detailed Timeline)** for week-by-week task planning
 
 ### **For Understanding System:**

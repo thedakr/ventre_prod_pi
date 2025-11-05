@@ -1,7 +1,7 @@
 # Materials Inventory Template
 
 **Purpose:** Catalog all methodology materials for analysis
-**Owner:** PM + Education Specialist
+**Owner:** PM + Methodology & Cohort Facilitator
 **Date Started:** [Date]
 
 ---

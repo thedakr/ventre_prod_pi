@@ -321,11 +321,11 @@ This aligns with:
 - [ ] Create budget and resource plan
 
 **Education Specialist Focus:**
-- [ ] Review agent specs and align with learning goals
-- [ ] Draft high-level curriculum structure (4 weeks)
-- [ ] Identify learning objectives for each week
-- [ ] Begin facilitation guide outline
+- [ ] Analyze partner materials (begin extraction from 500+ docs/videos)
+- [ ] Draft 4-week, 3-6-agent experience flow based on methodology findings
+- [ ] Begin facilitation guide outline (based on partner materials + consultation)
 - [ ] Design feedback collection instruments
+- [ ] Understand core entrepreneurship methodology from partner materials
 
 **AI Engineer Focus:**
 - [ ] Review agent specs in detail
@@ -349,18 +349,19 @@ This aligns with:
 **Your Focus (PM/PI):**
 - [ ] Finalize partnership agreement with community org
 - [ ] Active participant recruitment (target 15-20 to get 10-15)
-- [ ] Set up cohort logistics (Zoom links, calendar, communications)
 - [ ] Create participant onboarding materials
-- [ ] Coordinate with education specialist on curriculum
+- [ ] Coordinate with education specialist on cohort experience design
 - [ ] Review agent builds from engineer
+- [ ] Finalize agents (co-development with engineer, prompt refinement)
 
 **Education Specialist Focus:**
-- [ ] Finalize Week 1-4 detailed curriculum
-- [ ] Create facilitation guide with scripts, prompts, activities
-- [ ] Design worksheets and homework assignments
-- [ ] Create assessment rubrics
+- [ ] Finalize cohort schedule (meeting days, business work reminders between sessions)
+- [ ] Create facilitation guide (based on methodology, partner consultation)
+- [ ] Design methodology artifact templates (weekly management reports, project reviews)
+- [ ] Set up cohort logistics (Zoom links, calendar, communications)
 - [ ] Develop feedback surveys (post-session, post-cohort)
 - [ ] Plan peer community structure (Slack/WhatsApp)
+- [ ] Define participant work expectations (business creation activities between sessions)
 
 **AI Engineer Focus:**
 - [ ] Implement 3 core agents (Chief of Staff, Market Discovery, Methodology Coach)
@@ -386,7 +387,7 @@ This aligns with:
 
 **Your Focus (PM/PI):**
 - [ ] Internal testing of agents (role-play as participant)
-- [ ] Review curriculum with full team
+- [ ] Review cohort experience design with full team
 - [ ] Finalize participant list (confirm attendance)
 - [ ] Send pre-cohort orientation materials
 - [ ] Confirm all logistics (Zoom, Slack, materials)
@@ -394,9 +395,9 @@ This aligns with:
 
 **Education Specialist Focus:**
 - [ ] Conduct dry-run facilitation (with team as participants)
-- [ ] Refine curriculum based on dry-run
-- [ ] Prepare presentation materials
-- [ ] Test all activities and worksheets
+- [ ] Refine cohort experience based on dry-run
+- [ ] Prepare facilitation materials (based on methodology)
+- [ ] Test methodology artifacts and agent interaction flows
 - [ ] Create participant welcome packet
 - [ ] Set up peer community space
 
@@ -422,14 +423,14 @@ This aligns with:
 
 **Week 7 (Cohort Week 1):**
 - [ ] Session 1: Idea exploration and problem validation
-- [ ] Participant homework: Interact with Market Discovery agent
+- [ ] Participant business work: Validate problem/customer with agent support (weekly management reports)
 - [ ] Collect post-session feedback
 - [ ] Team debrief (what worked, what didn't)
 - [ ] Quick iterations if needed
 
 **Week 8 (Cohort Week 2):**
 - [ ] Session 2: Customer discovery and research
-- [ ] Participant homework: Continue agent interactions
+- [ ] Participant business work: Continue validation with agent support (project reviews)
 - [ ] Collect post-session feedback
 - [ ] Document all learnings
 - [ ] Begin planning Cohort 2 modifications

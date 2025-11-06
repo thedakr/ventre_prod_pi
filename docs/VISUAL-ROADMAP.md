@@ -13,49 +13,49 @@ gantt
     axisFormat Week %U
 
     section Methodology Track
-    Materials Inventory           :m1, 2025-01-06, 2d
-    Analyze Top 3-5 Materials    :m2, 2025-01-08, 3d
-    Prepare Expert Session 1      :m3, 2025-01-09, 2d
-    Expert Session 1              :milestone, m4, 2025-01-13, 1d
-    Synthesize Session 1          :m5, 2025-01-13, 1d
-    Analyze Next 3-5 Materials    :m6, 2025-01-14, 3d
-    Pattern Synthesis             :m7, 2025-01-17, 1d
-    Expert Session 2              :milestone, m8, 2025-01-20, 1d
-    Expert Session 3              :milestone, m9, 2025-01-23, 1d
-    Draft Methodology Framework   :m10, 2025-01-20, 7d
-    Expert Validation Session     :milestone, m11, 2025-01-27, 1d
-    Finalize Framework v1.0       :m12, 2025-01-28, 3d
-    Create Agent Implementation Specs :m13, 2025-01-31, 4d
+    Materials Inventory           :m1, 2026-01-06, 2d
+    Analyze Top 3-5 Materials    :m2, 2026-01-08, 3d
+    Prepare Expert Session 1      :m3, 2026-01-09, 2d
+    Expert Session 1              :milestone, m4, 2026-01-13, 1d
+    Synthesize Session 1          :m5, 2026-01-13, 1d
+    Analyze Next 3-5 Materials    :m6, 2026-01-14, 3d
+    Pattern Synthesis             :m7, 2026-01-17, 1d
+    Expert Session 2              :milestone, m8, 2026-01-20, 1d
+    Expert Session 3              :milestone, m9, 2026-01-23, 1d
+    Draft Methodology Framework   :m10, 2026-01-20, 7d
+    Expert Validation Session     :milestone, m11, 2026-01-27, 1d
+    Finalize Framework v1.0       :m12, 2026-01-28, 3d
+    Create Agent Implementation Specs :m13, 2026-01-31, 4d
 
     section Agent Development
-    Prototype Agent Architecture  :a1, 2025-01-06, 7d
-    Build Orchestration Framework :a2, 2025-01-13, 7d
-    Implement MVP Agents (3)      :a3, 2025-01-20, 14d
-    Refine with Methodology       :a4, 2025-02-03, 7d
-    Methodology Fidelity Testing  :a5, 2025-02-10, 7d
+    Prototype Agent Architecture  :a1, 2026-01-06, 7d
+    Build Orchestration Framework :a2, 2026-01-13, 7d
+    Implement MVP Agents (6)      :a3, 2026-01-20, 14d
+    Refine with Methodology       :a4, 2026-02-03, 7d
+    Methodology Fidelity Testing  :a5, 2026-02-10, 7d
 
     section Web Portal
-    Design Mockups                :w1, 2025-01-06, 7d
-    Build Auth System             :w2, 2025-01-20, 7d
-    Build Chat Interface          :w3, 2025-01-27, 7d
-    Mobile Responsive Design      :w4, 2025-02-03, 7d
-    Deploy & Test                 :w5, 2025-02-10, 7d
+    Design Mockups                :w1, 2026-01-06, 7d
+    Build Auth System             :w2, 2026-01-20, 7d
+    Build Chat Interface          :w3, 2026-01-27, 7d
+    Mobile Responsive Design      :w4, 2026-02-03, 7d
+    Deploy & Test                 :w5, 2026-02-10, 7d
 
     section Curriculum & Facilitation
-    Draft Week 1-4 Outline        :c1, 2025-01-13, 7d
-    Create Facilitator Guide      :c2, 2025-01-20, 7d
-    Design Exercises & Materials  :c3, 2025-01-27, 7d
-    Dry Run Facilitation          :c4, 2025-02-03, 7d
+    Draft Week 1-8 Outline        :c1, 2026-01-13, 7d
+    Create Facilitator Guide      :c2, 2026-01-20, 7d
+    Design Exercises & Materials  :c3, 2026-01-27, 7d
+    Dry Run Facilitation          :c4, 2026-02-03, 7d
 
     section Partnership & Recruitment
-    Identify Community Partner    :p1, 2025-01-06, 7d
-    Finalize Partnership          :p2, 2025-01-13, 7d
-    Begin Recruitment             :p3, 2025-01-20, 14d
-    Confirm 10-15 Participants    :milestone, p4, 2025-02-10, 1d
+    Identify Community Partner    :p1, 2026-01-06, 7d
+    Finalize Partnership          :p2, 2026-01-13, 7d
+    Begin Recruitment             :p3, 2026-01-20, 14d
+    Confirm 10-15 Participants    :milestone, p4, 2026-02-10, 1d
 
     section Pilot Cohort
-    Cohort Week 1                 :milestone, pilot1, 2025-02-17, 1d
-    Cohort Week 2                 :milestone, pilot2, 2025-02-24, 1d
+    Cohort Week 1                 :milestone, pilot1, 2026-02-17, 1d
+    Cohort Week 2                 :milestone, pilot2, 2026-02-24, 1d
 ```
 
 ---
@@ -64,7 +64,7 @@ gantt
 
 ```mermaid
 flowchart TD
-    Start([Week 1: Start]) --> Inventory[Materials Inventory<br/>4-6 hours<br/>YOU + Edu Specialist]
+    Start([Week 1: Start]) --> Inventory[Materials Inventory<br/>4-6 hours<br/>YOU + Methodology & Cohort Facilitator]
 
     Inventory --> Prioritize{Prioritize<br/>Materials}
 
@@ -72,7 +72,7 @@ flowchart TD
     Prioritize --> Medium[MEDIUM Priority<br/>Session Recordings<br/>Outcomes Data]
     Prioritize --> Low[LOW Priority<br/>Supporting Readings<br/>Admin Materials]
 
-    High --> Extract1[Extract Top 3-5<br/>Materials<br/>10-12 hours<br/>Edu Specialist]
+    High --> Extract1[Extract Top 3-5<br/>Materials<br/>10-12 hours<br/>Methodology & Cohort Facilitator]
 
     Extract1 --> PrepExpert1[Prepare Expert<br/>Session 1<br/>2-3 hours]
 
@@ -98,7 +98,7 @@ flowchart TD
 
     ValidateExpert --> FinalizeFramework[Finalize Framework<br/>v1.0<br/>Incorporate Feedback]
 
-    FinalizeFramework --> AgentSpecs[Create Agent<br/>Implementation Specs<br/>4-6 hrs per agent<br/>x 3 agents]
+    FinalizeFramework --> AgentSpecs[Create Agent<br/>Implementation Specs<br/>4-6 hrs per agent<br/>x 6 agents]
 
     AgentSpecs --> ToAgents[Feed to AI Engineer<br/>for Agent Prompts]
 
@@ -260,40 +260,40 @@ gantt
     axisFormat Week %U
 
     section Week 1
-    Materials Inventory               :m1, 2025-01-06, 2d
-    Prioritize Materials              :m2, 2025-01-08, 1d
-    Analyze Material 1 (Facil Guide)  :m3, 2025-01-08, 1d
-    Analyze Material 2 (Method Doc)   :m4, 2025-01-09, 1d
-    Analyze Material 3 (Exercises)    :m5, 2025-01-10, 1d
-    Prepare Expert Session 1 Agenda   :m6, 2025-01-09, 2d
-    Schedule Expert Sessions          :milestone, 2025-01-08, 1d
+    Materials Inventory               :m1, 2026-01-06, 2d
+    Prioritize Materials              :m2, 2026-01-08, 1d
+    Analyze Material 1 (Facil Guide)  :m3, 2026-01-08, 1d
+    Analyze Material 2 (Method Doc)   :m4, 2026-01-09, 1d
+    Analyze Material 3 (Exercises)    :m5, 2026-01-10, 1d
+    Prepare Expert Session 1 Agenda   :m6, 2026-01-09, 2d
+    Schedule Expert Sessions          :milestone, 2026-01-08, 1d
 
     section Week 2
-    Expert Session 1 - Overview       :milestone, 2025-01-13, 1d
-    Synthesize Session 1              :m7, 2025-01-13, 1d
-    Analyze Material 4                :m8, 2025-01-14, 1d
-    Analyze Material 5                :m9, 2025-01-15, 1d
-    Analyze Material 6                :m10, 2025-01-16, 1d
-    Pattern Synthesis (All Materials) :m11, 2025-01-17, 1d
-    Prepare Expert Session 2-3        :m12, 2025-01-16, 2d
+    Expert Session 1 - Overview       :milestone, 2026-01-13, 1d
+    Synthesize Session 1              :m7, 2026-01-13, 1d
+    Analyze Material 4                :m8, 2026-01-14, 1d
+    Analyze Material 5                :m9, 2026-01-15, 1d
+    Analyze Material 6                :m10, 2026-01-16, 1d
+    Pattern Synthesis (All Materials) :m11, 2026-01-17, 1d
+    Prepare Expert Session 2-3        :m12, 2026-01-16, 2d
 
     section Week 3
-    Expert Session 2 - Decision Making :milestone, 2025-01-20, 1d
-    Synthesize Session 2               :m13, 2025-01-20, 1d
-    Expert Session 3 - Underserved     :milestone, 2025-01-23, 1d
-    Synthesize Session 3               :m14, 2025-01-23, 1d
-    Draft Framework Part 1             :m15, 2025-01-20, 3d
-    Draft Framework Part 2             :m16, 2025-01-23, 4d
+    Expert Session 2 - Decision Making :milestone, 2026-01-20, 1d
+    Synthesize Session 2               :m13, 2026-01-20, 1d
+    Expert Session 3 - Underserved     :milestone, 2026-01-23, 1d
+    Synthesize Session 3               :m14, 2026-01-23, 1d
+    Draft Framework Part 1             :m15, 2026-01-20, 3d
+    Draft Framework Part 2             :m16, 2026-01-23, 4d
 
     section Week 4
-    Complete Framework Draft           :m17, 2025-01-27, 2d
-    Send to Experts for Review         :milestone, 2025-01-29, 1d
-    Expert Validation Session          :milestone, 2025-01-31, 1d
-    Incorporate Feedback               :m18, 2025-02-01, 2d
-    Create Agent Impl Spec - CoS       :m19, 2025-02-01, 2d
-    Create Agent Impl Spec - Market    :m20, 2025-02-03, 2d
-    Create Agent Impl Spec - Method    :m21, 2025-02-03, 2d
-    Finalize Framework v1.0            :milestone, 2025-02-04, 1d
+    Complete Framework Draft           :m17, 2026-01-27, 2d
+    Send to Experts for Review         :milestone, 2026-01-29, 1d
+    Expert Validation Session          :milestone, 2026-01-31, 1d
+    Incorporate Feedback               :m18, 2026-02-01, 2d
+    Create Agent Impl Spec - CoS       :m19, 2026-02-01, 2d
+    Create Agent Impl Spec - Market    :m20, 2026-02-03, 2d
+    Create Agent Impl Spec - Method    :m21, 2026-02-02, 2d
+    Finalize Framework v1.0            :milestone, 2026-02-04, 1d
 ```
 
 ---
@@ -375,7 +375,7 @@ flowchart TD
 
     ContinueAnalysis --> ExpertS2[Expert<br/>Session 2-3]
 
-    ExpertS2 --> D4{Education<br/>Specialist Has<br/>15-20 hrs/week?}
+    ExpertS2 --> D4{Methodology & Cohort<br/>Facilitator Has<br/>15-20 hrs/week?}
 
     D4 -->|Yes| DraftFramework[Draft<br/>Framework]
     D4 -->|No| ScaleBack[Scale Back<br/>Scope or<br/>Extend Timeline]
@@ -433,6 +433,21 @@ mindmap
         Explains principles
         Adapts to knowledge level
         Contextual learning
+      Business & Revenue Model Agent
+        Business model design
+        Unit economics
+        JTBD pricing
+        Revenue streams
+      Route-to-Market & GTM Agent
+        GTM strategy
+        Channel selection
+        Customer acquisition
+        Capital-efficient focus
+      Strategic Conviction Keeper Agent
+        Pivot vs persevere
+        Conviction tracking
+        Strategic vs tactical
+        Evidence-based decisions
     Core Frameworks
       Customer Development
       Problem-Solution Fit
@@ -483,7 +498,7 @@ flowchart TD
     subgraph Risks ["Key Risks"]
         R1[Materials<br/>Overwhelming]
         R2[Expert<br/>Unavailability]
-        R3[Edu Specialist<br/>Bandwidth]
+        R3[Methodology & Cohort<br/>Facilitator Bandwidth]
         R4[AI Engineer<br/>Capacity]
         R5[Timeline<br/>Pressure]
     end

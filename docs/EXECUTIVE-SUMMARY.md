@@ -209,44 +209,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ---
 
-## Critical Decisions - RESOLVED ✅
-
-**Date Decided:** 2025-11-05
-
-### 1. Agent Selection for MVP ✅
-**Decision:** Proceed with 6-agent MVP (5 Tier 1 individual agents + 1 Tier 2 cohort agent)
-**Agents:** Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction (Tier 1) + Cohort Facilitator (Tier 2)
-**Rationale:** 100% participant coverage across small business (63%), tech (30%), and social cause (29%); stage-agnostic design; addresses universal questions (customers, pricing, acquisition, pivot decisions)
-
-### 2. Community Partner ✅
-**Decision:** No partner yet identified - PM to prioritize finding one
-**Action Required:** Reach out to 2-3 community organizations within 2 weeks
-**Why Critical:** Essential for recruitment, trust-building, and access to target demographic
-
-### 3. Cohort Format ✅
-**Decision:** Virtual cohort (technology access required for AI-based program)
-**Implementation:** Zoom sessions, web portal access, potential laptop/subscription provision
-
-### 4. AI Engineer Capacity ✅
-**Decision:** 4-week development timeline accepted (PM to confirm feasibility with engineer)
-**Implementation:** Single portal approach (MVP-SINGLE-PORTAL-APPROACH.md) reduces scope significantly
-
-### 5. Facilitation Lead ✅
-**Decision:** Both Methodology & Cohort Facilitator and PM will co-facilitate
-**Consideration:** Exploring whether AI Chief of Staff can partially facilitate
-
-### 6. Funding Model ✅
-**Decision:**
-- Free for all participants
-- PM may provide laptops/AI subscriptions if needed
-- Grant funding pathway to pursue after learning from initial cohorts
-**Timeline:** Sustainability planning deferred until post-pilot learnings
-
-### 7. Post-Cohort Support ✅
-**Decision:**
-- Ongoing access to AI agents (duration TBD based on resources)
-- Potential progression to further cohorts at different business stages
-- Long-term vision: Self-support at scale (minimal facilitation required)
+**Note:** Critical decisions and their rationale are documented in `EXECUTIVE-SUMMARY-DECISIONS.md`.
 
 ---
 
@@ -612,15 +575,15 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 ### Action 1: Team Alignment Meeting (60-90 min)
 **Agenda:**
 1. Review this document together
-2. Discuss and decide on critical decisions (Part 4)
+2. Review critical decisions in `EXECUTIVE-SUMMARY-DECISIONS.md` (already resolved, for context)
 3. Assign ownership of roles (confirm alignment with team roles doc)
 4. Set up project management system
 5. Schedule weekly sync meetings (recommend: every Monday, 60 min)
 
 ### Action 2: MVP Scope Lock (30 min)
 **Decisions:**
-- Confirm 3-agent MVP (or adjust)
-- Confirm 4-week cohort structure
+- Confirm 6-agent MVP (5 Tier 1 + 1 Tier 2) - LOCKED
+- Confirm 8-week cohort structure (16 sessions, 2x/week)
 - Confirm virtual format
 - Confirm target of 10-15 participants
 
@@ -644,7 +607,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ## Additional Decisions to Consider
 
-**Note:** The 7 critical decisions above are resolved. These additional decisions are important but can be addressed during Phase 1 (Foundation):
+**Note:** The 7 critical decisions (see `EXECUTIVE-SUMMARY-DECISIONS.md`) are resolved. These additional decisions are important but can be addressed during Phase 1 (Foundation):
 
 ### 8. Materials Triage & Methodology Extraction ✅
 **Status:** STARTED (Week of Nov 1, 2025)

@@ -64,7 +64,7 @@ gantt
 
 ```mermaid
 flowchart TD
-    Start([Week 1: Start]) --> Inventory[Materials Inventory<br/>4-6 hours<br/>YOU + Methodology & Cohort Facilitator]
+    Start([Week 1: Start]) --> Inventory[Materials Inventory<br/>4-6 hours<br/>Product Manager/PI + Methodology & Cohort Facilitator]
 
     Inventory --> Prioritize{Prioritize<br/>Materials}
 
@@ -76,7 +76,7 @@ flowchart TD
 
     Extract1 --> PrepExpert1[Prepare Expert<br/>Session 1<br/>2-3 hours]
 
-    PrepExpert1 --> Schedule[Schedule 3<br/>Expert Sessions<br/>30 min<br/>YOU]
+    PrepExpert1 --> Schedule[Schedule 3<br/>Expert Sessions<br/>30 min<br/>Product Manager/PI]
 
     Schedule --> ExpertS1[Expert Session 1<br/>Methodology Overview<br/>90 min]
 
@@ -302,7 +302,7 @@ gantt
 
 ```mermaid
 graph LR
-    subgraph PM ["You (PM/PI)"]
+    subgraph PM ["Product Manager/PI"]
         PM1[Manage Expert<br/>Relationships]
         PM2[Schedule<br/>Sessions]
         PM3[Strategic<br/>Review]

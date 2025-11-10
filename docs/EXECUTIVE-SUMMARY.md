@@ -22,7 +22,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ### 2.75-Person Team Distribution
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -120,7 +120,7 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 
 ### 🚀 Fast Iteration is the RIGHT Strategy
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -274,7 +274,7 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 ### Solution Development Section 1: Foundation & Planning (Est. Weeks 1-2)
 **Goal:** Align team, define MVP, secure partner, start recruitment
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -304,12 +304,12 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 </tr>
 </table>
 
-**AI Engineer Focus:**
-- [ ] Review agent specs in detail
-- [ ] Choose technology stack (LangChain? Framework?)
-- [ ] Set up development environment
-- [ ] Prototype 1 agent to validate approach
-- [ ] Design agent orchestration architecture
+**AI Engineer Focus:**<br>
+[ ] Review agent specs in detail<br>
+[ ] Choose technology stack (LangChain? Framework?)<br>
+[ ] Set up development environment<br>
+[ ] Prototype 1 agent to validate approach<br>
+[ ] Design agent orchestration architecture
 
 **Deliverables:**
 - MVP scope locked and documented
@@ -323,7 +323,7 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 ### Solution Development Section 2: Build MVP (Est. Weeks 3-4)
 **Goal:** Implement core components, prepare for testing
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -355,17 +355,17 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 </tr>
 </table>
 
-**AI Engineer Focus:**
-- [ ] Implement 6 agents across Tier 1 and Tier 2:
-  - **Tier 1:** Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction
-  - **Tier 2:** Cohort Facilitator Agent
-- [ ] Build two-tier agent architecture (individual + cohort agents)
-- [ ] Build web portal with authentication
-- [ ] Create chat interface for agent interactions with inline agent switching
-- [ ] Set up database for conversation history
-- [ ] Deploy to hosting platform
-- [ ] Mobile-responsive design
-- [ ] Basic testing and debugging
+**AI Engineer Focus:**<br>
+[ ] Implement 6 agents across Tier 1 and Tier 2:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **Tier 1:** Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- **Tier 2:** Cohort Facilitator Agent<br>
+[ ] Build two-tier agent architecture (individual + cohort agents)<br>
+[ ] Build web portal with authentication<br>
+[ ] Create chat interface for agent interactions with inline agent switching<br>
+[ ] Set up database for conversation history<br>
+[ ] Deploy to hosting platform<br>
+[ ] Mobile-responsive design<br>
+[ ] Basic testing and debugging
 
 **Deliverables:**
 - 6 functional AI agents (5 Tier 1 + 1 Tier 2)
@@ -380,7 +380,7 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 ### Solution Development Section 3: Test & Iterate (Est. Weeks 5-6)
 **Goal:** Internal validation, refinement, final prep
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -411,13 +411,13 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 </tr>
 </table>
 
-**AI Engineer Focus:**
-- [ ] Refine agent prompts based on internal testing
-- [ ] Fix bugs and usability issues
-- [ ] Optimize performance (response time, reliability)
-- [ ] Create user documentation/FAQ
-- [ ] Set up monitoring and error tracking
-- [ ] Prepare technical support plan for cohort
+**AI Engineer Focus:**<br>
+[ ] Refine agent prompts based on internal testing<br>
+[ ] Fix bugs and usability issues<br>
+[ ] Optimize performance (response time, reliability)<br>
+[ ] Create user documentation/FAQ<br>
+[ ] Set up monitoring and error tracking<br>
+[ ] Prepare technical support plan for cohort
 
 **Deliverables:**
 - Tested and refined agents
@@ -433,39 +433,39 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 
 **Meeting Cadence:** 2x per week (e.g., Tuesday/Thursday) to maintain momentum
 
-**Week 7 (Cohort Week 1 - Sessions 1 & 2):**
-- [ ] **Session 1 (Tuesday):** Cohort kickoff & orientation
-  - How this works: Different stages, action-focused, AI-central
-  - Introduce agents and how to leverage them together
-  - Introduce key artifacts: Weekly management reports, project reviews
-  - Establish peer support culture (questions, respectful sharing → action)
-- [ ] **Session 2 (Thursday):** First action cycle
-  - Participants share: Where am I in my venture? What have I done?
-  - Chief of Staff helps identify current stage & next actions
-  - Peer feedback focused on helping toward action
-  - Commit to deliverables & next steps before next session
-- [ ] Participants work with agents between sessions (Tier 1: individual support)
-- [ ] Collect post-session feedback after each session
-- [ ] Team debrief (what worked, what didn't)
-- [ ] Quick iterations if needed
+**Week 7 (Cohort Week 1 - Sessions 1 & 2):**<br>
+[ ] **Session 1 (Tuesday):** Cohort kickoff & orientation<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- How this works: Different stages, action-focused, AI-central<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Introduce agents and how to leverage them together<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Introduce key artifacts: Weekly management reports, project reviews<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Establish peer support culture (questions, respectful sharing → action)<br>
+[ ] **Session 2 (Thursday):** First action cycle<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Participants share: Where am I in my venture? What have I done?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Chief of Staff helps identify current stage & next actions<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Peer feedback focused on helping toward action<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Commit to deliverables & next steps before next session<br>
+[ ] Participants work with agents between sessions (Tier 1: individual support)<br>
+[ ] Collect post-session feedback after each session<br>
+[ ] Team debrief (what worked, what didn't)<br>
+[ ] Quick iterations if needed
 
-**Week 8 (Cohort Week 2 - Sessions 3 & 4):**
-- [ ] **Session 3 (Tuesday):** Progress sharing & problem-solving
-  - Participants share artifacts (management reports, progress)
-  - Facilitator-led socratic discussion on methodology application
-  - Peer learning: What's working? What barriers are common?
-  - Cohort agents (if implemented) help identify cross-participant patterns
-- [ ] **Session 4 (Thursday):** Continued action cycles
-  - Deeper dive on individual challenges
-  - Project reviews: Where am I stuck? What help do I need?
-  - Specialized agent consultation (Market Discovery, Methodology Coach)
-  - Commit to deliverables & next steps
-- [ ] Participants continue venture work with agent support (meeting them where they are)
-- [ ] Collect post-session feedback after each session
-- [ ] Document all learnings
-- [ ] Plan reflection period and potential Cohort 2 adjustments
+**Week 8 (Cohort Week 2 - Sessions 3 & 4):**<br>
+[ ] **Session 3 (Tuesday):** Progress sharing & problem-solving<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Participants share artifacts (management reports, progress)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Facilitator-led socratic discussion on methodology application<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Peer learning: What's working? What barriers are common?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Cohort agents (if implemented) help identify cross-participant patterns<br>
+[ ] **Session 4 (Thursday):** Continued action cycles<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Deeper dive on individual challenges<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Project reviews: Where am I stuck? What help do I need?<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Specialized agent consultation (Market Discovery, Methodology Coach)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;- Commit to deliverables & next steps<br>
+[ ] Participants continue venture work with agent support (meeting them where they are)<br>
+[ ] Collect post-session feedback after each session<br>
+[ ] Document all learnings<br>
+[ ] Plan reflection period and potential Cohort 2 adjustments
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -496,12 +496,12 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 </tr>
 </table>
 
-**AI Engineer Focus:**
-- [ ] Monitor technical systems
-- [ ] Fix critical bugs immediately
-- [ ] Track agent usage and issues
-- [ ] Support participants with technical problems
-- [ ] Document technical learnings
+**AI Engineer Focus:**<br>
+[ ] Monitor technical systems<br>
+[ ] Fix critical bugs immediately<br>
+[ ] Track agent usage and issues<br>
+[ ] Support participants with technical problems<br>
+[ ] Document technical learnings
 
 **Deliverables:**
 - 2 cohort sessions completed
@@ -541,78 +541,78 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 
 ### Must-Have (Minimum Bar for Cohort 1):
 
-**Execution:**
-- [ ] 10-15 participants start the cohort
-- [ ] 3 AI agents functional and accessible
-- [ ] 8 facilitated sessions completed (2x/week over 4 weeks)
-- [ ] Feedback collected from participants (post-session + post-cohort)
-- [ ] Data collection infrastructure implemented (agent conversations, artifacts, milestones logged)
+**Execution:**<br>
+[ ] 10-15 participants start the cohort<br>
+[ ] 3 AI agents functional and accessible<br>
+[ ] 8 facilitated sessions completed (2x/week over 4 weeks)<br>
+[ ] Feedback collected from participants (post-session + post-cohort)<br>
+[ ] Data collection infrastructure implemented (agent conversations, artifacts, milestones logged)
 
-**Completion Rates (Three Definitions):**
-- [ ] **Attendance:** 60%+ attend ≥6 of 8 sessions
-- [ ] **Engagement:** 50%+ attend + create artifacts + take actions
-- [ ] **Outcome:** 25%+ attend + meaningful progress on ventures
+**Completion Rates (Three Definitions):**<br>
+[ ] **Attendance:** 60%+ attend ≥6 of 8 sessions<br>
+[ ] **Engagement:** 50%+ attend + create artifacts + take actions<br>
+[ ] **Outcome:** 25%+ attend + meaningful progress on ventures
 
-**Artifacts & Action:**
-- [ ] 80%+ participants created weekly management reports
-- [ ] 80%+ participants created project reviews
-- [ ] Evidence of real-world action (not just planning) in artifacts
+**Artifacts & Action:**<br>
+[ ] 80%+ participants created weekly management reports<br>
+[ ] 80%+ participants created project reviews<br>
+[ ] Evidence of real-world action (not just planning) in artifacts
 
 ---
 
 ### Should-Have (Strong Success):
 
-**Participant Outcomes:**
-- [ ] 75%+ participants made measurable progress from their starting stage
-- [ ] 70%+ participants took real-world action (customer conversations, tests, MVPs)
-- [ ] Participants attribute progress to agent support (qualitative + usage data)
+**Participant Outcomes:**<br>
+[ ] 75%+ participants made measurable progress from their starting stage<br>
+[ ] 70%+ participants took real-world action (customer conversations, tests, MVPs)<br>
+[ ] Participants attribute progress to agent support (qualitative + usage data)
 
-**Agent Effectiveness:**
-- [ ] Chief of Staff correctly identified participant stages (validation)
-- [ ] Agents drove action (not just provided information)
-- [ ] Participants used agents independently (not just when prompted)
-- [ ] Agent usage correlates with better outcomes (data analysis)
+**Agent Effectiveness:**<br>
+[ ] Chief of Staff correctly identified participant stages (validation)<br>
+[ ] Agents drove action (not just provided information)<br>
+[ ] Participants used agents independently (not just when prompted)<br>
+[ ] Agent usage correlates with better outcomes (data analysis)
 
-**Methodology & Learning:**
-- [ ] Methodology fidelity maintained (Methodology & Cohort Facilitator validates ≥4/5)
-- [ ] Team identifies top 3 improvements for Cohort 2
-- [ ] Team understands which agents were most/least valuable
-- [ ] Community partner wants to continue
+**Methodology & Learning:**<br>
+[ ] Methodology fidelity maintained (Methodology & Cohort Facilitator validates ≥4/5)<br>
+[ ] Team identifies top 3 improvements for Cohort 2<br>
+[ ] Team understands which agents were most/least valuable<br>
+[ ] Community partner wants to continue
 
 ---
 
 ### Nice-to-Have (Exceptional):
 
-**Participant Milestones:**
-- [ ] 1+ participant achieved major milestone (first sale, MVP launch, validated problem with 10+ customers, made pivot decision)
-- [ ] 1+ participant gains employment/advancement
-- [ ] Participants recommend program to others
-- [ ] Viral word-of-mouth recruitment begins
+**Participant Milestones:**<br>
+[ ] 1+ participant achieved major milestone (first sale, MVP launch, validated problem with 10+ customers, made pivot decision)<br>
+[ ] 1+ participant gains employment/advancement<br>
+[ ] Participants recommend program to others<br>
+[ ] Viral word-of-mouth recruitment begins
 
-**System Validation:**
-- [ ] Two-tier agent system worked smoothly (individual + cohort agents, if implemented)
-- [ ] Artifacts unified participants at different stages (proof of stage-agnostic model)
-- [ ] 2x/week cadence maintained momentum (vs. 1x/week)
+**System Validation:**<br>
+[ ] Two-tier agent system worked smoothly (individual + cohort agents, if implemented)<br>
+[ ] Artifacts unified participants at different stages (proof of stage-agnostic model)<br>
+[ ] 2x/week cadence maintained momentum (vs. 1x/week)
 
 ---
 
 ### Hypothesis Validation (Core Mission):
 
-**Hypothesis 1: Latent entrepreneurs exist in Rising Talent populations**
-- [ ] 70%+ participants developed viable business concepts
-- [ ] 70%+ participants demonstrated entrepreneurial capacity (action, problem-solving, persistence)
-- [ ] Qualitative evidence: Barriers were external (resources) not internal (capability)
+**Hypothesis 1: Latent entrepreneurs exist in Rising Talent populations**<br>
+[ ] 70%+ participants developed viable business concepts<br>
+[ ] 70%+ participants demonstrated entrepreneurial capacity (action, problem-solving, persistence)<br>
+[ ] Qualitative evidence: Barriers were external (resources) not internal (capability)
 
-**Hypothesis 2: Methodology is uniquely suited for underserved populations**
-- [ ] 75%+ participants report methodology is understandable (not too complex/abstract)
-- [ ] 75%+ participants report methodology is relevant to their context
-- [ ] 75%+ participants can apply methodology principles to their ventures
+**Hypothesis 2: Methodology is uniquely suited for underserved populations**<br>
+[ ] 75%+ participants report methodology is understandable (not too complex/abstract)<br>
+[ ] 75%+ participants report methodology is relevant to their context<br>
+[ ] 75%+ participants can apply methodology principles to their ventures
 
-**Hypothesis 3: AI can transform entrepreneurship practice for this demographic**
-- [ ] 75%+ participants report agents were valuable (not just interesting)
-- [ ] Evidence of agent-driven action (artifacts reference agent conversations)
-- [ ] Participants used agents independently and returned multiple times
-- [ ] Agent usage correlates with progression scores (data analysis)
+**Hypothesis 3: AI can transform entrepreneurship practice for this demographic**<br>
+[ ] 75%+ participants report agents were valuable (not just interesting)<br>
+[ ] Evidence of agent-driven action (artifacts reference agent conversations)<br>
+[ ] Participants used agents independently and returned multiple times<br>
+[ ] Agent usage correlates with progression scores (data analysis)
 
 **See DATA-ANALYTICS-PLAN.md for detailed metric definitions and measurement approach.**
 
@@ -654,19 +654,36 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 
 ### Data Collection & Analysis
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
+
 **Cohort 1 will log:**
+
 - All agent conversations (participant + agent messages, timestamps)
 - All artifacts created (management reports, project reviews)
 - Session attendance and post-session feedback
 - Milestones achieved and progression snapshots
 - Agent routing decisions (Chief of Staff assessments)
 
+</td>
+<td width="50%" valign="top">
+
 **Post-Cohort 1 Analysis:**
+
 - Export data to CSV for analysis (Google Sheets, Python, Excel)
 - Calculate progression scores programmatically
 - Analyze agent effectiveness (usage rates, correlation with outcomes)
 - Validate hypotheses with evidence
 - Identify patterns and improvement opportunities
+
+</td>
+</tr>
+</table>
 
 **See DATA-ANALYTICS-PLAN.md and CRITICAL-ARCHITECTURE-NOTES.md for technical implementation details.**
 

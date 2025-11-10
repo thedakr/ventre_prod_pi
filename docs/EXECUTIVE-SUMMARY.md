@@ -22,35 +22,10 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ### 2.75-Person Team Distribution
 
-**Product Manager/PI (Matt Paxman):**
-- Product strategy and vision (30%)
-- Operations and logistics (20%)
-- Partnership and outreach (20%)
-- Team coordination (15%)
-- Agent development & refinement (10%)
-- Budget and admin (5%)
-
-**Methodology & Cohort Facilitator (Agueda Schwartz):**
-- Methodology research & aggregation (30%)
-- Cohort facilitation (30%)
-- Operations & logistics (15%)
-- Research and evaluation (15%)
-- Iteration (5%)
-- Documentation (5%)
-
-**AI/Software Engineer (Brendan Veranth - 50% time):**
-- AI agent implementation (50% of their time)
-- Web portal development (30% of their time)
-- Infrastructure/DevOps (10% of their time)
-- Documentation (5% of their time)
-- Support (5% of their time)
-
-**UI/UX/CX Product Advisor (Matt Kitt - 25% time):**
-- Portal UI/UX design (40% of their time)
-- Accessibility & inclusive design (25% of their time)
-- User testing & iteration (20% of their time)
-- Participant-facing materials design (10% of their time)
-- Documentation & handoff (5% of their time)
+| | |
+|---|---|
+| **Product Manager/PI (Matt Paxman):**<br>• Product strategy and vision (30%)<br>• Operations and logistics (20%)<br>• Partnership and outreach (20%)<br>• Team coordination (15%)<br>• Agent development & refinement (10%)<br>• Budget and admin (5%) | **Methodology & Cohort Facilitator (Agueda Schwartz):**<br>• Methodology research & aggregation (30%)<br>• Cohort facilitation (30%)<br>• Operations & logistics (15%)<br>• Research and evaluation (15%)<br>• Iteration (5%)<br>• Documentation (5%) |
+| **AI/Software Engineer (Brendan Veranth - 50% time):**<br>• AI agent implementation (50% of their time)<br>• Web portal development (30% of their time)<br>• Infrastructure/DevOps (10% of their time)<br>• Documentation (5% of their time)<br>• Support (5% of their time) | **UI/UX/CX Product Advisor (Matt Kitt - 25% time):**<br>• Portal UI/UX design (40% of their time)<br>• Accessibility & inclusive design (25% of their time)<br>• User testing & iteration (20% of their time)<br>• Participant-facing materials design (10% of their time)<br>• Documentation & handoff (5% of their time) |
 
 **Roles to Outsource/Partner:**
 - Participant Recruitment: Community organizations leverage their networks and local trust to identify and recruit participants

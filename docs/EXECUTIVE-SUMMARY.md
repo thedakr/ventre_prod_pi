@@ -22,15 +22,59 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ### 2.75-Person Team Distribution
 
-| | |
-|---|---|
-| **Product Manager/PI (Matt Paxman):**<br>• Product strategy and vision (30%)<br>• Operations and logistics (20%)<br>• Partnership and outreach (20%)<br>• Team coordination (15%)<br>• Agent development & refinement (10%)<br>• Budget and admin (5%) | **Methodology & Cohort Facilitator (Agueda Schwartz):**<br>• Methodology research & aggregation (30%)<br>• Cohort facilitation (30%)<br>• Operations & logistics (15%)<br>• Research and evaluation (15%)<br>• Iteration (5%)<br>• Documentation (5%) |
-| **AI/Software Engineer (Brendan Veranth - 50% time):**<br>• AI agent implementation (50% of their time)<br>• Web portal development (30% of their time)<br>• Infrastructure/DevOps (10% of their time)<br>• Documentation (5% of their time)<br>• Support (5% of their time) | **UI/UX/CX Product Advisor (Matt Kitt - 25% time):**<br>• Portal UI/UX design (40% of their time)<br>• Accessibility & inclusive design (25% of their time)<br>• User testing & iteration (20% of their time)<br>• Participant-facing materials design (10% of their time)<br>• Documentation & handoff (5% of their time) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product Manager/PI (Matt Paxman):**
+- Product strategy and vision (30%)
+- Operations and logistics (20%)
+- Partnership and outreach (20%)
+- Team coordination (15%)
+- Agent development & refinement (10%)
+- Budget and admin (5%)
+
+</td>
+<td width="50%" valign="top">
+
+**Methodology & Cohort Facilitator (Agueda Schwartz):**
+- Methodology research & aggregation (30%)
+- Cohort facilitation (30%)
+- Operations & logistics (15%)
+- Research and evaluation (15%)
+- Iteration (5%)
+- Documentation (5%)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI/Software Engineer (Brendan Veranth - 50% time):**
+- AI agent implementation (50% of their time)
+- Web portal development (30% of their time)
+- Infrastructure/DevOps (10% of their time)
+- Documentation (5% of their time)
+- Support (5% of their time)
+
+</td>
+<td width="50%" valign="top">
+
+**UI/UX/CX Product Advisor (Matt Kitt - 25% time):**
+- Portal UI/UX design (40% of their time)
+- Accessibility & inclusive design (25% of their time)
+- User testing & iteration (20% of their time)
+- Participant-facing materials design (10% of their time)
+- Documentation & handoff (5% of their time)
+
+</td>
+</tr>
+</table>
 
 **Roles to Outsource/Partner:**
 - Participant Recruitment: Community organizations leverage their networks and local trust to identify and recruit participants
 - Legal/Compliance: Contract for privacy policy and terms
-- Entrepreneurship SME: Leverage your methodology partners
+- Entrepreneurship SME: Leverage the methodology partners
 
 ### Responsibility Area Descriptions
 
@@ -73,17 +117,44 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 ### 🚀 Fast Iteration is the RIGHT Strategy
 
 **Why:**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
 - The team has high uncertainty (specs untested with real users)
-- Learning > Perfection at this stage
 - Limited resources demand efficiency
+
+</td>
+<td width="50%" valign="top">
+
+- Learning > Perfection at this stage
 - Every delay = participants who could benefit don't
-- Your agent specs literally reference Lean Startup (Build-Measure-Learn)
+
+</td>
+</tr>
+</table>
+
+- The agent specs literally reference Lean Startup (Build-Measure-Learn)
 
 **Caveats:**
-- Don't burn out your team (sustainable pace!)
-- Document iterations clearly
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+- Don't burn out the team (sustainable pace!)
 - Communicate transparency to participants ("We're learning together")
+
+</td>
+<td width="50%" valign="top">
+
+- Document iterations clearly
 - Define iteration cycles (2-week sprints, monthly retrospectives)
+
+</td>
+</tr>
+</table>
 
 **Verdict: Fast iteration is ESSENTIAL, not risky. Just do it thoughtfully.**
 
@@ -209,7 +280,11 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 ### Solution Development Section 1: Foundation & Planning (Est. Weeks 1-2)
 **Goal:** Align team, define MVP, secure partner, start recruitment
 
-**Your Focus (PM/PI):**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product Manager/PI Focus:**
 - [ ] Team alignment meeting (review this document)
 - [ ] Finalize MVP scope decisions (agents, portal, curriculum)
 - [ ] Identify and reach out to community partner
@@ -217,12 +292,19 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - [ ] Set up project management system (Notion/Asana/Linear)
 - [ ] Create budget and resource plan
 
+</td>
+<td width="50%" valign="top">
+
 **Methodology & Cohort Facilitator Focus:**
 - [ ] Analyze partner materials (begin extraction from 500+ docs/videos)
 - [ ] Draft 4-week, 3-6-agent experience flow based on methodology findings
 - [ ] Begin facilitation guide outline (based on partner materials + consultation)
 - [ ] Design feedback collection instruments
 - [ ] Understand core entrepreneurship methodology from partner materials
+
+</td>
+</tr>
+</table>
 
 **AI Engineer Focus:**
 - [ ] Review agent specs in detail
@@ -243,13 +325,20 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 ### Solution Development Section 2: Build MVP (Est. Weeks 3-4)
 **Goal:** Implement core components, prepare for testing
 
-**Your Focus (PM/PI):**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product Manager/PI Focus:**
 - [ ] Finalize partnership agreement with community org
 - [ ] Active participant recruitment (target 15-20 to get 10-15)
 - [ ] Create participant onboarding materials
 - [ ] Coordinate with Methodology & Cohort Facilitator on cohort experience design
 - [ ] Review agent builds from engineer
 - [ ] Finalize agents (co-development with engineer, prompt refinement)
+
+</td>
+<td width="50%" valign="top">
 
 **Methodology & Cohort Facilitator Focus:**
 - [ ] Finalize cohort schedule (meeting days, business work reminders between sessions)
@@ -259,6 +348,10 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - [ ] Develop feedback surveys (post-session, post-cohort)
 - [ ] Plan peer community structure (Slack/WhatsApp)
 - [ ] Define participant work expectations (business creation activities between sessions)
+
+</td>
+</tr>
+</table>
 
 **AI Engineer Focus:**
 - [ ] Implement 6 agents across Tier 1 and Tier 2:
@@ -285,11 +378,18 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 ### Solution Development Section 3: Test & Iterate (Est. Weeks 5-6)
 **Goal:** Internal validation, refinement, final prep
 
-**Your Focus (PM/PI):**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product Manager/PI Focus:**
 - [ ] Internal testing of agents (role-play as participant)
 - [ ] Review entrepreneurship methodology & schedule with full team
 - [ ] Finalize participant list (confirm attendance)
 - [ ] Create contingency plans (tech failures, low attendance)
+
+</td>
+<td width="50%" valign="top">
 
 **Methodology & Cohort Facilitator Focus:**
 - [ ] Conduct dry-run facilitation (with team as participants)
@@ -300,6 +400,10 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - [ ] Set up peer community space
 - [ ] Send pre-cohort orientation materials
 - [ ] Confirm all logistics (Zoom, Slack, materials)
+
+</td>
+</tr>
+</table>
 
 **AI Engineer Focus:**
 - [ ] Refine agent prompts based on internal testing
@@ -355,13 +459,20 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - [ ] Document all learnings
 - [ ] Plan reflection period and potential Cohort 2 adjustments
 
-**Your Focus (PM/PI):**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Product Manager/PI Focus:**
 - [ ] Attend sessions, observe
 - [ ] Collect feedback from participants
 - [ ] Support Methodology & Cohort Facilitator
 - [ ] Troubleshoot any issues
 - [ ] Document what's working and what's not
 - [ ] Begin recruiting for Cohort 2
+
+</td>
+<td width="50%" valign="top">
 
 **Methodology & Cohort Facilitator Focus:**
 - [ ] Facilitate Sessions 1 and 2
@@ -370,6 +481,10 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - [ ] Collect qualitative feedback
 - [ ] Adapt in real-time as needed
 - [ ] Document facilitation insights
+
+</td>
+</tr>
+</table>
 
 **AI Engineer Focus:**
 - [ ] Monitor technical systems

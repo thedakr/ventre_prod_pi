@@ -120,8 +120,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 
 ### 🚀 Fast Iteration is the RIGHT Strategy
 
-**Why:**
-
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -130,33 +128,21 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 td ul { margin-left: 0; padding-left: 1.2em; }
 </style>
 
+**Why:**
+
 - The team has high uncertainty (specs untested with real users)
 - Limited resources demand efficiency
+- Learning > Perfection at this stage
+- Every delay = participants who could benefit don't
+- The agent specs literally reference Lean Startup (Build-Measure-Learn)
 
 </td>
 <td width="50%" valign="top">
-
-- Learning > Perfection at this stage
-- Every delay = participants who could benefit don't
-
-</td>
-</tr>
-</table>
-
-- The agent specs literally reference Lean Startup (Build-Measure-Learn)
 
 **Caveats:**
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 - Don't burn out the team (sustainable pace!)
 - Communicate transparency to participants ("We're learning together")
-
-</td>
-<td width="50%" valign="top">
-
 - Document iterations clearly
 - Define iteration cycles (2-week sprints, monthly retrospectives)
 

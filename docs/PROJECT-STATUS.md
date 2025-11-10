@@ -17,7 +17,7 @@ Your Vibe Entrepreneurship project now has a complete foundation for execution:
 - Reference materials organized
 
 ### ✅ Strategic Planning
-- Comprehensive team roles defined (15 roles → consolidated to 2.5 people)
+- Comprehensive team roles defined (15 roles → consolidated to 2.75 people)
 - 8-week sprint plan to first cohort
 - Fast-iteration approach validated and detailed
 - Underserved population design principles established

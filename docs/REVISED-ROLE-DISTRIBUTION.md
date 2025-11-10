@@ -111,11 +111,11 @@
 - Code quality and testing
 
 **Web Portal (More Ownership):**
-- Full ownership of frontend development
+- Full ownership of frontend implementation
 - Full ownership of backend API
 - Authentication and user management
 - Mobile responsiveness
-- Portal UX/UI implementation
+- Portal UI implementation (collaborates with UI/UX/CX Product Advisor on design)
 
 ---
 
@@ -320,8 +320,9 @@
 - **PM:** 10-12 hrs/week
 - **Engineer:** 5-10 hrs/week (20-50% of their 50%)
 - **Methodology & Cohort Facilitator:** 15-20 hrs/week
+- **UI/UX/CX Product Advisor:** 2-4 hrs/week (15-30% of their 25%)
 
-**Total team hours:** 30-42 hrs/week
+**Total team hours:** 32-46 hrs/week
 
 ---
 
@@ -329,8 +330,9 @@
 - **PM:** 15-20 hrs/week (agent work ramps up)
 - **Engineer:** 15-20 hrs/week (60-80% of their 50%)
 - **Methodology & Cohort Facilitator:** 15-20 hrs/week
+- **UI/UX/CX Product Advisor:** 4-6 hrs/week (30-50% of their 25%)
 
-**Total team hours:** 45-60 hrs/week
+**Total team hours:** 49-66 hrs/week
 
 ---
 
@@ -338,8 +340,9 @@
 - **PM:** 18-22 hrs/week (peak agent development)
 - **Engineer:** 18-22 hrs/week (80-100% of their 50%)
 - **Methodology & Cohort Facilitator:** 15-20 hrs/week
+- **UI/UX/CX Product Advisor:** 5-7 hrs/week (40-60% of their 25%)
 
-**Total team hours:** 51-64 hrs/week
+**Total team hours:** 56-71 hrs/week
 
 ---
 
@@ -347,8 +350,9 @@
 - **PM:** 10-15 hrs/week (cohort support, iteration planning)
 - **Engineer:** 10-15 hrs/week (technical support, bug fixes)
 - **Methodology & Cohort Facilitator:** 20-25 hrs/week (facilitation!)
+- **UI/UX/CX Product Advisor:** 3-5 hrs/week (20-40% of their 25%, user testing and iteration)
 
-**Total team hours:** 40-55 hrs/week
+**Total team hours:** 43-60 hrs/week
 
 ---
 
@@ -393,8 +397,8 @@
 **Mitigation:**
 - Deprioritize operations (delegate more to Methodology & Cohort Facilitator)
 - Lean heavily on community partner for recruitment
-- Use contractor for specific tasks (UX design, etc.)
-- Engineer takes full ownership of portal (PM doesn't review every detail)
+- UI/UX/CX Product Advisor owns portal design (PM doesn't review every detail)
+- Engineer takes full ownership of portal implementation (PM doesn't review every detail)
 
 ---
 

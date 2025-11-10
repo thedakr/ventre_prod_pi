@@ -2,15 +2,15 @@
 
 **Mission:** Enable would-be entrepreneurs below poverty line to start/run businesses with AI as mentor, partner, analyst, and employee.
 
-**Target:** ≤150% US federal poverty line | **Timeline:** First cohort in 8 weeks | **Team:** 2.5 people
+**Target:** ≤150% US federal poverty line | **Timeline:** First cohort in 8 weeks | **Team:** 2.75 people
 
 ---
 
 ## What We're Building
 
-**AI Agents** (3 for MVP) + **Proven Methodology** (from expert entrepreneurs) + **Cohort Facilitation** (human + AI) = Accessible entrepreneurship for underserved populations
+**AI Agents** (6 for MVP) + **Proven Methodology** (from expert entrepreneurs) + **Cohort Facilitation** (human + AI) = Accessible entrepreneurship for underserved populations
 
-**MVP Agents:** Chief of Staff (coordinator), Market Discovery (customer research), Methodology Coach (framework teacher)
+**MVP Agents:** Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction
 
 **Delivery:** 4-week cohort, 10-15 participants, virtual sessions, web portal for 24/7 agent access
 
@@ -37,7 +37,7 @@
 | Week | Methodology Track | Agent Development | Outcome |
 |------|-------------------|-------------------|---------|
 | **1-2** | Materials analysis + Expert Session 1 | Prototype architecture | Foundation |
-| **3-4** | Expert Sessions 2-3 + Draft framework | Implement 3 agents | Convergence |
+| **3-4** | Expert Sessions 2-3 + Draft framework | Implement 6 agents | Convergence |
 | **5-6** | Validate framework + Agent specs | Refine agents with methodology | Validation |
 | **7-8** | Support facilitation | Support participants | **Launch!** |
 
@@ -61,22 +61,24 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 ## Critical Decisions Needed
 
-1. **Agent MVP:** Confirm 3 agents (Chief of Staff, Market Discovery, Methodology Coach)?
+1. **Agent MVP:** Confirm 6 agents (Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction)?
 2. **Community Partner:** Who specifically? When to approach?
-3. **AI Engineer Capacity:** 4 weeks realistic for 3 agents + portal?
+3. **AI Engineer Capacity:** 4 weeks realistic for 6 agents + portal?
 4. **Cohort Format:** Virtual (recommended), in-person, or hybrid?
 5. **Facilitation:** Education specialist lead? You supporting?
 6. **Post-Cohort:** What ongoing support after 4 weeks?
 
 ---
 
-## Team Roles (2.5 People)
+## Team Roles (2.75 People)
 
-**You (PM/PI):** Strategy, partnerships, operations, expert coordination (4-8 hrs/week Weeks 1-4)
+**Matt Paxman (PM/PI):** Strategy, partnerships, operations, expert coordination (4-8 hrs/week Weeks 1-4)
 
-**Methodology & Cohort Facilitator:** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-4)
+**Agueda Schwartz (Methodology & Cohort Facilitator):** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-4)
 
-**AI Engineer (50%):** Agent implementation, web portal, technical infrastructure (ramping from 5% to 30% over Weeks 1-6)
+**Brendan Veranth (AI Engineer - 50%):** Agent implementation, web portal backend, technical infrastructure (ramping from 5% to 30% over Weeks 1-6)
+
+**Matt Kitt (UI/UX/CX Product Advisor - 25%):** Portal design, accessibility, user testing, participant-facing materials (ramping based on portal development phase)
 
 ---
 
@@ -144,7 +146,7 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 **You need:** Execute Week 1 (materials inventory, schedule experts, begin analysis), make decisions, maintain fast iteration mindset
 
-**Timeline:** 8 weeks to first cohort | **MVP Scope:** 3 agents, 4-week cohort, 10-15 participants
+**Timeline:** 8 weeks to first cohort | **MVP Scope:** 6 agents, 4-week cohort, 10-15 participants
 
 **Critical path:** Methodology extraction (Weeks 1-4) → Agent implementation (Weeks 3-6) → Cohort launch (Weeks 7-8)
 

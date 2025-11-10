@@ -8,9 +8,9 @@
 
 ## Executive Summary
 
-This document outlines the comprehensive role structure needed to deliver Vibe Entrepreneurship from concept to cohort execution. Given the 2.5-person team constraint, roles are organized into:
+This document outlines the comprehensive role structure needed to deliver Vibe Entrepreneurship from concept to cohort execution. Given the 2.75-person team constraint, roles are organized into:
 1. **Complete Role Inventory** - All roles a fully-resourced team would have
-2. **Consolidated Role Assignments** - How to distribute across 2.5 people
+2. **Consolidated Role Assignments** - How to distribute across 2.75 people
 3. **Fast-Iteration Approach** - Strategies for rapid prototyping
 4. **Underserved Population Focus** - Special considerations for target demographic
 
@@ -398,14 +398,15 @@ This document outlines the comprehensive role structure needed to deliver Vibe E
 
 ---
 
-## Part 2: Consolidated Role Assignments (2.5-Person Team)
+## Part 2: Consolidated Role Assignments (2.75-Person Team)
 
 Given your team composition:
-- **Person 1:** You (PM/PI) - Pseudo-tech SRE background, leadership, product management
-- **Person 2:** Education specialist - Masters in education, pedagogy, research
-- **Person 3:** AI/Software engineer (50%) - Deep AI and software engineering expertise
+- **Person 1:** Matt Paxman (PM/PI) - Pseudo-tech SRE background, leadership, product management
+- **Person 2:** Agueda Schwartz (Methodology & Cohort Facilitator) - Masters in education, pedagogy, research
+- **Person 3:** Brendan Veranth (AI/Software Engineer - 50%) - Deep AI and software engineering expertise
+- **Person 4:** Matt Kitt (UI/UX/CX Product Advisor - 25%) - UI/UX design, accessibility, user experience expertise
 
-### **Person 1: You (PM/PI) - Lead & Execute**
+### **Person 1: Matt Paxman (PM/PI) - Lead & Execute**
 
 **Primary Roles:**
 1. Product Manager / Principal Investigator (100%)
@@ -439,7 +440,7 @@ Given your team composition:
 
 ---
 
-### **Person 2: Methodology & Cohort Facilitator - Design & Facilitate**
+### **Person 2: Agueda Schwartz (Methodology & Cohort Facilitator) - Design & Facilitate**
 
 **Primary Roles:**
 1. Learning Experience Designer (100%)
@@ -474,7 +475,7 @@ Given your team composition:
 
 ---
 
-### **Person 3: AI/Software Engineer (50%) - Build & Deploy**
+### **Person 3: Brendan Veranth (AI/Software Engineer - 50%) - Build & Deploy**
 
 **Primary Roles:**
 1. AI/ML Engineer (100% of their 50%)
@@ -509,12 +510,44 @@ Given your team composition:
 
 ---
 
+### **Person 4: Matt Kitt (UI/UX/CX Product Advisor - 25%) - Design User Experience**
+
+**Primary Roles:**
+1. UX/UI Designer (100% of their 25%)
+2. Accessibility Specialist (80% of their 25%)
+3. User Researcher (60% of their 25%)
+
+**Responsibilities:**
+- Design web portal interface and user experience
+- Create "Guided mode" for low digital literacy users
+- Ensure accessibility for underserved populations
+- Design onboarding flow and participant-facing materials
+- Conduct usability testing with participants
+- Optimize for mobile-responsive and low bandwidth
+- Create design documentation and style guides
+- Collaborate with Brendan on UI implementation
+
+**Time Allocation (Rough, within their 25%):**
+- Portal UI/UX Design: 40%
+- Accessibility & Inclusive Design: 25%
+- User Testing & Iteration: 20%
+- Participant-Facing Materials Design: 10%
+- Documentation & Handoff: 5%
+
+**Tools Needed:**
+- Design tools (Figma, Sketch, Adobe XD)
+- Prototyping tools
+- User testing platforms
+- Accessibility checkers
+- Collaboration tools (Slack, design handoff tools)
+
+---
+
 ### **Roles to Outsource, Partner, or Defer**
 
-Given your 2.5-person constraint, here are roles to handle differently:
+Given your 2.75-person constraint, here are roles to handle differently:
 
 #### **Outsource (Contract/Freelance):**
-- **UX/UI Designer:** Contract for initial design, use templates/components thereafter
 - **Legal/Compliance Advisor:** Contract for initial setup (privacy policy, terms), consult as needed
 - **Data Analyst:** Use your own skills initially, contract for deeper analysis if needed
 
@@ -550,7 +583,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
    - Iterating quickly means learning faster
 
 3. **Resource Constraints Demand Efficiency**
-   - 2.5-person team can't afford 6-month development cycles
+   - 2.75-person team can't afford 6-month development cycles
    - Need to validate quickly to avoid wasting limited resources
    - Fast iteration = less sunk cost if direction needs changing
 
@@ -573,7 +606,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 **Mitigation Strategies:**
 1. **Clear documentation** of each iteration (what changed and why)
 2. **Transparent communication** with participants ("This is a pilot, we're learning together")
-3. **Sustainable pace** (don't burn out the 2.5 people)
+3. **Sustainable pace** (don't burn out the 2.75 people)
 4. **Defined iteration cycles** (2-week sprints, monthly retrospectives)
 5. **Core stability** (some things stay consistent even as details iterate)
 
@@ -907,7 +940,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 - Address barriers proactively (childcare, transportation)
 - Celebrate small wins
 
-### Risk 4: Team Burnout (2.5 people is LEAN)
+### Risk 4: Team Burnout (2.75 people is LEAN)
 **Mitigation:**
 - Realistic scope for MVP
 - Clear roles and boundaries
@@ -945,7 +978,7 @@ You have:
 3. **Stay focused:** Don't try to solve everything in Cohort 1
 4. **Leverage partners:** Community orgs for trust and access
 5. **Measure broadly:** Business creation AND employment/capability gains
-6. **Sustainable pace:** Don't burn out your 2.5-person team
+6. **Sustainable pace:** Don't burn out your 2.75-person team
 
 You're positioned well to make this happen. Fast iteration is the RIGHT strategy given your constraints and uncertainty. Let's refine the plan and get moving.
 

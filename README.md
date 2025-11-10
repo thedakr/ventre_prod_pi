@@ -47,9 +47,10 @@ ventre_prod_pi/
 
 ## Team
 
-- **Product Manager / Principal Investigator:** Matthew (leadership, product, operations)
-- **Education Specialist:** Curriculum design, facilitation, research, pedagogy
-- **AI/Software Engineer (50%):** Agent implementation, web portal, infrastructure
+- **Product Manager / Principal Investigator:** Matt Paxman (leadership, product, operations)
+- **Methodology & Cohort Facilitator:** Agueda Schwartz (curriculum design, facilitation, research, pedagogy)
+- **AI/Software Engineer (50%):** Brendan Veranth (agent implementation, web portal, infrastructure)
+- **UI/UX/CX Product Advisor (25%):** Matt Kitt (portal design, accessibility, user testing, participant-facing materials)
 
 ---
 

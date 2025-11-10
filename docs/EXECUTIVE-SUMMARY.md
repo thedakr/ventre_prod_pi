@@ -20,7 +20,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ## Team Structure
 
-### 2.5-Person Team Distribution
+### 2.75-Person Team Distribution
 
 **Product Manager/PI (Matt Paxman):**
 - Product strategy and vision (30%)
@@ -30,7 +30,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - Agent development & refinement (10%)
 - Budget and admin (5%)
 
-**Methodology & Cohort Facilitator:**
+**Methodology & Cohort Facilitator (Agueda Schwartz):**
 - Methodology research & aggregation (30%)
 - Cohort facilitation (30%)
 - Operations & logistics (15%)
@@ -38,17 +38,23 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - Iteration (5%)
 - Documentation (5%)
 
-**AI/Software Engineer (50%):**
+**AI/Software Engineer (Brendan Veranth - 50% time):**
 - AI agent implementation (50% of their time)
 - Web portal development (30% of their time)
 - Infrastructure/DevOps (10% of their time)
 - Documentation (5% of their time)
 - Support (5% of their time)
 
+**UI/UX/CX Product Advisor (Matt Kitt - 25% time):**
+- Portal UI/UX design (40% of their time)
+- Accessibility & inclusive design (25% of their time)
+- User testing & iteration (20% of their time)
+- Participant-facing materials design (10% of their time)
+- Documentation & handoff (5% of their time)
+
 **Roles to Outsource/Partner:**
-- UX/UI Design: Contract for initial design
+- Participant Recruitment: Community organizations leverage their networks and local trust to identify and recruit participants
 - Legal/Compliance: Contract for privacy policy and terms
-- Community Outreach: Partner with community organizations
 - Entrepreneurship SME: Leverage your methodology partners
 
 ### Responsibility Area Descriptions
@@ -78,6 +84,14 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 - **Infrastructure/DevOps (10% of their time):** Set up hosting, databases, CI/CD pipelines, monitoring, backups, security measures
 - **Documentation (5% of their time):** Write technical documentation, API docs, deployment guides, troubleshooting procedures
 - **Support (5% of their time):** Debug technical issues during pilot, provide participant tech support, fix bugs as they arise
+
+**UI/UX/CX Product Advisor (Matt Kitt - 25% time):**
+
+- **Portal UI/UX design (40% of their time):** Design web portal interface including user authentication, chat interface with inline agent switching, conversation history, mobile-responsive layouts, and onboarding flow
+- **Accessibility & inclusive design (25% of their time):** Design "Guided mode" toggle for simplified UI, create interfaces for low digital literacy users, optimize for low bandwidth, ensure accessibility for underserved populations
+- **User testing & iteration (20% of their time):** Conduct usability testing with participants, gather UX feedback, refine interface based on user behavior, optimize user flows and experience
+- **Participant-facing materials design (10% of their time):** Design onboarding materials, welcome experience, user-facing documentation, and visual communication assets
+- **Documentation & handoff (5% of their time):** Create design documentation, style guides, component libraries, and UI specifications for engineering implementation
 
 ---
 
@@ -688,7 +702,7 @@ Example: Cohorts 1-5 might all be Phase 1, testing different participant populat
 - Group themes and patterns
 - Facilitator guidance that applies to their situation
 **Technical requirement:** Transcript distribution via portal, CoS parsing capability
-**Owner:** Brendan Veranth (implementation), Matt Paxman (workflow design)
+**Owner:** Brendan Veranth (implementation), Matt Paxman (workflow design), Matt Kitt (UI/UX/CX Product Advisor)
 
 ---
 

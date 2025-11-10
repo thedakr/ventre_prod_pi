@@ -302,14 +302,14 @@ gantt
 
 ```mermaid
 graph LR
-    subgraph PM ["Product Manager/PI"]
+    subgraph PM ["Product Manager/PI<br/>(Matt Paxman)"]
         PM1[Manage Expert<br/>Relationships]
         PM2[Schedule<br/>Sessions]
         PM3[Strategic<br/>Review]
         PM4[Partnership<br/>Development]
     end
 
-    subgraph Edu ["Methodology & Cohort Facilitator"]
+    subgraph Edu ["Methodology & Cohort Facilitator<br/>(Agueda Schwartz)"]
         Edu1[Lead Material<br/>Analysis]
         Edu2[Lead Expert<br/>Sessions]
         Edu3[Draft<br/>Framework]
@@ -317,11 +317,19 @@ graph LR
         Edu5[Design<br/>Curriculum]
     end
 
-    subgraph AI ["AI Engineer (50%)"]
+    subgraph AI ["AI Engineer - 50%<br/>(Brendan Veranth)"]
         AI1[Prototype<br/>Architecture]
         AI2[Implement<br/>Agents]
         AI3[Translate Specs<br/>to Prompts]
         AI4[Fidelity<br/>Testing]
+        AI5[Build Portal<br/>Backend]
+    end
+
+    subgraph UX ["UI/UX/CX Product Advisor - 25%<br/>(Matt Kitt)"]
+        UX1[Design Portal<br/>Mockups]
+        UX2[Accessibility<br/>Design]
+        UX3[User Testing]
+        UX4[Onboarding<br/>Materials]
     end
 
     subgraph Experts ["Methodology Experts"]
@@ -337,10 +345,14 @@ graph LR
     AI2 --> Edu4
     AI4 --> Exp3
     PM3 --> Edu3
+    UX1 --> AI5
+    UX3 --> PM3
+    UX4 --> Edu5
 
     style PM fill:#FFB6C1
     style Edu fill:#87CEEB
     style AI fill:#98FB98
+    style UX fill:#DDA0DD
     style Experts fill:#FFD700
 ```
 

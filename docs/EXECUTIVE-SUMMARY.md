@@ -24,72 +24,52 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
 
 **Product Manager/PI (Matt Paxman):**
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>Product strategy and vision (30%)</li>
-<li>Operations and logistics (20%)</li>
-<li>Partnership and outreach (20%)</li>
-<li>Team coordination (15%)</li>
-<li>Agent development & refinement (10%)</li>
-<li>Budget and admin (5%)</li>
-</ul>
-
-</div>
+- Product strategy and vision (30%)
+- Operations and logistics (20%)
+- Partnership and outreach (20%)
+- Team coordination (15%)
+- Agent development & refinement (10%)
+- Budget and admin (5%)
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
-
-<div style="margin-left: 0; padding-left: 0;">
+<td width="50%" valign="top">
 
 **Methodology & Cohort Facilitator (Agueda Schwartz):**
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>Methodology research & aggregation (30%)</li>
-<li>Cohort facilitation (30%)</li>
-<li>Operations & logistics (15%)</li>
-<li>Research and evaluation (15%)</li>
-<li>Iteration (5%)</li>
-<li>Documentation (5%)</li>
-</ul>
-
-</div>
+- Methodology research & aggregation (30%)
+- Cohort facilitation (30%)
+- Operations & logistics (15%)
+- Research and evaluation (15%)
+- Iteration (5%)
+- Documentation (5%)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
-
-<div style="margin-left: 0; padding-left: 0;">
+<td width="50%" valign="top">
 
 **AI/Software Engineer (Brendan Veranth - 50% time):**
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>AI agent implementation (50% of their time)</li>
-<li>Web portal development (30% of their time)</li>
-<li>Infrastructure/DevOps (10% of their time)</li>
-<li>Documentation (5% of their time)</li>
-<li>Support (5% of their time)</li>
-</ul>
-
-</div>
+- AI agent implementation (50% of their time)
+- Web portal development (30% of their time)
+- Infrastructure/DevOps (10% of their time)
+- Documentation (5% of their time)
+- Support (5% of their time)
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
-
-<div style="margin-left: 0; padding-left: 0;">
+<td width="50%" valign="top">
 
 **UI/UX/CX Product Advisor (Matt Kitt - 25% time):**
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>Portal UI/UX design (40% of their time)</li>
-<li>Accessibility & inclusive design (25% of their time)</li>
-<li>User testing & iteration (20% of their time)</li>
-<li>Participant-facing materials design (10% of their time)</li>
-<li>Documentation & handoff (5% of their time)</li>
-</ul>
-
-</div>
+- Portal UI/UX design (40% of their time)
+- Accessibility & inclusive design (25% of their time)
+- User testing & iteration (20% of their time)
+- Participant-facing materials design (10% of their time)
+- Documentation & handoff (5% of their time)
 
 </td>
 </tr>
@@ -144,20 +124,20 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>The team has high uncertainty (specs untested with real users)</li>
-<li>Limited resources demand efficiency</li>
-</ul>
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
+
+- The team has high uncertainty (specs untested with real users)
+- Limited resources demand efficiency
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>Learning > Perfection at this stage</li>
-<li>Every delay = participants who could benefit don't</li>
-</ul>
+- Learning > Perfection at this stage
+- Every delay = participants who could benefit don't
 
 </td>
 </tr>
@@ -169,20 +149,16 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>Don't burn out the team (sustainable pace!)</li>
-<li>Communicate transparency to participants ("We're learning together")</li>
-</ul>
+- Don't burn out the team (sustainable pace!)
+- Communicate transparency to participants ("We're learning together")
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<ul style="margin-left: 0; padding-left: 20px;">
-<li>Document iterations clearly</li>
-<li>Define iteration cycles (2-week sprints, monthly retrospectives)</li>
-</ul>
+- Document iterations clearly
+- Define iteration cycles (2-week sprints, monthly retrospectives)
 
 </td>
 </tr>
@@ -314,37 +290,29 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
 
-**Product Manager/PI Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Team alignment meeting (review this document)</li>
-<li>☐ Finalize MVP scope decisions (agents, portal, curriculum)</li>
-<li>☐ Identify and reach out to community partner</li>
-<li>☐ Begin participant recruitment strategy</li>
-<li>☐ Set up project management system (Notion/Asana/Linear)</li>
-<li>☐ Create budget and resource plan</li>
-</ul>
-
-</div>
+**Product Manager/PI Focus:**<br>
+[ ] Team alignment meeting (review this document)<br>
+[ ] Finalize MVP scope decisions (agents, portal, curriculum)<br>
+[ ] Identify and reach out to community partner<br>
+[ ] Begin participant recruitment strategy<br>
+[ ] Set up project management system (Notion/Asana/Linear)<br>
+[ ] Create budget and resource plan
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
-
-**Methodology & Cohort Facilitator Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Analyze partner materials (begin extraction from 500+ docs/videos)</li>
-<li>☐ Draft 4-week, 3-6-agent experience flow based on methodology findings</li>
-<li>☐ Begin facilitation guide outline (based on partner materials + consultation)</li>
-<li>☐ Design feedback collection instruments</li>
-<li>☐ Understand core entrepreneurship methodology from partner materials</li>
-</ul>
-
-</div>
+**Methodology & Cohort Facilitator Focus:**<br>
+[ ] Analyze partner materials (begin extraction from 500+ docs/videos)<br>
+[ ] Draft 4-week, 3-6-agent experience flow based on methodology findings<br>
+[ ] Begin facilitation guide outline (based on partner materials + consultation)<br>
+[ ] Design feedback collection instruments<br>
+[ ] Understand core entrepreneurship methodology from partner materials
 
 </td>
 </tr>
@@ -371,39 +339,31 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
 
-**Product Manager/PI Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Finalize partnership agreement with community org</li>
-<li>☐ Active participant recruitment (target 15-20 to get 10-15)</li>
-<li>☐ Create participant onboarding materials</li>
-<li>☐ Coordinate with Methodology & Cohort Facilitator on cohort experience design</li>
-<li>☐ Review agent builds from engineer</li>
-<li>☐ Finalize agents (co-development with engineer, prompt refinement)</li>
-</ul>
-
-</div>
+**Product Manager/PI Focus:**<br>
+[ ] Finalize partnership agreement with community org<br>
+[ ] Active participant recruitment (target 15-20 to get 10-15)<br>
+[ ] Create participant onboarding materials<br>
+[ ] Coordinate with Methodology & Cohort Facilitator on cohort experience design<br>
+[ ] Review agent builds from engineer<br>
+[ ] Finalize agents (co-development with engineer, prompt refinement)
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
-
-**Methodology & Cohort Facilitator Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Finalize cohort schedule (meeting days, business work reminders between sessions)</li>
-<li>☐ Create facilitation guide (based on methodology, partner consultation)</li>
-<li>☐ Design methodology artifact templates (weekly management reports, project reviews)</li>
-<li>☐ Set up cohort logistics (Zoom links, calendar, communications)</li>
-<li>☐ Develop feedback surveys (post-session, post-cohort)</li>
-<li>☐ Plan peer community structure (Slack/WhatsApp)</li>
-<li>☐ Define participant work expectations (business creation activities between sessions)</li>
-</ul>
-
-</div>
+**Methodology & Cohort Facilitator Focus:**<br>
+[ ] Finalize cohort schedule (meeting days, business work reminders between sessions)<br>
+[ ] Create facilitation guide (based on methodology, partner consultation)<br>
+[ ] Design methodology artifact templates (weekly management reports, project reviews)<br>
+[ ] Set up cohort logistics (Zoom links, calendar, communications)<br>
+[ ] Develop feedback surveys (post-session, post-cohort)<br>
+[ ] Plan peer community structure (Slack/WhatsApp)<br>
+[ ] Define participant work expectations (business creation activities between sessions)
 
 </td>
 </tr>
@@ -436,38 +396,30 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
 
-**Product Manager/PI Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Internal testing of agents (role-play as participant)</li>
-<li>☐ Review entrepreneurship methodology & schedule with full team</li>
-<li>☐ Finalize participant list (confirm attendance)</li>
-<li>☐ Create contingency plans (tech failures, low attendance)</li>
-</ul>
-
-</div>
+**Product Manager/PI Focus:**<br>
+[ ] Internal testing of agents (role-play as participant)<br>
+[ ] Review entrepreneurship methodology & schedule with full team<br>
+[ ] Finalize participant list (confirm attendance)<br>
+[ ] Create contingency plans (tech failures, low attendance)
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
-
-**Methodology & Cohort Facilitator Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Conduct dry-run facilitation (with team as participants)</li>
-<li>☐ Refine entrepreneurship methodology & schedule based on dry-run</li>
-<li>☐ Prepare facilitation materials (based on methodology)</li>
-<li>☐ Test methodology artifacts and agent interaction flows</li>
-<li>☐ Create participant welcome packet</li>
-<li>☐ Set up peer community space</li>
-<li>☐ Send pre-cohort orientation materials</li>
-<li>☐ Confirm all logistics (Zoom, Slack, materials)</li>
-</ul>
-
-</div>
+**Methodology & Cohort Facilitator Focus:**<br>
+[ ] Conduct dry-run facilitation (with team as participants)<br>
+[ ] Refine entrepreneurship methodology & schedule based on dry-run<br>
+[ ] Prepare facilitation materials (based on methodology)<br>
+[ ] Test methodology artifacts and agent interaction flows<br>
+[ ] Create participant welcome packet<br>
+[ ] Set up peer community space<br>
+[ ] Send pre-cohort orientation materials<br>
+[ ] Confirm all logistics (Zoom, Slack, materials)
 
 </td>
 </tr>
@@ -529,38 +481,30 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 <table>
 <tr>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
+<style>
+td ul { margin-left: 0; padding-left: 1.2em; }
+</style>
 
-**Product Manager/PI Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Attend sessions, observe</li>
-<li>☐ Collect feedback from participants</li>
-<li>☐ Support Methodology & Cohort Facilitator</li>
-<li>☐ Troubleshoot any issues</li>
-<li>☐ Document what's working and what's not</li>
-<li>☐ Begin recruiting for Cohort 2</li>
-</ul>
-
-</div>
+**Product Manager/PI Focus:**<br>
+[ ] Attend sessions, observe<br>
+[ ] Collect feedback from participants<br>
+[ ] Support Methodology & Cohort Facilitator<br>
+[ ] Troubleshoot any issues<br>
+[ ] Document what's working and what's not<br>
+[ ] Begin recruiting for Cohort 2
 
 </td>
-<td width="50%" valign="top" style="padding-left: 0;">
+<td width="50%" valign="top">
 
-<div style="margin-left: 0; padding-left: 0;">
-
-**Methodology & Cohort Facilitator Focus:**
-<ul style="margin-left: 0; padding-left: 20px; list-style-type: none;">
-<li>☐ Facilitate Sessions 1 and 2</li>
-<li>☐ Support participants throughout week</li>
-<li>☐ Monitor peer community</li>
-<li>☐ Collect qualitative feedback</li>
-<li>☐ Adapt in real-time as needed</li>
-<li>☐ Document facilitation insights</li>
-</ul>
-
-</div>
+**Methodology & Cohort Facilitator Focus:**<br>
+[ ] Facilitate Sessions 1 and 2<br>
+[ ] Support participants throughout week<br>
+[ ] Monitor peer community<br>
+[ ] Collect qualitative feedback<br>
+[ ] Adapt in real-time as needed<br>
+[ ] Document facilitation insights
 
 </td>
 </tr>

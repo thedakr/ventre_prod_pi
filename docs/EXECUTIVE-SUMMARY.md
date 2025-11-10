@@ -740,26 +740,26 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 
 **Note:** The 7 critical decisions (see `EXECUTIVE-SUMMARY-DECISIONS.md`) are resolved. These additional decisions are important but can be addressed during Phase 1 (Foundation):
 
-### 8. Materials Triage & Methodology Extraction ✅
+### 1. Materials Triage & Methodology Extraction ✅
 **Status:** STARTED (Week of Nov 1, 2025)
 **Who:** Agueda Schwartz (Methodology & Cohort Facilitator)
 **Timeline:** Ongoing throughout development cycle
 **Next Steps:** Synthesize initial frameworks from 500+ partner documents/videos
 
-### 9. Team Member Identification ✅
+### 2. Team Member Identification ✅
 **Status:** CONFIRMED
 **Team:**
 - **PM/PI:** Matt Paxman
 - **Methodology & Cohort Facilitator:** Agueda Schwartz
 - **AI/Software Engineer (50%):** Brendan Veranth
 
-### 10. Technology Stack Final Decision
+### 3. Technology Stack Final Decision
 **LLM Provider:** Open to Anthropic (Claude) or OpenAI (GPT-4) - team has strong preference for Claude
 **Who Decides:** Brendan Veranth (AI Engineer) with Matt Paxman input on cost/vendor considerations
 **Timing:** Solution Development Section 1 (Est. Weeks 1-2)
 **Other Stack Decisions:** Portal framework, database, hosting (to be determined by Brendan)
 
-### 11. Phase Roadmap & Terminology
+### 4. Phase Roadmap & Terminology
 **Note:** To avoid confusion, we use TWO different concepts:
 
 **Capability Phases (evolution of AI vs human role):**
@@ -781,20 +781,20 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 **Key Distinction:** Phases = capability evolution (pending validation). Cohorts = sequential runs (can stay in same phase).
 Example: Cohorts 1-5 might all be Phase 1, testing different participant populations or methodology refinements.
 
-### 12. Pilot Cohort Timeline ✅
+### 5. Pilot Cohort Timeline ✅
 **Target:** Mid-January 2026 cohort launch (flexible based on readiness)
 **Timeline from Now (Nov 5, 2025):** ~10 weeks development time
 **Flexible Development Sections:** Each may stretch 1.5-2x based on actual sprint velocity
 **Decision Point:** 6 weeks in, assess if mid-Jan is realistic or push to late January
 
-### 13. Data Privacy & Consent
+### 6. Data Privacy & Consent
 **Decision:** YES, create "share with us, we're learning" participant agreement
 **Action Needed:** Draft informed consent document in collaboration with legal team
 **Covers:** Data usage, conversation storage, learning/research purposes, participant rights
 **Timing:** Must be ready before cohort recruitment begins
 **Owner:** Matt Paxman (coordinate with legal)
 
-### 14. Technology Access Support
+### 7. Technology Access Support
 **Decision:** Need to determine tech participant requirements and cohort cost model
 **Questions to Answer:**
 - How many participants likely need loaner laptops? (coordinate with community partner vetting)
@@ -805,7 +805,7 @@ Example: Cohorts 1-5 might all be Phase 1, testing different participant populat
 **Timing:** Determine before recruitment (affects budget planning)
 **Owner:** Matt Paxman
 
-### 15. Group Session Transcript Integration ✅
+### 8. Group Session Transcript Integration ✅
 **Decision:** Feed full group session transcripts to each participant's Chief of Staff for context
 **Approach:** Record session → transcribe (audio extractor like Whisper, Rev, Otter.ai) → distribute full transcript to all participants → each participant's CoS parses for relevant content
 **Why this approach:**

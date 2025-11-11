@@ -20,7 +20,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ## Team Structure
 
-### 2.75-Person Team Distribution
+### 3.25-Person Team Distribution
 
 <table width="100%">
 <tr>
@@ -48,6 +48,16 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+**Learning Experience Designer (Angela Lankford - 50% time):**
+- Materials analysis & extraction (40% of their time)
+- Methodology documentation support (25% of their time)
+- Learning design & curriculum support (20% of their time)
+- Documentation review & synthesis (10% of their time)
+- Additional roles to be defined (5% of their time)
+
+</td>
 <td width="50%" valign="top">
 
 **AI/Software Engineer (Brendan Veranth - 50% time):**
@@ -261,7 +271,7 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 
 ## Development Timeline to First Cohort
 
-**Note on Timing:** The 14-16 week timeline below provides a professionally-paced schedule for a 2.75-person team. This timeline includes appropriate buffers for quality development, testing, and iteration without team burnout. We'll track sprint velocity and adjust as needed to ensure readiness and quality.
+**Note on Timing:** The 14-16 week timeline below provides a professionally-paced schedule for a 3.25-person team. This timeline includes appropriate buffers for quality development, testing, and iteration without team burnout. We'll track sprint velocity and adjust as needed to ensure readiness and quality.
 
 ### Solution Development Section 1: Foundation & Planning (Est. Weeks 1-3)
 **Goal:** Align team, define MVP, secure partner, start recruitment
@@ -798,7 +808,7 @@ Example: Cohorts 1-5 might all be Phase 1, testing different participant populat
 ## Risk Assessment
 
 ### 🟢 LOW RISK: Professionally-Paced Timeline
-**Strength:** 14-16 weeks to late February/early March cohort provides appropriate time for 2.75-person team
+**Strength:** 14-16 weeks to late February/early March cohort provides appropriate time for 3.25-person team
 **Why this works:**
 - Built-in buffers for each development section (3, 5, 4, 4 weeks respectively)
 - Sustainable pace prevents team burnout and maintains quality

@@ -8,9 +8,9 @@
 
 ## Executive Summary
 
-This document outlines the comprehensive role structure needed to deliver Vibe Entrepreneurship from concept to cohort execution. Given the 2.75-person team constraint, roles are organized into:
+This document outlines the comprehensive role structure needed to deliver Vibe Entrepreneurship from concept to cohort execution. Given the 3.25-person team constraint, roles are organized into:
 1. **Complete Role Inventory** - All roles a fully-resourced team would have
-2. **Consolidated Role Assignments** - How to distribute across 2.75 people
+2. **Consolidated Role Assignments** - How to distribute across 3.25 people
 3. **Fast-Iteration Approach** - Strategies for rapid prototyping
 4. **Underserved Population Focus** - Special considerations for target demographic
 
@@ -398,13 +398,14 @@ This document outlines the comprehensive role structure needed to deliver Vibe E
 
 ---
 
-## Part 2: Consolidated Role Assignments (2.75-Person Team)
+## Part 2: Consolidated Role Assignments (3.25-Person Team)
 
 Given your team composition:
 - **Person 1:** Matt Paxman (PM/PI) - Pseudo-tech SRE background, leadership, product management
 - **Person 2:** Agueda Schwartz (Methodology & Cohort Facilitator) - Masters in education, pedagogy, research
-- **Person 3:** Brendan Veranth (AI/Software Engineer - 50%) - Deep AI and software engineering expertise
-- **Person 4:** Matt Kitt (UI/UX/CX Product Advisor - 25%) - UI/UX design, accessibility, user experience expertise
+- **Person 3:** Angela Lankford (LXD - 50%) - Learning experience design, materials analysis, documentation
+- **Person 4:** Brendan Veranth (AI/Software Engineer - 50%) - Deep AI and software engineering expertise
+- **Person 5:** Matt Kitt (UI/UX/CX Product Advisor - 25%) - UI/UX design, accessibility, user experience expertise
 
 ### **Person 1: Matt Paxman (PM/PI) - Lead & Execute**
 
@@ -475,7 +476,38 @@ Given your team composition:
 
 ---
 
-### **Person 3: Brendan Veranth (AI/Software Engineer - 50%) - Build & Deploy**
+### **Person 3: Angela Lankford (LXD - 50%) - Materials Analysis & Learning Design**
+
+**Primary Roles:**
+1. Learning Experience Designer (100% of their 50%)
+2. Documentation Specialist (80% of their 50%)
+3. Materials Analyst (90% of their 50%)
+
+**Responsibilities:**
+- Analyze and extract methodology from materials (500+ documents)
+- Support methodology documentation and synthesis
+- Review and organize learning materials for coherence
+- Assist with curriculum design and learning pathways
+- Document patterns and insights from material analysis
+- Support facilitator guide development
+- Additional roles to be defined as project evolves
+
+**Time Allocation (Rough, within their 50%):**
+- Materials Analysis & Extraction: 40%
+- Methodology Documentation Support: 25%
+- Learning Design & Curriculum Support: 20%
+- Documentation Review & Synthesis: 10%
+- Additional Roles (TBD): 5%
+
+**Tools Needed:**
+- Documentation tools (Google Docs, Notion)
+- Analysis tools (spreadsheets, qualitative coding)
+- Learning design tools
+- Collaboration platforms
+
+---
+
+### **Person 4: Brendan Veranth (AI/Software Engineer - 50%) - Build & Deploy**
 
 **Primary Roles:**
 1. AI/ML Engineer (100% of their 50%)
@@ -510,7 +542,7 @@ Given your team composition:
 
 ---
 
-### **Person 4: Matt Kitt (UI/UX/CX Product Advisor - 25%) - Design User Experience**
+### **Person 5: Matt Kitt (UI/UX/CX Product Advisor - 25%) - Design User Experience**
 
 **Primary Roles:**
 1. UX/UI Designer (100% of their 25%)
@@ -545,7 +577,7 @@ Given your team composition:
 
 ### **Roles to Outsource, Partner, or Defer**
 
-Given your 2.75-person constraint, here are roles to handle differently:
+Given your 3.25-person constraint, here are roles to handle differently:
 
 #### **Outsource (Contract/Freelance):**
 - **Legal/Compliance Advisor:** Contract for initial setup (privacy policy, terms), consult as needed
@@ -583,7 +615,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
    - Iterating quickly means learning faster
 
 3. **Resource Constraints Demand Efficiency**
-   - 2.75-person team can't afford 6-month development cycles
+   - 3.25-person team can't afford 6-month development cycles
    - Need to validate quickly to avoid wasting limited resources
    - Fast iteration = less sunk cost if direction needs changing
 
@@ -606,7 +638,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 **Mitigation Strategies:**
 1. **Clear documentation** of each iteration (what changed and why)
 2. **Transparent communication** with participants ("This is a pilot, we're learning together")
-3. **Sustainable pace** (don't burn out the 2.75 people)
+3. **Sustainable pace** (don't burn out the 3.25 people)
 4. **Defined iteration cycles** (2-week sprints, monthly retrospectives)
 5. **Core stability** (some things stay consistent even as details iterate)
 
@@ -766,8 +798,8 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 **Weeks 3-4: Build MVP**
 - Implement 2-3 core AI agents (AI engineer)
 - Build basic web portal with authentication (AI engineer)
-- Design Week 1-4 curriculum (Education specialist)
-- Create facilitator guide for pilot (Education specialist)
+- Design Week 1-4 curriculum (Methodology & Cohort Facilitator)
+- Create facilitator guide for pilot (Methodology & Cohort Facilitator)
 - Finalize partnership agreement with community org (PM)
 
 **Weeks 5-6: Test & Iterate**
@@ -775,7 +807,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 - Refine agent prompts based on testing
 - Finalize participant recruitment (target 10-15 for pilot)
 - Prepare orientation materials
-- Dry-run facilitation (Education specialist)
+- Dry-run facilitation (Methodology & Cohort Facilitator)
 
 **Weeks 7-8: Pilot Cohort Launch**
 - Week 1 of pilot cohort
@@ -870,7 +902,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 1. **Finalize MVP scope** (agents, portal, curriculum)
 2. **Begin participant recruitment** (partner with community org)
 3. **AI engineer: Start implementing agents**
-4. **Education specialist: Draft Week 1-4 curriculum**
+4. **Methodology & Cohort Facilitator: Draft Week 1-4 curriculum**
 5. **PM: Finalize partnership agreements**
 
 ### Week 3-4:
@@ -905,8 +937,8 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 5. **AI Engineer Capacity:** Can the 50% engineer realistically deliver agents + portal in 4 weeks?
    - May need to adjust timeline or scope if not feasible
 
-6. **Facilitation:** Will you or the education specialist be the primary facilitator?
-   - Or will community partners facilitate with your training?
+6. **Facilitation:** Will Product Manager/PI or the Methodology & Cohort Facilitator be the primary facilitator?
+   - Or will community partners facilitate with training provided?
 
 7. **Technology Access:** Will participants have reliable internet and devices?
    - May need contingency plans (partner with community centers for computer access)
@@ -940,7 +972,7 @@ For your context, fast iteration is **essential**, not risky. Here's why:
 - Address barriers proactively (childcare, transportation)
 - Celebrate small wins
 
-### Risk 4: Team Burnout (2.75 people is LEAN)
+### Risk 4: Team Burnout (3.25 people is LEAN)
 **Mitigation:**
 - Realistic scope for MVP
 - Clear roles and boundaries
@@ -978,7 +1010,7 @@ You have:
 3. **Stay focused:** Don't try to solve everything in Cohort 1
 4. **Leverage partners:** Community orgs for trust and access
 5. **Measure broadly:** Business creation AND employment/capability gains
-6. **Sustainable pace:** Don't burn out your 2.75-person team
+6. **Sustainable pace:** Don't burn out your 3.25-person team
 
 You're positioned well to make this happen. Fast iteration is the RIGHT strategy given your constraints and uncertainty. Let's refine the plan and get moving.
 

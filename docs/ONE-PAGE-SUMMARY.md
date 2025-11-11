@@ -2,7 +2,7 @@
 
 **Mission:** Enable would-be entrepreneurs below poverty line to start/run businesses with AI as mentor, partner, analyst, and employee.
 
-**Target:** ≤150% US federal poverty line | **Timeline:** First cohort in 14-16 weeks | **Team:** 2.75 people
+**Target:** ≤150% US federal poverty line | **Timeline:** First cohort in 14-16 weeks | **Team:** 3.25 people
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## Critical Insight: Methodology MUST Come First
 
-**Problem:** Can't implement effective agents without first codifying the methodology they'll teach.
+**Problem:** Can't implement effective agents without first codifying the methodology individuals will engage with.
 
 **Solution:** 3-week methodology extraction (Weeks 1-3) feeds agent development (Weeks 4-8), with proper testing time before launch.
 
@@ -45,16 +45,16 @@
 
 ## This Week's Priorities (Week 1)
 
-### Priority 1: Materials Inventory (4-6 hrs, You + Edu Specialist)
+### Priority 1: Materials Inventory (4-6 hrs, Product Manager/PI + Methodology & Cohort Facilitator + LXD)
 Catalog all methodology materials, prioritize for extraction
 
-### Priority 2: Schedule Expert Sessions (30 min, You)
+### Priority 2: Schedule Expert Sessions (30 min, Product Manager/PI)
 Book 3 x 90-min sessions with methodology creators over next 3 weeks
 
-### Priority 3: Analyze Top 3 Materials (10-12 hrs, Edu Specialist)
+### Priority 3: Analyze Top 3 Materials (10-12 hrs, Methodology & Cohort Facilitator)
 Extract frameworks, principles, language from facilitator guides/docs
 
-### Priority 4: Prepare Expert Session 1 (2-3 hrs, Edu Specialist)
+### Priority 4: Prepare Expert Session 1 (2-3 hrs, Methodology & Cohort Facilitator)
 Draft agenda: methodology overview, validate material analysis, fill gaps
 
 ---
@@ -65,16 +65,18 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 2. **Community Partner:** Who specifically? When to approach?
 3. **AI Engineer Capacity:** 5 weeks (Weeks 4-8) realistic for 6 agents + portal?
 4. **Cohort Format:** Virtual (recommended), in-person, or hybrid?
-5. **Facilitation:** Education specialist lead? You supporting?
+5. **Facilitation:** Methodology & Cohort Facilitator lead? Product Manager/PI supporting?
 6. **Post-Cohort:** What ongoing support after 4 weeks?
 
 ---
 
-## Team Roles (2.75 People)
+## Team Roles (3.25 People)
 
 **Matt Paxman (PM/PI):** Strategy, partnerships, operations, expert coordination (4-8 hrs/week Weeks 1-3, scaling up throughout)
 
 **Agueda Schwartz (Methodology & Cohort Facilitator):** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-3, ongoing)
+
+**Angela Lankford (LXD - 50%):** Materials analysis, methodology extraction support, documentation review (15-20 hrs/week Weeks 1-3, additional roles to be defined)
 
 **Brendan Veranth (AI Engineer - 50%):** Agent implementation, web portal backend, technical infrastructure (ramping from 5% to 30% over Weeks 1-8)
 
@@ -94,15 +96,17 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 ## Key Documents
 
-📍 **START HERE:** `docs/EXECUTIVE-SUMMARY.md` (decisions & recommendations)
+📍 **executive-summary-2025-11-11-14-16week-timeline.md** - Comprehensive launch plan with all strategic decisions, development timeline, team roles, and risk assessment. Primary reference document for team alignment.
 
-⚡ **WEEK 1 ACTION:** `docs/QUICK-START-METHODOLOGY-EXTRACTION.md` (immediate steps)
+⚡ **QUICK-START-METHODOLOGY-EXTRACTION.md** - Week-by-week action plan for extracting entrepreneurship methodology from materials and expert sessions during first 3 weeks.
 
-📊 **VISUALIZE IT:** `docs/VISUAL-ROADMAP.md` (10 Mermaid diagrams)
+📊 **VISUAL-ROADMAP.md** - Ten Mermaid diagrams visualizing the 14-16 week timeline, team dependencies, methodology extraction process, and system architecture.
 
-📚 **DEEP DIVE:** `docs/team-roles-comprehensive.md` + `docs/methodology-extraction-plan.md`
+📚 **team-roles-comprehensive.md** - Detailed breakdown of all 3.25 team members' responsibilities, time commitments, and collaboration patterns across project phases.
 
-🛠️ **TEMPLATES:** `docs/templates/` (materials inventory, extraction, expert sessions)
+📚 **methodology-extraction-plan.md** - In-depth strategy for codifying expert methodology into framework that guides AI agent implementation and curriculum design.
+
+🛠️ **Templates** - Ready-to-use templates for materials inventory, material extraction, expert session agendas, and triage frameworks (located in templates/ folder).
 
 ---
 
@@ -137,23 +141,3 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 3. Assign Week 1 tasks (10 min)
 4. Schedule weekly syncs (5 min)
 5. Questions & blockers (10 min)
-
----
-
-## The Bottom Line
-
-**You have:** Solid strategy, detailed roadmap, practical templates, 6 agent specs, expert partners
-
-**You need:** Execute Week 1 (materials inventory, schedule experts, begin analysis), make decisions, maintain fast iteration mindset
-
-**Timeline:** 14-16 weeks to first cohort | **MVP Scope:** 6 agents, 4-week cohort, 10-15 participants
-
-**Critical path:** Methodology extraction (Weeks 1-3) → Agent implementation (Weeks 4-8) → Testing & iteration (Weeks 9-12) → Cohort launch (Weeks 13-16)
-
----
-
-**Ready?** Start with materials inventory THIS WEEK. Contact experts TODAY.
-
-**Questions?** Review `docs/EXECUTIVE-SUMMARY.md` and come with specific blockers.
-
-**LET'S GO!** 🚀

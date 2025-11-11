@@ -237,7 +237,7 @@ Cohort Structure MVP:
 - [ ] Active participant recruitment (target 15-20 to get 10-15)
 - [ ] Set up cohort logistics (Zoom links, calendar, communications)
 - [ ] Create participant onboarding materials
-- [ ] Coordinate with education specialist on curriculum
+- [ ] Coordinate with Methodology & Cohort Facilitator on curriculum
 - [ ] Review agent builds from engineer
 ```
 
@@ -247,7 +247,7 @@ Cohort Structure MVP:
 - [ ] Finalize partnership agreement with community org
 - [ ] Active participant recruitment (target 15-20 to get 10-15)
 - [ ] Create participant onboarding materials
-- [ ] Coordinate with education specialist on cohort experience design
+- [ ] Coordinate with Methodology & Cohort Facilitator on cohort experience design
 - [ ] Review agent builds from engineer
 - [ ] Finalize agents (co-development with engineer, prompt refinement)
 ```
@@ -470,7 +470,7 @@ Cohort Structure MVP:
 Despite 46% growth, these remained constant:
 
 ✅ **Mission:** Help underserved entrepreneurs (≤150% poverty line)
-✅ **Team:** 2.75 people (PM, Methodology & Cohort Facilitator, AI Engineer 50%, UI/UX/CX Product Advisor 25%)
+✅ **Team:** 3.25 people (PM, Methodology & Cohort Facilitator, LXD 50%, AI Engineer 50%, UI/UX/CX Product Advisor 25%)
 ✅ **MVP Scope:** 6 agents (Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction)
 ✅ **Target:** 10-15 participants for pilot cohort
 ✅ **Format:** Virtual cohort, 4 weeks

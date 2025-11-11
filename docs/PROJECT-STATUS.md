@@ -17,7 +17,7 @@ Your Vibe Entrepreneurship project now has a complete foundation for execution:
 - Reference materials organized
 
 ### ✅ Strategic Planning
-- Comprehensive team roles defined (15 roles → consolidated to 2.75 people)
+- Comprehensive team roles defined (15 roles → consolidated to 3.25 people)
 - 14-16 week professionally-paced development plan to first cohort
 - Fast-iteration approach validated and detailed
 - Underserved population design principles established
@@ -161,7 +161,7 @@ Your initiative rests on three hypotheses:
 **Recommendation:** Virtual initially (accessibility, distributed team)
 
 ### 5. Facilitation Lead
-**Question:** Education specialist primary? You supporting?
+**Question:** Methodology & Cohort Facilitator primary? Product Manager/PI supporting?
 
 ### 6. Post-Cohort Support
 **Question:** What happens after 4-week cohort?
@@ -198,7 +198,7 @@ Your initiative rests on three hypotheses:
 ## ⚠️ Key Risks & Mitigations
 
 ### 🟢 LOW RISK: Professionally-Paced Timeline
-**Strength:** 14-16 weeks to first cohort provides appropriate time for 2.75-person team
+**Strength:** 14-16 weeks to first cohort provides appropriate time for 3.25-person team
 **Why this works:**
 - Built-in buffers for quality work without burnout
 - Sustainable pace maintains team effectiveness

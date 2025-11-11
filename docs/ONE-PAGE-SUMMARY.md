@@ -2,7 +2,7 @@
 
 **Mission:** Enable would-be entrepreneurs below poverty line to start/run businesses with AI as mentor, partner, analyst, and employee.
 
-**Target:** ≤150% US federal poverty line | **Timeline:** First cohort in 8 weeks | **Team:** 2.75 people
+**Target:** ≤150% US federal poverty line | **Timeline:** First cohort in 14-16 weeks | **Team:** 2.75 people
 
 ---
 
@@ -28,18 +28,18 @@
 
 **Problem:** Can't implement effective agents without first codifying the methodology they'll teach.
 
-**Solution:** 4-week methodology extraction (Weeks 1-4) feeds agent development (Weeks 3-6).
+**Solution:** 3-week methodology extraction (Weeks 1-3) feeds agent development (Weeks 4-8), with proper testing time before launch.
 
 ---
 
-## 8-Week Sprint Plan
+## 14-16 Week Development Plan
 
-| Week | Methodology Track | Agent Development | Outcome |
+| Weeks | Methodology Track | Agent Development | Outcome |
 |------|-------------------|-------------------|---------|
-| **1-2** | Materials analysis + Expert Session 1 | Prototype architecture | Foundation |
-| **3-4** | Expert Sessions 2-3 + Draft framework | Implement 6 agents | Convergence |
-| **5-6** | Validate framework + Agent specs | Refine agents with methodology | Validation |
-| **7-8** | Support facilitation | Support participants | **Launch!** |
+| **1-3** | Materials analysis + Expert Sessions 1-3 + Framework draft | Prototype architecture + Orchestration | Foundation & Planning |
+| **4-8** | Agent specs + Validation | Implement 6 agents + Portal build | Build & Convergence |
+| **9-12** | Support testing + Refinement | Refine agents + Fidelity testing | Test & Iterate |
+| **13-16** | Support facilitation | Support participants | **Cohort 1 Launch!** |
 
 ---
 
@@ -63,7 +63,7 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 1. **Agent MVP:** Confirm 6 agents (Chief of Staff, Market Discovery, Methodology Coach, Business/Revenue Model, Route-to-Market, Strategic Conviction)?
 2. **Community Partner:** Who specifically? When to approach?
-3. **AI Engineer Capacity:** 4 weeks realistic for 6 agents + portal?
+3. **AI Engineer Capacity:** 5 weeks (Weeks 4-8) realistic for 6 agents + portal?
 4. **Cohort Format:** Virtual (recommended), in-person, or hybrid?
 5. **Facilitation:** Education specialist lead? You supporting?
 6. **Post-Cohort:** What ongoing support after 4 weeks?
@@ -72,11 +72,11 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 ## Team Roles (2.75 People)
 
-**Matt Paxman (PM/PI):** Strategy, partnerships, operations, expert coordination (4-8 hrs/week Weeks 1-4)
+**Matt Paxman (PM/PI):** Strategy, partnerships, operations, expert coordination (4-8 hrs/week Weeks 1-3, scaling up throughout)
 
-**Agueda Schwartz (Methodology & Cohort Facilitator):** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-4)
+**Agueda Schwartz (Methodology & Cohort Facilitator):** Methodology extraction (lead), curriculum design, facilitation (15-20 hrs/week Weeks 1-3, ongoing)
 
-**Brendan Veranth (AI Engineer - 50%):** Agent implementation, web portal backend, technical infrastructure (ramping from 5% to 30% over Weeks 1-6)
+**Brendan Veranth (AI Engineer - 50%):** Agent implementation, web portal backend, technical infrastructure (ramping from 5% to 30% over Weeks 1-8)
 
 **Matt Kitt (UI/UX/CX Product Advisor - 25%):** Portal design, accessibility, user testing, participant-facing materials (ramping based on portal development phase)
 
@@ -122,7 +122,7 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 ## Risks & Mitigations
 
-🔴 **Timeline aggressive** → Lock scope, no creep, Plan B (+2 weeks)
+🟢 **Professionally-paced timeline** → 14-16 weeks provides sustainable pace, built-in buffers, quality focus
 
 🟡 **Community partner dependency** → Prioritize relationship, have backups
 
@@ -146,9 +146,9 @@ Draft agenda: methodology overview, validate material analysis, fill gaps
 
 **You need:** Execute Week 1 (materials inventory, schedule experts, begin analysis), make decisions, maintain fast iteration mindset
 
-**Timeline:** 8 weeks to first cohort | **MVP Scope:** 6 agents, 4-week cohort, 10-15 participants
+**Timeline:** 14-16 weeks to first cohort | **MVP Scope:** 6 agents, 4-week cohort, 10-15 participants
 
-**Critical path:** Methodology extraction (Weeks 1-4) → Agent implementation (Weeks 3-6) → Cohort launch (Weeks 7-8)
+**Critical path:** Methodology extraction (Weeks 1-3) → Agent implementation (Weeks 4-8) → Testing & iteration (Weeks 9-12) → Cohort launch (Weeks 13-16)
 
 ---
 

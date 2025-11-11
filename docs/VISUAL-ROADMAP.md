@@ -1,61 +1,61 @@
 # Visual Roadmap: Vibe Entrepreneurship Launch
 
-This document contains visual diagrams showing the 8-week sprint to first cohort, with emphasis on methodology extraction feeding into agent development.
+This document contains visual diagrams showing the 14-16 week professionally-paced development timeline to first cohort, with emphasis on methodology extraction feeding into agent development.
 
 ---
 
-## 1. Overall 8-Week Timeline (Gantt Chart)
+## 1. Overall 14-16 Week Timeline (Gantt Chart)
 
 ```mermaid
 gantt
-    title Vibe Entrepreneurship: 8-Week Sprint to First Cohort
+    title Vibe Entrepreneurship: 14-16 Week Development to First Cohort
     dateFormat YYYY-MM-DD
     axisFormat Week %U
 
-    section Methodology Track
-    Materials Inventory           :m1, 2026-01-06, 2d
-    Analyze Top 3-5 Materials    :m2, 2026-01-08, 3d
-    Prepare Expert Session 1      :m3, 2026-01-09, 2d
-    Expert Session 1              :milestone, m4, 2026-01-13, 1d
-    Synthesize Session 1          :m5, 2026-01-13, 1d
-    Analyze Next 3-5 Materials    :m6, 2026-01-14, 3d
-    Pattern Synthesis             :m7, 2026-01-17, 1d
-    Expert Session 2              :milestone, m8, 2026-01-20, 1d
-    Expert Session 3              :milestone, m9, 2026-01-23, 1d
-    Draft Methodology Framework   :m10, 2026-01-20, 7d
-    Expert Validation Session     :milestone, m11, 2026-01-27, 1d
-    Finalize Framework v1.0       :m12, 2026-01-28, 3d
-    Create Agent Implementation Specs :m13, 2026-01-31, 4d
+    section Methodology Track (Weeks 1-3)
+    Materials Inventory           :m1, 2025-11-11, 3d
+    Analyze Top 3-5 Materials    :m2, 2025-11-14, 4d
+    Prepare Expert Session 1      :m3, 2025-11-15, 3d
+    Expert Session 1              :milestone, m4, 2025-11-20, 1d
+    Synthesize Session 1          :m5, 2025-11-20, 2d
+    Analyze Next 3-5 Materials    :m6, 2025-11-22, 4d
+    Pattern Synthesis             :m7, 2025-11-26, 2d
+    Expert Session 2              :milestone, m8, 2025-11-28, 1d
+    Expert Session 3              :milestone, m9, 2025-12-03, 1d
+    Draft Methodology Framework   :m10, 2025-11-28, 10d
+    Expert Validation Session     :milestone, m11, 2025-12-09, 1d
+    Finalize Framework v1.0       :m12, 2025-12-10, 4d
+    Create Agent Implementation Specs :m13, 2025-12-14, 5d
 
-    section Agent Development
-    Prototype Agent Architecture  :a1, 2026-01-06, 7d
-    Build Orchestration Framework :a2, 2026-01-13, 7d
-    Implement MVP Agents (6)      :a3, 2026-01-20, 14d
-    Refine with Methodology       :a4, 2026-02-03, 7d
-    Methodology Fidelity Testing  :a5, 2026-02-10, 7d
+    section Agent Development (Weeks 4-8)
+    Prototype Agent Architecture  :a1, 2025-12-02, 10d
+    Build Orchestration Framework :a2, 2025-12-12, 10d
+    Implement MVP Agents (6)      :a3, 2025-12-22, 21d
+    Refine with Methodology       :a4, 2026-01-12, 10d
+    Methodology Fidelity Testing  :a5, 2026-01-22, 10d
 
-    section Web Portal
-    Design Mockups                :w1, 2026-01-06, 7d
-    Build Auth System             :w2, 2026-01-20, 7d
-    Build Chat Interface          :w3, 2026-01-27, 7d
-    Mobile Responsive Design      :w4, 2026-02-03, 7d
-    Deploy & Test                 :w5, 2026-02-10, 7d
+    section Web Portal (Weeks 4-8)
+    Design Mockups                :w1, 2025-12-02, 10d
+    Build Auth System             :w2, 2025-12-22, 10d
+    Build Chat Interface          :w3, 2026-01-01, 10d
+    Mobile Responsive Design      :w4, 2026-01-11, 10d
+    Deploy & Test                 :w5, 2026-01-21, 10d
 
-    section Curriculum & Facilitation
-    Draft Week 1-8 Outline        :c1, 2026-01-13, 7d
-    Create Facilitator Guide      :c2, 2026-01-20, 7d
-    Design Exercises & Materials  :c3, 2026-01-27, 7d
-    Dry Run Facilitation          :c4, 2026-02-03, 7d
+    section Curriculum & Facilitation (Weeks 2-12)
+    Draft Week 1-4 Outline        :c1, 2025-11-20, 10d
+    Create Facilitator Guide      :c2, 2025-12-22, 10d
+    Design Exercises & Materials  :c3, 2026-01-01, 10d
+    Dry Run Facilitation          :c4, 2026-01-22, 10d
 
-    section Partnership & Recruitment
-    Identify Community Partner    :p1, 2026-01-06, 7d
-    Finalize Partnership          :p2, 2026-01-13, 7d
-    Begin Recruitment             :p3, 2026-01-20, 14d
-    Confirm 10-15 Participants    :milestone, p4, 2026-02-10, 1d
+    section Partnership & Recruitment (Weeks 1-12)
+    Identify Community Partner    :p1, 2025-11-11, 10d
+    Finalize Partnership          :p2, 2025-11-21, 10d
+    Begin Recruitment             :p3, 2025-12-22, 28d
+    Confirm 10-15 Participants    :milestone, p4, 2026-01-31, 1d
 
-    section Pilot Cohort
-    Cohort Week 1                 :milestone, pilot1, 2026-02-17, 1d
-    Cohort Week 2                 :milestone, pilot2, 2026-02-24, 1d
+    section Pilot Cohort (Weeks 13-16)
+    Cohort Week 1                 :milestone, pilot1, 2026-02-09, 1d
+    Cohort Week 2                 :milestone, pilot2, 2026-02-16, 1d
 ```
 
 ---
@@ -120,16 +120,16 @@ flowchart TD
 
 ```mermaid
 flowchart LR
-    subgraph Week1-2 ["Weeks 1-2: Foundation"]
+    subgraph Week1-3 ["Weeks 1-3: Foundation & Planning"]
         M1[Materials<br/>Inventory] --> M2[Analyze Top<br/>3-5 Materials]
         M2 --> M3[Expert<br/>Session 1]
         M3 --> M4[Pattern<br/>Synthesis]
+        M4 --> M5[Expert<br/>Sessions 2-3]
 
         A1[Prototype<br/>Agent Arch] --> A2[Build<br/>Orchestration]
     end
 
-    subgraph Week3-4 ["Weeks 3-4: Convergence"]
-        M4 --> M5[Expert<br/>Sessions 2-3]
+    subgraph Week4-8 ["Weeks 4-8: Build & Convergence"]
         M5 --> M6[Draft<br/>Framework]
         M6 --> M7[Expert<br/>Validation]
         M7 --> M8[Agent<br/>Impl Specs]
@@ -139,15 +139,17 @@ flowchart LR
         A3 --> A4[Refine with<br/>Methodology]
     end
 
-    subgraph Week5-6 ["Weeks 5-6: Validation"]
+    subgraph Week9-12 ["Weeks 9-12: Test & Iterate"]
         A4 --> A5[Methodology<br/>Fidelity Test]
         A5 --> A6[Expert<br/>Spot-Check]
         A6 --> A7[Refine<br/>Prompts]
+        A7 --> A8[Final<br/>Testing]
     end
 
-    subgraph Week7-8 ["Weeks 7-8: Launch"]
-        A7 --> P1[Cohort<br/>Week 1]
+    subgraph Week13-16 ["Weeks 13-16: Pilot Launch"]
+        A8 --> P1[Cohort<br/>Week 1]
         P1 --> P2[Cohort<br/>Week 2]
+        P2 --> P3[Continue<br/>Cohort]
     end
 
     style M8 fill:#FF6B6B,stroke:#333,stroke-width:3px
@@ -255,45 +257,45 @@ graph TB
 
 ```mermaid
 gantt
-    title Methodology Extraction: 4-Week Detailed Timeline
+    title Methodology Extraction: First 3 Weeks Detailed Timeline
     dateFormat YYYY-MM-DD
     axisFormat Week %U
 
     section Week 1
-    Materials Inventory               :m1, 2026-01-06, 2d
-    Prioritize Materials              :m2, 2026-01-08, 1d
-    Analyze Material 1 (Facil Guide)  :m3, 2026-01-08, 1d
-    Analyze Material 2 (Method Doc)   :m4, 2026-01-09, 1d
-    Analyze Material 3 (Exercises)    :m5, 2026-01-10, 1d
-    Prepare Expert Session 1 Agenda   :m6, 2026-01-09, 2d
-    Schedule Expert Sessions          :milestone, 2026-01-08, 1d
+    Materials Inventory               :m1, 2025-11-11, 3d
+    Prioritize Materials              :m2, 2025-11-14, 1d
+    Analyze Material 1 (Facil Guide)  :m3, 2025-11-14, 2d
+    Analyze Material 2 (Method Doc)   :m4, 2025-11-16, 2d
+    Analyze Material 3 (Exercises)    :m5, 2025-11-18, 2d
+    Prepare Expert Session 1 Agenda   :m6, 2025-11-15, 3d
+    Schedule Expert Sessions          :milestone, 2025-11-12, 1d
 
     section Week 2
-    Expert Session 1 - Overview       :milestone, 2026-01-13, 1d
-    Synthesize Session 1              :m7, 2026-01-13, 1d
-    Analyze Material 4                :m8, 2026-01-14, 1d
-    Analyze Material 5                :m9, 2026-01-15, 1d
-    Analyze Material 6                :m10, 2026-01-16, 1d
-    Pattern Synthesis (All Materials) :m11, 2026-01-17, 1d
-    Prepare Expert Session 2-3        :m12, 2026-01-16, 2d
+    Expert Session 1 - Overview       :milestone, 2025-11-20, 1d
+    Synthesize Session 1              :m7, 2025-11-20, 2d
+    Analyze Material 4                :m8, 2025-11-22, 2d
+    Analyze Material 5                :m9, 2025-11-24, 2d
+    Analyze Material 6                :m10, 2025-11-26, 2d
+    Pattern Synthesis (All Materials) :m11, 2025-11-26, 2d
+    Prepare Expert Session 2-3        :m12, 2025-11-25, 3d
 
     section Week 3
-    Expert Session 2 - Decision Making :milestone, 2026-01-20, 1d
-    Synthesize Session 2               :m13, 2026-01-20, 1d
-    Expert Session 3 - Underserved     :milestone, 2026-01-23, 1d
-    Synthesize Session 3               :m14, 2026-01-23, 1d
-    Draft Framework Part 1             :m15, 2026-01-20, 3d
-    Draft Framework Part 2             :m16, 2026-01-23, 4d
+    Expert Session 2 - Decision Making :milestone, 2025-11-28, 1d
+    Synthesize Session 2               :m13, 2025-11-28, 2d
+    Expert Session 3 - Underserved     :milestone, 2025-12-03, 1d
+    Synthesize Session 3               :m14, 2025-12-03, 2d
+    Draft Framework Part 1             :m15, 2025-11-28, 4d
+    Draft Framework Part 2             :m16, 2025-12-02, 5d
 
-    section Week 4
-    Complete Framework Draft           :m17, 2026-01-27, 2d
-    Send to Experts for Review         :milestone, 2026-01-29, 1d
-    Expert Validation Session          :milestone, 2026-01-31, 1d
-    Incorporate Feedback               :m18, 2026-02-01, 2d
-    Create Agent Impl Spec - CoS       :m19, 2026-02-01, 2d
-    Create Agent Impl Spec - Market    :m20, 2026-02-03, 2d
-    Create Agent Impl Spec - Method    :m21, 2026-02-02, 2d
-    Finalize Framework v1.0            :milestone, 2026-02-04, 1d
+    section Weeks 3-4 Transition
+    Complete Framework Draft           :m17, 2025-12-07, 3d
+    Send to Experts for Review         :milestone, 2025-12-10, 1d
+    Expert Validation Session          :milestone, 2025-12-12, 1d
+    Incorporate Feedback               :m18, 2025-12-13, 3d
+    Create Agent Impl Spec - CoS       :m19, 2025-12-14, 2d
+    Create Agent Impl Spec - Market    :m20, 2025-12-16, 2d
+    Create Agent Impl Spec - Method    :m21, 2025-12-18, 2d
+    Finalize Framework v1.0            :milestone, 2025-12-20, 1d
 ```
 
 ---
@@ -486,19 +488,17 @@ mindmap
 
 ```mermaid
 timeline
-    title Methodology Extraction Success Milestones
+    title Development Success Milestones (14-16 Week Timeline)
 
-    Week 1 End : Materials Inventoried : Top 3-5 Analyzed : Expert Sessions Scheduled : Provisional Understanding
+    Week 3 End : Materials Inventoried : Top Materials Analyzed : Expert Sessions Done : Provisional Framework
 
-    Week 2 End : Expert Session 1 Done : Top 6-10 Materials Analyzed : Pattern Synthesis Complete : Sessions 2-3 Scheduled
+    Week 8 End : Framework v1.0 Finalized : Agent Impl Specs Created : MVP Agents Built : Portal Foundation Complete
 
-    Week 3 End : All 3 Expert Sessions Done : Framework Drafted : Expert Validation Scheduled
+    Week 12 End : Agents Implemented : Methodology Embedded : Fidelity Testing Complete : Final Refinements Done
 
-    Week 4 End : Framework v1.0 Finalized : Agent Impl Specs Created : Ready for Agent Development
+    Week 14 End : First Cohort Launched : Participants Using Agents : Feedback Collection Started : Real-world Validation Begins
 
-    Week 6 End : Agents Implemented : Methodology Embedded : Fidelity Testing Complete
-
-    Week 8 End : First Cohort Launched : Participants Using Agents : Feedback Collection Started
+    Week 16 End : Cohort 1 Complete : Learnings Documented : Iteration Plan for Cohort 2 Ready
 ```
 
 ---
@@ -543,7 +543,7 @@ flowchart TD
 ## How to Use These Diagrams
 
 ### **For Team Alignment:**
-- Use **Diagram 1 (Gantt)** to show overall 8-week timeline
+- Use **Diagram 1 (Gantt)** to show overall 14-16 week professionally-paced timeline
 - Use **Diagram 3 (Parallel Tracks)** to show methodology + agent development convergence
 
 ### **For Methodology Extraction:**

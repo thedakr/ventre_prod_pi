@@ -1,0 +1,6 @@
+ #5 - Study Links Provided:
+  - Amazon hiring AI gender bias: https://www.reuters.com/article/us-amazon-com-jobs-automation-insight-idUSKCN1MK08G
+  - Facial recognition racial bias: http://proceedings.mlr.press/v81/buolamwini18a.html
+  - COMPAS criminal justice bias: https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing
+  - GPT-3 anti-Muslim bias: https://arxiv.org/abs/2101.05783
+  - Job advertising gender bias: https://www.degruyter.com/document/doi/10.1515/popets-2015-0007/pdf

@@ -18,12 +18,12 @@
 
 **Without this:**
 - Agents will default to generic startup frameworks (Lean Startup, BMC, etc.)
-- You'll lose the unique value of your methodology partners' approach
+- The project will lose the unique value of the methodology partners' approach
 - The methodology specifically suited for underserved populations won't be captured
-- Agents won't know when/how to adapt for your target demographic
+- Agents won't know when/how to adapt for the target demographic
 
 **With this:**
-- Agents teach YOUR specific methodology
+- Agents guide entrepreneurs using the project's specific methodology
 - Framework is optimized for 150% poverty line and below
 - Unique differentiation from generic programs
 - Evidence-based approach (proven with real engagements)

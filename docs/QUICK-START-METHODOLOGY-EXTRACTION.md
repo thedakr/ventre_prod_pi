@@ -2,7 +2,7 @@
 
 **Goal:** Distill the entrepreneurship mastery framework from materials and experts within 3 weeks
 
-**Why:** You can't implement effective AI agents without first codifying the methodology they'll teach.
+**Why:** You can't implement effective AI agents without first codifying the methodology individuals will engage with.
 
 ---
 
@@ -90,7 +90,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 1: Expert Session 1
 **Action:** Conduct methodology overview and validation session
-- **Who:** Methodology & Cohort Facilitator (lead) + You (attend)
+- **Who:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (attend)
 - **Time:** 90 minutes + 2-3 hours synthesis
 - **Agenda:** `docs/templates/expert-session-1-agenda.md`
 - **Output:** Session recording + synthesis document
@@ -247,7 +247,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 ## Red Flags to Watch For
 
 🚩 **"We don't have time for materials analysis"**
-→ You'll build agents that teach generic advice, not YOUR methodology
+→ You'll build agents that provide generic advice, not the project's specific methodology
 
 🚩 **"Let's just ask experts everything"**
 → You'll waste their time on things already documented
@@ -268,9 +268,9 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 - [ ] Materials inventory template copied and ready to use
 - [ ] Material extraction template understood
 - [ ] Methodology & Cohort Facilitator has 15-20 hrs/week Weeks 1-3
-- [ ] You (PM) have 4-8 hrs/week for expert management and review
+- [ ] Product Manager/PI has 4-8 hrs/week for expert management and review
 - [ ] Expert availability confirmed for 3-4 sessions over next 3 weeks
-- [ ] Clear on why this matters (agents can't teach what isn't codified)
+- [ ] Clear on why this matters (agents can't guide effectively without codified methodology)
 
 ---
 
@@ -351,14 +351,14 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 ## Why This Matters (Reminder)
 
 Without codifying the methodology:
-- ❌ Agents will teach generic Lean Startup / Business Model Canvas (available anywhere)
-- ❌ You'll lose the unique value of your expert partners
+- ❌ Agents will provide generic Lean Startup / Business Model Canvas guidance (available anywhere)
+- ❌ The project will lose the unique value of the expert partners
 - ❌ Methodology optimized for underserved populations won't be captured
-- ❌ Agents won't know when/how to adapt for your target demographic
-- ❌ You'll essentially be building generic AI entrepreneurship assistants, not YOUR program
+- ❌ Agents won't know when/how to adapt for the target demographic
+- ❌ The result will be generic AI entrepreneurship assistants, not the project's unique program
 
 With the methodology codified:
-- ✅ Agents teach YOUR specific approach
+- ✅ Agents guide entrepreneurs using the project's specific approach
 - ✅ Framework optimized for ≤150% poverty line participants
 - ✅ Unique differentiation from generic programs
 - ✅ Evidence-based approach (proven with real participants)

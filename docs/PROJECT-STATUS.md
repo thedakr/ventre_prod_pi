@@ -112,14 +112,14 @@ Your initiative rests on three hypotheses:
 
 ### Priority 1: Materials Inventory (Day 1-2)
 - [ ] **Action:** Catalog all methodology materials
-- [ ] **Who:** You + Methodology & Cohort Facilitator
+- [ ] **Who:** Product Manager/PI + Methodology & Cohort Facilitator
 - [ ] **Time:** 4-6 hours
 - [ ] **Template:** `docs/templates/materials-inventory.md`
 - [ ] **Output:** Prioritized list of materials for extraction
 
 ### Priority 2: Schedule Expert Sessions (Day 1-2)
 - [ ] **Action:** Contact methodology experts, book 3 sessions
-- [ ] **Who:** You (PM)
+- [ ] **Who:** Product Manager/PI
 - [ ] **Time:** 30 minutes
 - [ ] **Sessions:**
   - Session 1: Methodology Overview & Validation (90 min)

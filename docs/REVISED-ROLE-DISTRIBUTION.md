@@ -442,9 +442,9 @@
 ✅ Tighter methodology-agent alignment (PM bridges both)
 ✅ PM makes informed product decisions (understands technical constraints)
 
-### **For You (PM):**
-✅ Leverages your tech background (SRE experience)
-✅ Keeps you hands-on (not just coordinating)
+### **For Product Manager/PI:**
+✅ Leverages SRE leadership background and technical depth
+✅ Keeps PM hands-on (not just coordinating)
 ✅ Builds valuable skill (prompt engineering is hot)
 ✅ Direct control over agent quality (product vision)
 

@@ -1012,8 +1012,8 @@ You have:
 5. **Measure broadly:** Business creation AND employment/capability gains
 6. **Sustainable pace:** Don't burn out your 3.25-person team
 
-You're positioned well to make this happen. Fast iteration is the RIGHT strategy given your constraints and uncertainty. Let's refine the plan and get moving.
+The team is positioned well to make this happen. Fast iteration is the RIGHT strategy given the constraints and uncertainty. Let's refine the plan and get moving.
 
 ---
 
-**Next Step:** Let's discuss the open questions and finalize your 2-month sprint plan.
+**Next Step:** Let's discuss the open questions and finalize the 2-month sprint plan.

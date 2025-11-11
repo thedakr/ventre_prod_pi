@@ -401,7 +401,7 @@ This document outlines the comprehensive role structure needed to deliver Vibe E
 ## Part 2: Consolidated Role Assignments (3.25-Person Team)
 
 Given your team composition:
-- **Person 1:** Matt Paxman (PM/PI) - Pseudo-tech SRE background, leadership, product management
+- **Person 1:** Matt Paxman (PM/PI) - Multi-year SRE manager ($12MM infrastructure, $150MM business), Product Manager of infrastructure innovation, leadership
 - **Person 2:** Agueda Schwartz (Methodology & Cohort Facilitator) - Masters in education, pedagogy, research
 - **Person 3:** Angela Lankford (LXD - 50%) - Learning experience design, materials analysis, documentation
 - **Person 4:** Brendan Veranth (AI/Software Engineer - 50%) - Deep AI and software engineering expertise

@@ -80,7 +80,7 @@
 
 **Rationale:**
 - Agueda brings entrepreneurship methodology expertise
-- Matt brings product/systems thinking and SRE experience
+- Matt brings product/systems thinking and SRE leadership experience (multi-year manager of SRE group, managed $12MM infrastructure for $150MM business)
 - Co-facilitation provides coverage and diverse perspectives
 - Both available across time zones (Eastern + Mountain)
 

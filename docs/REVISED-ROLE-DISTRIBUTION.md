@@ -8,7 +8,9 @@
 ## Why This Makes Sense
 
 **Product Manager/PI Background:**
-- ✅ Pseudo-tech (SRE experience)
+- ✅ Multi-year manager of SRE group
+- ✅ Managed $12MM in technology infrastructure undergirding a $150MM business
+- ✅ Product Manager of infrastructure innovation
 - ✅ Hardware performance & innovation focus
 - ✅ Systems thinking (how components work together)
 - ✅ Product management mindset (understands what agents need to do)
@@ -577,4 +579,4 @@
 - Methodology & Cohort Facilitator owns learning design
 - Team is more efficient with clear domains
 
-**Your SRE background makes this work!** You have systems thinking, technical depth, and product mindset - perfect for agent development. 🚀
+**The Product Manager/PI's SRE leadership background makes this work!** Multi-year experience managing SRE teams and $12MM in technology infrastructure provides systems thinking, technical depth, and product mindset - perfect for agent development. 🚀

@@ -2,7 +2,7 @@
 
 **Approach:** Workflow-driven (not deadline-driven) | **Learn velocity as we go** | **Sustainable pace**
 
-**Last Updated:** 2025-11-11
+**Last Updated:** 2025-11-03
 
 ---
 

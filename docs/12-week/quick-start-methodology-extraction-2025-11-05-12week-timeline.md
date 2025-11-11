@@ -1,6 +1,6 @@
 # Quick Start: Methodology Extraction
 
-**Goal:** Distill the entrepreneurship mastery framework from materials and experts within 3 weeks
+**Goal:** Distill the entrepreneurship mastery framework from materials and experts within 4 weeks
 
 **Why:** You can't implement effective AI agents without first codifying the methodology they'll teach.
 
@@ -156,7 +156,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 ### Begin Methodology Framework Drafting
 **Action:** Start writing the comprehensive framework document
 - **Who:** Methodology & Cohort Facilitator (primary author)
-- **Time:** 15-20 hours over Week 3
+- **Time:** 15-20 hours over Week 3-4
 - **Structure:** See methodology extraction plan, Phase 3, Step 3.1
 
 **Framework includes:**
@@ -173,7 +173,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ---
 
-## End of Week 3 / Start of Week 4: Framework Validation + Agent Specs
+## Week 4: Framework Validation + Agent Specs
 
 ### Expert Validation Session (Optional Session 4)
 **Action:** Show experts your draft framework, get feedback
@@ -190,7 +190,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 ### Create Agent Implementation Specs
 **Action:** Translate methodology framework into agent-specific guidance
 - **Who:** Methodology & Cohort Facilitator (content) + AI Engineer (feasibility review)
-- **Time:** 4-6 hours per agent (MVP = 6 agents = 24-36 hours)
+- **Time:** 4-6 hours per agent (MVP = 3 agents = 12-18 hours)
 - **Output:** Implementation spec for each MVP agent
 
 **For each agent:**
@@ -202,13 +202,10 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 - Handoff criteria to human facilitator
 - Adaptations for underserved populations
 
-**MVP Agents (6 total):**
+**MVP Agents:**
 1. Chief of Staff (coordinator)
-2. Market Discovery & Validation (customer research)
+2. Market Discovery (customer research - most critical for beginners)
 3. Methodology Coach (teaches frameworks)
-4. Business & Revenue Model (pricing, unit economics)
-5. Route-to-Market & GTM (customer acquisition)
-6. Strategic Conviction Keeper (pivot vs. persevere)
 
 ---
 
@@ -216,7 +213,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### 1. Methodology & Cohort Facilitator is the Lead
 **Why:** Pedagogy expertise, understands learning design
-**Time required:** 40-50% for Weeks 1-3 (15-20 hours/week)
+**Time required:** 40-50% for Weeks 1-4 (15-20 hours/week)
 **If not feasible:** Adjust timeline or bring in support
 
 ### 2. Materials Analysis Must Happen First
@@ -235,12 +232,11 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 **Especially:** Adaptations for underserved populations
 
 ### 5. Parallel Track with Agent Development
-**Why:** Efficient use of team time across 14-16 week timeline
+**Why:** You can't wait 4 weeks to start building
 **Approach:**
-- Weeks 1-3: Methodology extraction (this document's focus)
-- Weeks 4-8: AI Engineer implements 6 agents + portal with methodology
-- Weeks 9-12: Refine agents based on methodology fidelity testing
-- Weeks 13-16: Cohort launch and real-world validation
+- Week 1-2: AI Engineer prototypes basic architecture
+- Week 3-4: AI Engineer implements agents with methodology
+- Week 5-6: Refine agents based on methodology fidelity testing
 
 ---
 
@@ -267,7 +263,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 - [ ] Materials inventory template copied and ready to use
 - [ ] Material extraction template understood
-- [ ] Methodology & Cohort Facilitator has 15-20 hrs/week Weeks 1-3
+- [ ] Methodology & Cohort Facilitator has 15-20 hrs/week Weeks 1-4
 - [ ] You (PM) have 4-8 hrs/week for expert management and review
 - [ ] Expert availability confirmed for 3-4 sessions over next 3 weeks
 - [ ] Clear on why this matters (agents can't teach what isn't codified)

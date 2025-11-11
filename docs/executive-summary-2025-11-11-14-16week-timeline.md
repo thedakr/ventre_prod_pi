@@ -26,10 +26,6 @@ This document outlines the team structure, MVP scope, launch strategy, and roadm
 <tr>
 <td width="50%" valign="top">
 
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
-
 **Product Manager/PI (Matt Paxman):**
 - Product strategy and vision (30%)
 - Operations and logistics (20%)
@@ -123,10 +119,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
 
 **Why:**
 
@@ -278,10 +270,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 <tr>
 <td width="50%" valign="top">
 
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
-
 **Product Manager/PI Focus:**<br>
 [ ] Team alignment meeting (review this document)<br>
 [ ] Finalize MVP scope decisions (agents, portal, curriculum)<br>
@@ -326,10 +314,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
 
 **Product Manager/PI Focus:**<br>
 [ ] Finalize partnership agreement with community org<br>
@@ -383,10 +367,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
 
 **Product Manager/PI Focus:**<br>
 [ ] Internal testing of agents (role-play as participant)<br>
@@ -468,10 +448,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
 
 **Product Manager/PI Focus:**<br>
 [ ] Attend sessions, observe<br>
@@ -657,10 +633,6 @@ td ul { margin-left: 0; padding-left: 1.2em; }
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-<style>
-td ul { margin-left: 0; padding-left: 1.2em; }
-</style>
 
 **Cohort 1 will log:**
 

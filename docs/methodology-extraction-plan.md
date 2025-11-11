@@ -9,7 +9,7 @@
 
 ## Why This Matters
 
-**Critical Insight:** You can't implement effective AI agents without first codifying the methodology they'll teach and guide.
+**Critical Insight:** The team can't implement effective AI agents without first codifying the methodology individuals will engage with.
 
 **The Gap:**
 - You have agent specifications (what agents should DO)
@@ -105,7 +105,7 @@ Location: [File path or link]
 ```
 
 **Deliverable:** Complete materials inventory spreadsheet
-**Owner:** You (PM) + Methodology & Cohort Facilitator
+**Owner:** Product Manager/PI + Methodology & Cohort Facilitator
 **Time:** 4-6 hours
 
 ---
@@ -202,7 +202,7 @@ Location: [File path or link]
 ```
 
 **Deliverable:** Extraction document for each high-priority material
-**Owner:** Methodology & Cohort Facilitator (lead) + You (support)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (support)
 **Time:** Week 1-2, ~15-20 hours total (depends on material volume)
 
 ---
@@ -253,7 +253,7 @@ Location: [File path or link]
 ```
 
 **Deliverable:** Methodology synthesis document (materials-based)
-**Owner:** Methodology & Cohort Facilitator (lead) + You (review)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (review)
 **Time:** 4-6 hours
 
 ---
@@ -309,7 +309,7 @@ Location: [File path or link]
 [Specific questions about poverty-line participants]
 ```
 
-**Owner:** Methodology & Cohort Facilitator (draft) + You (review)
+**Owner:** Methodology & Cohort Facilitator (draft) + Product Manager/PI (review)
 **Time:** 2-3 hours
 
 ---
@@ -348,7 +348,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 - Synthesize key insights within 24 hours
 
 **Deliverable:** Session 1 synthesis document
-**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (attend)
 
 ---
 
@@ -381,7 +381,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 - **Adapt:** How do you adapt when a participant isn't getting it?
 
 **Deliverable:** Session 2 synthesis document (decision-making frameworks)
-**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (attend)
 
 ---
 
@@ -412,7 +412,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 5. **Wrap-up (5 min):** Final questions, gratitude
 
 **Deliverable:** Session 3 synthesis document (underserved adaptations)
-**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (attend)
 
 ---
 
@@ -437,7 +437,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 4. **Final questions (10 min):** Any remaining gaps
 
 **Deliverable:** Refined methodology framework with expert validation
-**Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (attend)
 
 ---
 
@@ -482,7 +482,7 @@ You'll get better knowledge with 3-4 focused sessions than one long brain dump.
 - How should agents embody this methodology?
 
 **Deliverable:** Comprehensive methodology framework (materials + expert synthesis)
-**Owner:** Methodology & Cohort Facilitator (lead) + You (review)
+**Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (review)
 **Time:** 6-8 hours
 
 ---
@@ -809,7 +809,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 
 #### **Day 1-2: Materials Inventory (HIGHEST PRIORITY)**
 - [ ] **Action:** List all materials you have
-- [ ] **Owner:** You + Methodology & Cohort Facilitator (4-6 hours)
+- [ ] **Owner:** Product Manager/PI + Methodology & Cohort Facilitator (4-6 hours)
 - [ ] **Deliverable:** Materials inventory spreadsheet
 - [ ] **Why first:** You need to know what you have before you can analyze it
 
@@ -833,7 +833,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 
 #### **End of Week 1: Schedule Expert Sessions**
 - [ ] **Action:** Book Expert Sessions 1, 2, 3 (ideally within next 2-3 weeks)
-- [ ] **Owner:** You (30 min)
+- [ ] **Owner:** Product Manager/PI (30 min)
 - [ ] **Deliverable:** Confirmed meeting times
 - [ ] **Why:** Lock in their availability now
 
@@ -843,7 +843,7 @@ If they get stuck, offer examples: [from methodology materials]..."
 
 #### **Day 1: Expert Session 1 (Methodology Overview & Validation)**
 - [ ] **Action:** Conduct 90-min session with methodology experts
-- [ ] **Owner:** Methodology & Cohort Facilitator (lead) + You (attend)
+- [ ] **Owner:** Methodology & Cohort Facilitator (lead) + Product Manager/PI (attend)
 - [ ] **Deliverable:** Session notes and recording
 - [ ] **Why:** Validate material analysis, get overview
 

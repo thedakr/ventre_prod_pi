@@ -215,7 +215,7 @@
   - Expert prep: ___ hrs
 - **Buffer:** ___ hrs (for unexpected)
 
-### PM (You):
+### Product Manager/PI:
 - **Available hours:** ___ hrs/week
 - **Allocated to:**
   - Materials triage support: ___ hrs

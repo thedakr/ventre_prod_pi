@@ -7,7 +7,7 @@
 
 ## Why This Makes Sense
 
-**Your Background:**
+**Product Manager/PI Background:**
 - ✅ Pseudo-tech (SRE experience)
 - ✅ Hardware performance & innovation focus
 - ✅ Systems thinking (how components work together)

@@ -26,7 +26,7 @@ Get oriented with materials and experts. Establish extraction velocity. Build en
 ### 📍 Current Focus (Priority Order)
 
 #### **Priority 1: Strategic Materials Triage** ⏳ Estimated: 4-8 hours
-**Who:** Methodology & Cohort Facilitator (lead) + You (support)
+**Who:** Methodology & Cohort Facilitator (lead) + LXD (support) + Product Manager/PI (support)
 
 **Don't catalog all 500+ docs in detail!** Instead, triage:
 
@@ -49,7 +49,7 @@ Get oriented with materials and experts. Establish extraction velocity. Build en
 ---
 
 #### **Priority 2: Schedule Expert Sessions** ⏳ Estimated: 30 min
-**Who:** You (PM)
+**Who:** Product Manager/PI
 
 **Why urgent:** Expert availability is the constraint, lock it in!
 
@@ -95,7 +95,7 @@ Get oriented with materials and experts. Establish extraction velocity. Build en
 ---
 
 #### **Priority 4: Prepare Expert Session 1** ⏳ Estimated: 2-3 hours
-**Who:** Methodology & Cohort Facilitator (draft) + You (review)
+**Who:** Methodology & Cohort Facilitator (draft) + Product Manager/PI (review)
 
 **Action:**
 1. Review 3 cornerstone material extractions
@@ -355,7 +355,7 @@ flowchart TD
 
 ---
 
-### Track 2: You (PM/PI)
+### Track 2: Product Manager/PI
 
 **Phase 1-2:**
 - Expert relationship management (4-8 hrs/week)

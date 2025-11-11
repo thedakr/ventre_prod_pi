@@ -25,7 +25,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 1-2: Materials Inventory (HIGHEST PRIORITY)
 **Action:** List everything you have
-- **Who:** You + Methodology & Cohort Facilitator
+- **Who:** Product Manager/PI + Methodology & Cohort Facilitator + LXD
 - **Time:** 4-6 hours
 - **Template:** `docs/templates/materials-inventory.md`
 - **Output:** Complete list of all methodology materials with priorities
@@ -50,7 +50,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 3-5: Analyze Top 3-5 Materials
 **Action:** Deep extraction from high-priority materials
-- **Who:** Methodology & Cohort Facilitator (primary)
+- **Who:** Methodology & Cohort Facilitator (lead) + LXD (support)
 - **Time:** 10-12 hours (2-3 hours per material)
 - **Template:** `docs/templates/material-extraction.md`
 - **Output:** Extraction document for each material
@@ -63,7 +63,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Day 4-5: Prepare for Expert Session 1
 **Action:** Draft agenda based on initial material analysis
-- **Who:** Methodology & Cohort Facilitator (draft) + You (review)
+- **Who:** Methodology & Cohort Facilitator (draft) + Product Manager/PI (review)
 - **Time:** 2-3 hours
 - **Template:** `docs/templates/expert-session-1-agenda.md`
 - **Output:** Session 1 agenda with targeted questions
@@ -75,7 +75,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### End of Week 1: Schedule Expert Sessions
 **Action:** Book time with methodology experts
-- **Who:** You (PM)
+- **Who:** Product Manager/PI
 - **Time:** 30 minutes
 - **Output:** 3 sessions scheduled (90 min each)
 
@@ -304,7 +304,7 @@ You need to **extract, synthesize, and codify** the methodology into a framework
 
 ### Priority 1: Materials Inventory (Day 1-2)
 - [ ] Copy `docs/templates/materials-inventory.md` to `docs/materials-inventory.md`
-- [ ] You + Methodology & Cohort Facilitator: Spend 4-6 hours cataloging everything
+- [ ] Product Manager/PI + Methodology & Cohort Facilitator + LXD: Spend 4-6 hours cataloging everything
 - [ ] Prioritize materials (HIGH/MEDIUM/LOW)
 - [ ] Identify top 3-5 for immediate analysis
 
